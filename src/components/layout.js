@@ -12,7 +12,9 @@ class Layout extends React.Component {
     const rootPath = `${__PATH_PREFIX__}/`
     let header
 
+    let hasContent = true
     if (location.pathname === rootPath) {
+      hasContent = false
       header = (
         <div className="homePageHeader">
           <h1
@@ -37,14 +39,14 @@ class Layout extends React.Component {
           <p>Hey, I'm Neha.</p>
           <p>I'm a Winterfell-based Frontend Developer trying to stick people with the pointy end. I previously knew nothing but had the honor to meet Jaqen H'ghar.</p>
           <nav className="main-nav">
-            <a href="#">LinkedIn</a>
-            <a href="#">Resume</a>
+            <a href="https://www.linkedin.com/">LinkedIn</a>
+            <Link to={"/resume/"}>Resume</Link>
             <Link to={"/blogs"}>Blogs</Link>
-            <a href="#">Twitter</a>
+            <a href="https://twitter.com/niphadkarneha">Twitter</a>
           </nav>
         </div>
       )
-    } else if (post != undefined) {
+    } else if (post !== undefined) {
       header = (
         <div style={{paddingBottom: `4rem`}}>
           <nav
@@ -107,7 +109,7 @@ class Layout extends React.Component {
             {header}
           </div>
         </header>
-        <main>{children}</main>
+        {hasContent && <main>{children}</main>}
         <footer>
           © {new Date().getFullYear()}, Neha Niphadkar. All right reserved.
         </footer>

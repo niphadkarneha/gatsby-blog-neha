@@ -14,7 +14,7 @@ class BlogIndex extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="Blog" />
         <ul>
-          {posts.map(({ node }) => {
+          {posts.filter(item => item.node.fields.slug !== '/resume/').map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
             return (
               <li key={node.fields.slug}>
