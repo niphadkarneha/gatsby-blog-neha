@@ -6,10 +6,32 @@ Wordpress2016.overrideThemeStyles = () => {
     "a.gatsby-resp-image-link": {
       boxShadow: `none`,
     },
+    "h1": {
+      fontFamily: ["Lora", "serif"].join(",")
+    }
   }
 }
 
-delete Wordpress2016.googleFonts
+Wordpress2016.baseFontSize = "16px"
+Wordpress2016.googleFonts = [
+  {
+    name: 'Lora',
+    styles: [
+      '400',
+      '700'
+    ],
+  },
+  {
+    name: 'Source Sans Pro',
+    styles: [
+      '400',
+      '700'
+    ],
+  },
+]
+Wordpress2016.headerFontFamily = ["Lora", "serif"]
+Wordpress2016.bodyFontFamily = ["Lora", "serif"]
+
 
 const typography = new Typography(Wordpress2016)
 
