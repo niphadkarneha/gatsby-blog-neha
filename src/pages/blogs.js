@@ -13,18 +13,20 @@ class BlogIndex extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="Blog" />
-        <ul>
-          {posts.filter(item => item.node.fields.slug !== '/resume/').map(({ node }) => {
-            const title = node.frontmatter.title || node.fields.slug
-            return (
-              <li key={node.fields.slug}>
-                <Link style={{ boxShadow: `none`, fontSize:"21px", textDecoration:"none", fontStyle:"normal" }} to={node.fields.slug}>
-                  {title}
-                </Link>
-              </li>
-            )
-          })}
-        </ul>
+        <div>
+          <ul>
+            {posts.filter(item => item.node.fields.slug !== '/resume/').map(({ node }) => {
+              const title = node.frontmatter.title || node.fields.slug
+              return (
+                <li key={node.fields.slug}>
+                  <Link style={{ boxShadow: `none`, fontSize:"21px", textDecoration:"none", fontStyle:"normal" }} to={node.fields.slug}>
+                    {title}
+                  </Link>
+                </li>
+              )
+            })}
+          </ul>
+        </div>
       </Layout>
     )
   }

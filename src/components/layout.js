@@ -65,7 +65,7 @@ class Layout extends React.Component {
               }}
               to={`/`}
             >
-              {title}
+              ← Back to Home
             </Link>
           </nav>
           <p style={{
@@ -77,28 +77,34 @@ class Layout extends React.Component {
       )
     } else {
       header = (
-        <div>
-          <h1>
+        <div style={{paddingBottom: `0rem`}}>
+          <nav
+            className="font-sans"
+            style={{
+              paddingBottom: "2rem"
+            }}
+          >
             <Link
               style={{
                 boxShadow: `none`,
                 textDecoration: `none`,
-                color: `inherit`,
+                color: "rgb(48, 54, 67)",
+                fontWeight: "normal",
                 fontStyle: "normal"
               }}
               to={`/`}
             >
-              {title}
+              ← Back to Home
             </Link>
-          </h1>
+          </nav>
+          <h1 style={{ marginTop: 0 }}>{title}</h1>
 
           <Bio/>
         </div>
       )
     }
     return (
-      <div
-      >
+      <React.Fragment>
         <header
           style={{
             background: `rgb(235, 237, 242)`,
@@ -113,7 +119,7 @@ class Layout extends React.Component {
         <footer>
           © {new Date().getFullYear()}, Neha Niphadkar. All right reserved.
         </footer>
-      </div>
+      </React.Fragment>
     )
   }
 }
