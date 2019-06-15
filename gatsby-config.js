@@ -3,7 +3,7 @@ module.exports = {
     title: `Neha Niphadkar`,
     author: `Neha Niphadkar`,
     description: `Blog site of Neha Niphadkar`,
-    siteUrl: `https://neha.dev`,
+    siteUrl: `https://www.nehaniphadkar.in/`,
     social: {
       twitter: `niphadkarneha`,
     },
