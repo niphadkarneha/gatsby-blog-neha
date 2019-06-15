@@ -18,32 +18,15 @@ class Layout extends React.Component {
       hasContent = false
       header = (
         <div className="homePageHeader">
-          <h1
-            style={{
-              ...scale(1.5),
-              marginBottom: rhythm(1.5),
-              marginTop: 0,
-            }}
-          >
-            <Link
-              style={{
-                boxShadow: `none`,
-                textDecoration: `none`,
-                color: `inherit`,
-                fontStyle: "normal"
-              }}
-              to={`/`}
-            >
-              {title}
-            </Link>
-          </h1>
-          <p>Hey, I'm Neha.</p>
-          <p>I'm a Winterfell-based Frontend Developer trying to stick people with the pointy end. I previously knew nothing but had the honor to meet Jaqen H'ghar.</p>
+          <h1>Hey, I'm Neha.</h1>
+          <p>I'm a student at Old Dominion University and I'm currently finishing up a Master's degree in Computer Science. Apart from being a full time student, I'm also a Research and Teaching Assistant for the Department of Computer Science.</p>
+          <p>Outside of the world of computers, I am a traveller. I was born with wanderlust, I get that from my parents.  
+      I'm also an amateur photographer and a complete movie buff. I am a GoT fan (irrespective of the last season).</p>
           <nav className="main-nav">
-            <a href="https://www.linkedin.com/">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/niphad/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
             <Link to={"/resume/"}>Resume</Link>
             <Link to={"/blogs"}>Blogs</Link>
-            <a href="https://twitter.com/niphadkarneha">Twitter</a>
+            <a href="https://twitter.com/niphadkarneha" target="_blank" rel="noopener noreferrer">Twitter</a>
           </nav>
         </div>
       )
@@ -72,7 +55,7 @@ class Layout extends React.Component {
           </nav>
           <p style={{
             color: "rgb(89, 92, 98)",
-            fontSize: "1.25rem"
+            fontSize: "0.5 rem"
           }}>{post.frontmatter.date}</p>
           <h1 style={{ marginTop: 0 }}>{post.frontmatter.title}</h1>
         </div>
