@@ -14,6 +14,7 @@ class Layout extends React.Component {
 
     let hasContent = true
     if (location.pathname === rootPath) {
+      // When its home page
       hasContent = false
       header = (
         <div className="homePageHeader">
@@ -47,6 +48,7 @@ class Layout extends React.Component {
         </div>
       )
     } else if (post !== undefined) {
+      // When its a blog details page
       header = (
         <div style={{paddingBottom: `4rem`}}>
           <nav
@@ -76,6 +78,7 @@ class Layout extends React.Component {
         </div>
       )
     } else {
+      // any other pages
       header = (
         <div style={{paddingBottom: `0rem`}}>
           <nav
