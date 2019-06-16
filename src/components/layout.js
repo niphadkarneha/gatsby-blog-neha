@@ -7,7 +7,7 @@ import "./layout.css"
 
 class Layout extends React.Component {
   render() {
-    const { location, title, children, post } = this.props
+    const { location, title, children, post, showBio } = this.props
 
     const rootPath = `${__PATH_PREFIX__}/`
     let header
@@ -26,6 +26,7 @@ class Layout extends React.Component {
             <a href="https://www.linkedin.com/in/niphad/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
             <Link to={"/resume/"}>Resume</Link>
             <Link to={"/blogs"}>Blogs</Link>
+            <Link to={"/projects"}>Projects</Link>
             <a href="https://twitter.com/niphadkarneha" target="_blank" rel="noopener noreferrer">Twitter</a>
           </nav>
         </div>
@@ -85,7 +86,8 @@ class Layout extends React.Component {
           </nav>
           <h1 style={{ marginTop: 0 }}>{title}</h1>
 
-          <Bio/>
+          {showBio && <Bio />}
+          {!showBio && <div style={{ marginBottom: "1rem", display: "block", height: '1px'}}></div>}
         </div>
       )
     }
