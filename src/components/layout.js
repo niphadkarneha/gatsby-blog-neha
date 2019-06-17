@@ -22,11 +22,12 @@ class Layout extends React.Component {
           <p>I'm a student at Old Dominion University and I'm currently finishing up a Master's degree in Computer Science. Apart from being a full time student, I'm also a Research and Teaching Assistant for the Department of Computer Science.</p>
           <p>Outside of the world of computers, I am a traveller. I was born with wanderlust, I get that from my parents.  
       I'm also an amateur photographer and a complete movie buff. I am a GoT fan (irrespective of the last season).</p>
+      <p>This summer I decided to capture everything I know, everything that helped me as a student.</p>
           <nav className="main-nav">
-            <a href="https://www.linkedin.com/in/niphad/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-            <Link to={"/resume/"}>Resume</Link>
-            <Link to={"/blogs"}>Blogs</Link>
             <Link to={"/projects"}>Projects</Link>
+            <Link to={"/blogs"}>Blogs</Link>
+            <Link to={"/resume/"}>Resume</Link>
+            <a href="https://www.linkedin.com/in/niphad/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
             <a href="https://twitter.com/niphadkarneha" target="_blank" rel="noopener noreferrer">Twitter</a>
           </nav>
         </div>
@@ -34,7 +35,7 @@ class Layout extends React.Component {
     } else if (post !== undefined) {
       // When its a blog details page
       header = (
-        <div style={{paddingBottom: `4rem`}}>
+        <div style={{paddingBottom: `2rem`}}>
           <nav
             className="font-sans"
             style={{
