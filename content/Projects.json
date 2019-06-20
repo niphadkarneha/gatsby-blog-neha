@@ -5,28 +5,13 @@
     "github": "https://niphadkarneha.github.io/"
   },
   {
-    "title": "Blender3js",
-    "description": "An Example To Show How To Do Blender+ThreeJS+Browserify",
-    "github": "https://github.com/niphadkarneha/gatsby-blog-neha"
+    "title": "Gatherly",
+    "description": "Social Media website - HTML, CSS, AJAX, and JavaScript",
+    "github": "https://github.com/AbelWeldaregay/Gatherly-Social-Media-Website"
   },
   {
-    "title": "Blender3js",
-    "description": "An Example To Show How To Do Blender+ThreeJS+Browserify",
-    "github": "https://github.com/niphadkarneha/gatsby-blog-neha"
-  },
-  {
-    "title": "Blender3js",
-    "description": "An Example To Show How To Do Blender+ThreeJS+Browserify",
-    "github": "https://github.com/niphadkarneha/gatsby-blog-neha"
-  },
-  {
-    "title": "Blender3js",
-    "description": "An Example To Show How To Do Blender+ThreeJS+Browserify",
-    "github": "https://github.com/niphadkarneha/gatsby-blog-neha"
-  },
-  {
-    "title": "Blender3js",
-    "description": "An Example To Show How To Do Blender+ThreeJS+Browserify",
-    "github": "https://github.com/niphadkarneha/gatsby-blog-neha"
+    "title": "Gatherly-Mobile",
+    "description": "Android application built for Gatherly",
+    "github": "https://github.com/niphadkarneha/GatherlyMobile"
   }
 ]
