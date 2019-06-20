@@ -1,6 +1,6 @@
 ---
 title: The Basics
-date: "2019-06-16T21:53:43+00:00"
+date: "2019-06-20T21:53:43+00:00"
 ---
 
 Just like any other developer out there, I had to get started with Git. Now for someone who is learning
