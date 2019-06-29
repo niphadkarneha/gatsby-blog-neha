@@ -30,8 +30,8 @@ main {
 footer {
     max-width: 1000px;
     color: rgb(89, 92, 98);
-    margin: 6rem auto 0px;
-    padding: 2rem;
+    margin: 4rem auto 0px;
+    padding: 1rem;
 }
 
 main p {
