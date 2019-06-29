@@ -7,7 +7,7 @@ I'm a Master's student at Old Dominion University, expected to gradute in Decemb
 
 - [nniph00@odu.edu](https://www.nehaniphadkar.in)
 - [niphadkarneha@gmail.com](mailto:niphadkarneha@gmail.com)
-- Norfolk, VA
+- Graduate School is located in Norfolk, VA
 
 ## Technical Skills
 
