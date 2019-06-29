@@ -1,8 +1,9 @@
 ---
-title: Computer Science Graduate profile
+title: Computer Science Graduate Student
+date: "2019-05-30T08:34:09+00:00"
 ---
 
-Driven and versatile developer who cares about writing clean, efficient code and maintaining modern standards and security.
+I'm a Master's student at Old Dominion University, expected to gradute in December 2019. This page is an informal resume.
 
 - [nniph00@odu.edu](https://www.nehaniphadkar.in)
 - [niphadkarneha@gmail.com](mailto:niphadkarneha@gmail.com)
@@ -20,7 +21,8 @@ Driven and versatile developer who cares about writing clean, efficient code and
 
 #### Graduate Research Assistant
 **Old Dominion University** - _2018 - Present | Norfolk,VA_
-- Enhancing user experience by creating applications for smart devices.
+- Computational support for evaluating images of flora and fauna. Increasing the detection rate using a combination of Yolo.V3 and Coco dataset.
+- Design and implementation of an Android application to enhance the Accessibility feature.
 
 #### Graduate Teaching Assistant
 **Old Dominion University** - _2018 - Present | Norfolk,VA_
@@ -55,7 +57,7 @@ Yashraj Ahluwalia - The Moonshot Factory [Google].
 - [Gatherly](http://qav2.cs.odu.edu/fordFanatics/index.php) - Social media website made in collaboration with [@AbelWeldaregay](https://github.com/AbelWeldaregay).
 - [Gatherly - Mobile](https://github.com/niphadkarneha/GatherlyMobile) - Android application built so that Gatherly will have a mobile presence.
 - Golden Palace - Android application for Moroccan food receipes. This project was done for the App development for Smart devices.
-- Profiling for Authentication and Authorization, Data Mining and Security.
+- Profiling for Authentication and Authorization, Data Mining and Security. (Weka and Python)
 
 ## Conferences
 
@@ -81,6 +83,7 @@ Yashraj Ahluwalia - The Moonshot Factory [Google].
 # Volunteer work
 
 - Summer 2019 worshop at ODU.
-- Summer workshop in Data Science and Machine Learning. [ML@ODU](https://sites.wp.odu.edu/dscamp/)
+- Summer 2018 workshop in Data Science and Machine Learning. [ML@ODU](https://sites.wp.odu.edu/dscamp/)
 - Summer 2018 worshop at ODU.
 - Graduation photoshoot for Department of Computer Science, ODU - 2018 - 2019
+- Graduation photoshoot for Department of Computer Science, ODU - 2017 - 2018
