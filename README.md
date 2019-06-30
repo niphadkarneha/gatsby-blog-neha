@@ -19,7 +19,7 @@ Navigate to `localhost:8000`.
 
 - Kyle Mathews - [One who introduced GatsbyJS to the world.](https://www.bricolage.io/blog/)
 - Tania Rascia - [Full stack developer and an inspiration](https://www.taniarascia.com/)
-- Ruben Harutyunyan - [Gatsby Advanced Starter](https://github.com/vagr9k/gatsby-advanced-starter/)
+- Leko Arts - [gatsby-starter-prismic](https://github.com/LekoArts/gatsby-starter-prismic)
 - Muhammad Muhsin - [Using React Context API with Gatsby](https://www.gatsbyjs.org/blog/2019-01-31-using-react-context-api-with-gatsby/)
 - Thomas Frössman - [ExitWP](https://github.com/thomasf/exitwp) - WordPress XML to Markdown
 
