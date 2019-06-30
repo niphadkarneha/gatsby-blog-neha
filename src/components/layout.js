@@ -19,7 +19,7 @@ class Layout extends React.Component {
       header = (
         <div className="homePageHeader">
           <h1>Hey, I'm Neha.</h1>
-          <p>I’m a student at Old Dominion University in Norfolk, Virginia where I’m working on finishing a master’s degree in Computer Science. Just to keep impossibly busy, I’m also a Research and Teaching Assistant in my department</p>
+          <p>I’m a student at Old Dominion University in Norfolk, Virginia where I’m working on finishing a master’s degree in Computer Science. Just to keep impossibly busy, I’m also a Research and Teaching Assistant in my department.</p>
           <p>When summer rolled along, I thought I’d try something new by building a React site to share the things I’ve learned on my journey to becoming a programmer.</p>
           <p>And this is it. </p>
           <p>Thanks for coming on board. As an inveterate wanderer, amateur photographer and hopeless movie buff, you can expect to see a few pet topics creep into what is essentially an introduction to all things Neha.</p>

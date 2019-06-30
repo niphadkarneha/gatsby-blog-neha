@@ -1,6 +1,6 @@
 ---
 title: How did I end up with all things Tech.
-date: "2015-05-06T23:46:37.121Z"
+date: "2019-05-06T23:46:37.121Z"
 ---
 
 A Greek philosopher named Heraclitus taught me early on that "Change is the only constant". I've carried that with me ever since. Unless you change, unless you learn, you will never grow. I made my career change into
