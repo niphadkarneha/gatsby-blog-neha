@@ -1,6 +1,6 @@
 ---
-title: One Book A Month: Reading for 15-30 minutes every day
-date: "2019-07-03T16:39:17+00:00 "
+title: One Book A Month
+date: "2019-07-03T16:39:17+00:00"
 description: Getting into the habit of reading every day.
 ---
 
