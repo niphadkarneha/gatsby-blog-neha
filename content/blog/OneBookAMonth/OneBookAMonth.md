@@ -7,7 +7,7 @@ description: Getting into the habit of reading every day.
 I read everything from newspapers to books, from advertisments on a billboard to ads on subways and buses.
 Before I started graduate school I read non-fiction, fiction, and biographies. Later on the genre of my readings switched to strictly academics - Journal articles, Research papers, and textbooks.
 
-Now that I am towards the end of my degree I'm trying to find a balance in what I read. For every article or book that I read on programming I balance it with an article or a book that I completely unrelated to my field. I've gotten into the habit of reading for about 15-30 minutes everyday, be it with my morning cup of tea or at night before I go to bed. It helps me focus better, I think I am more centered when I read. I intend to read one book every month, 12 books in a year. This is an achievable goal. Here's a list of both, academic and non-academic book's I have read since 2019 started.
+Now that I am towards the end of my degree I'm trying to find a balance in what I read. For every article or book that I read on programming I balance it with an article or a book that is completely unrelated to my field. I've gotten into the habit of reading for about 15-30 minutes everyday be it with my morning cup of tea or at night before I go to bed. It helps me focus better, I think I am more centered when I read. I love reading articles and blogs written on [Medium](https://medium.com/) and  I intend to read one book every month, 12 books in a year. Here's a list of both, academic and non-academic book's I have read since 2019 started.
 
 ## Books I've read in 2019
 
