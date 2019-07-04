@@ -19,7 +19,7 @@ This page will tell you a little more about me
 
 I've gotten into the habit of reading for 15-30 minutes every day. My readings include blogs, tutorials, books, 
 research papers, journal articles, ACM etc. Besides finishing up my masters and hunting for a job, I aim to read one book
-a month besides my daily reads and have 12 books at the end of the year. We are in the month of July and you can find the list of books that I've already read [hear](./OneBookAMonth)
+a month besides my daily reads and have 12 books at the end of the year. We are in the month of July and you can find the list of books that I've already read [hear](./OneBookAMonth/index.md)
 
 ## Timeline
 
