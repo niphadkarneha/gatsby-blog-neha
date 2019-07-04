@@ -17,9 +17,9 @@ This page will tell you a little more about me
 
 ## Books
 
-In my spare time I do feed the bibliophile in me
-- [All Over the Place: Adventures in Travel, True Love, and Petty Theft](https://www.amazon.com/dp/B01LL8C228/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Currently reading)
-- [The Phoenix Project](https://itrevolution.com/wp-content/uploads/files/PhoenixProjectExcerpt.pdf)
+I've gotten into the habit of reading for 15-30 minutes every day. My readings include blogs, tutorials, books, 
+research papers, journal articles, ACM etc. Besides finishing up my masters and hunting for a job, I aim to read one book
+a month besides my daily reads and have 12 books at the end of the year. We are in the month of July and you can find the list of books that I've already read [hear](./OneBookAMonth)
 
 ## Timeline
 
