@@ -4,13 +4,13 @@ date: "2019-06-20T21:53:43+00:00"
 ---
 
 Just like any other developer out there, I had to get started with Git. Now for someone who is learning
-how to code, "Git" can be a bit challenging. Especially if you've never worked in a team before. When I started working as a Research Assistant for the Department of Computer Science at Old Dominion University, I was introduced to an File Transfer Protocol (FTP) called, "FileZilla". It was free and easy to use. During my first two semesters that all we used to transfer files to and from the server. I used FTP to complete and host a lot of my class projects. It did the job well.
+how to code, "Git" can be a bit challenging. Especially if you've never worked in a team before. When I started working as a Research Assistant for the Department of Computer Science at Old Dominion University, I was working with a File Transfer Protocol (FTP) called, "FileZilla". It was free and easy to use. During my first two semesters that's all we used to transfer files to and from the server. I used FTP to complete and host a lot of my class and research projects. It sufficed the need of the hour.
 
 However,
 
 > To err is human - Alexander Pope.
 
-there might have come a time when you would have accidentally overwritten a file or deleted an important folder unintentionally. It has happened to all of us one point or the other. That's when, "Version Control Systems" come in place. There are different kinds of VCS depending on usage like CVS, SVN, Mercurial, Bazaar, and Git. We started using git for both our web and mobile projects. I've almost only worked on Android for the past year and half. Android Studio has an amazing integration with Git for source control mamangement.
+There might have come a time when you would have accidentally overwritten a file or deleted an important folder unintentionally. It has happened to all of us at one point or the other. That's where, "Version Control Systems" come in place. There are different kinds of VCS depending on usage like CVS, SVN, Mercurial, Bazaar, and Git. We started using git for both our web and mobile projects. I've almost only worked on Android for the past year and half. Android Studio has an amazing integration with Git for source control mamangement.
 
 
 ## What is Git?
@@ -19,10 +19,10 @@ Git is a free and open source distributed version control system designed to han
 
 You can find the git manual right here - [Git](https://git-scm.com/docs). Once you've read the manual you can take a small quiz that will test you knowledge of Git.
 
-> Disclaimer: This quiz is not polished. It was a basic [quiz](https://happy-noyce-67af4f.netlify.com/) that I created while I was learning React.
+> Disclaimer: This quiz is not polished. It was a basic [quiz](https://happy-noyce-67af4f.netlify.com/) that I created while I was learning React. LinkedIn introduced a quiz of their own, which you can boast about in your profile.
 
 
-Remember Git is not Github. If you don't want to go through the entire manual, I've mentioned someone commands that should get you started.
+Remember Git is not Github. If you don't want to go through the entire manual, I've mentioned some commands that should get you started.
 
 ### Installing Git on Mac
 
@@ -54,17 +54,17 @@ folder on your computer by the name, "New folder" you can go to that folder usin
 - pwd: Will tell you everything that is there in this new folder.
 - mkdir: Will help you create a new folder/directory on your computer. 
 
-Lets go step by step now
+Lets go step by step now and we will be using the CLI.
 
 1. Create a folder
 
 > mkdir website
 
-2. Go to this directory
+2. Go to the workin directory we just created. CD stands for, "Change directory"
 
 > cd website
 
-3. Let's make an html page
+3. Let's make an html page inside our working directory and let's name it, "index.html"
 
 > touch index.html
 
@@ -86,11 +86,11 @@ Type these 3 lines
 
 > open index.html
 
-This will open up your browser and by now you should see, "Hello World!"
+This will open up your browser and by now you should see, "Hello World!".
 
-Now we want to make sure that you save up all the hardwork that you've just put in and it does not get lost anywhere.
+Now we want to make sure that you save up all the hardwork that you've just put in and it does not get lost. For this we will put or store our index.html page on github.  You'll need to know few basic commands for git and I've mentioned them below
 
-## Basic Git command reference
+## Basic Git command for reference
 
 - git config: Configure Git
 - git init: Initialize Git repository
@@ -103,7 +103,7 @@ Now we want to make sure that you save up all the hardwork that you've just put 
 
 All of the future commands we do today will only apply to your local Git environment. However, there is one important global step to take before doing anything else - configure your Git account.
 
-Configure your global Git account.
+Configure your global Git account. Open your terminal and copy paste these commands one by once.
 
 > git config --global user.name "Firstname Lastname"
 > git config --global user.email username@email.com
@@ -134,8 +134,4 @@ will go something like this, "nothing added to commit but untracked files presen
 > git commit -m "adding the html file"
 > git push origin master
 
-Now refresh your GitHub page. Success! All your files are now hosted at Github.com!
-
-
-
-
+Now refresh your GitHub page. Success! All your files are now stored on Github.com!
