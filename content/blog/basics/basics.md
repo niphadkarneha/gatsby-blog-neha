@@ -15,14 +15,12 @@ There might have come a time when you would have accidentally overwritten a file
 
 ## What is Git?
 
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
-
-You can find the git manual right here - [Git](https://git-scm.com/docs). Once you've read the manual you can take a small quiz that will test you knowledge of Git.
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. You can find the git manual right here - [Git](https://git-scm.com/docs). Once you've read the manual you can take a small quiz that will test you knowledge of Git.
 
 > Disclaimer: This quiz is not polished. It was a basic [quiz](https://happy-noyce-67af4f.netlify.com/) that I created while I was learning React. LinkedIn introduced a quiz of their own, which you can boast about in your profile.
 
 
-Remember Git is not Github. If you don't want to go through the entire manual, I've mentioned some commands that should get you started.
+Remember Git is not Github. If you don't want to go through the entire manual, I've mentioned some basic commands that should get you started.
 
 ### Installing Git on Mac
 

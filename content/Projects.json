@@ -1,10 +1,5 @@
 [
   {
-    "title": "Old portfolio",
-    "description": "Basic HTML, CSS, and JavaScript site.",
-    "github": "https://niphadkarneha.github.io/"
-  },
-  {
     "title": "Gatherly",
     "description": "Social Media website - HTML, CSS, AJAX, and JavaScript. #ClassProject",
     "github": "https://github.com/AbelWeldaregay/Gatherly-Social-Media-Website"
@@ -13,5 +8,10 @@
     "title": "Gatherly-Mobile",
     "description": "Android application built for Gatherly. Java and Firebase. #ClassProject",
     "github": "https://github.com/niphadkarneha/GatherlyMobile"
+  },
+  {
+    "title": "Small Programs",
+    "description": "Learning somethine new everyday. #WardCunningam #Julie&Julia",
+    "github": "https://github.com/niphadkarneha/SmallPrograms"
   }
 ]
