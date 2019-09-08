@@ -5,8 +5,8 @@ Personal website running on Gatsby, React, and Node.js.
 ## [Setting Up Your Development Environment](https://www.gatsbyjs.org/tutorial/part-zero/)
 
 ```bash
-git clone https://github.com/niphadkarneha/site.git
-cd site
+git clone https://github.com/niphadkarneha/gatsby-blog-neha.git
+cd gatsby-blog-neha
 gatsby develop
 ```
 

@@ -4,6 +4,7 @@ date: "2019-05-30T08:34:09+00:00"
 ---
 
 I'm a Master's student at Old Dominion University, expected to gradute in December 2019. This page is an informal resume.
+You can download the formal resume [here](/resumeNehaNiphadkar.pdf)
 
 - [nniph00@odu.edu](https://www.nehaniphadkar.in)
 - [niphadkarneha@gmail.com](mailto:niphadkarneha@gmail.com)
@@ -11,11 +12,11 @@ I'm a Master's student at Old Dominion University, expected to gradute in Decemb
 
 ## Technical Skills
 
-- **Languages** - Java, PHP, HTML5, CSS3, Bash
-- **Concepts** - RESTful API Design/Integration, MVC Architecture, CI/CD, Agile, ADA Compliance
-- **Tools/Environment** - Node.js, Git, Webpack, Jenkins, Chrome DevTools, Jira, AWS, CLI, Sass
-- **Frameworks/Libraries** - React, jQuery, Semantic UI, Material, Bootstrap, Jest
-- **Data** - SQL (MySQL, PostgreSQL) GraphQL, JSON
+- **Languages** - Java, PHP, HTML5, CSS3, Bash, Python
+- **Concepts** - Agile Process
+- **Tools/Environment** - Node.js, Git, Jenkins, Chrome DevTools, Jira, AWS, CLI, Sass
+- **Frameworks/Libraries** - React, jQuery, Semantic UI, Material, Bootstrap
+- **Data** - SQL (MySQL, PostgreSQL), JSON
 
 ## Experience
 
