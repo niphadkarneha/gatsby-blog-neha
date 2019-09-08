@@ -4,7 +4,7 @@ date: "2019-05-30T08:34:09+00:00"
 ---
 
 I'm a Master's student at Old Dominion University, expected to gradute in December 2019. This page is an informal resume.
-You can download the formal resume [here](/resumeNehaNiphadkar.pdf)
+You can download the formal resume [here](/resumeNehaNiphadkar.pdf){:target="_blank"}_.
 
 - [nniph00@odu.edu](https://www.nehaniphadkar.in)
 - [niphadkarneha@gmail.com](mailto:niphadkarneha@gmail.com)
