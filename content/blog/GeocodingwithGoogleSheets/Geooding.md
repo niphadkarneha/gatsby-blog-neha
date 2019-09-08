@@ -166,6 +166,6 @@ If you want to extract Address from Latitude and longitude: Video 2.
 
 [![Video2](./video2.jpg)](https://www.youtube.com/embed/IlZzA7FDSZc)
 
-This blog was published on (Medium)[https://medium.com/@nniph001/googles-geocode-with-sheets-337fb5e4a88b?source=friends_link&sk=832468638379b111f585614e69e88ce4].
+This blog was published on [Medium](https://medium.com/@nniph001/googles-geocode-with-sheets-337fb5e4a88b?source=friends_link&sk=832468638379b111f585614e69e88ce4).
 
 
