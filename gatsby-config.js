@@ -1,8 +1,11 @@
 module.exports = {
   siteMetadata: {
+    siteTitle: 'Neha Niphadkar',
+    siteTitleShort: 'Neha Niphadkar',
+    siteTitleAlt: 'Neha Niphadkar',
     title: `Neha Niphadkar`,
     author: `Neha Niphadkar`,
-    description: `Blog site of Neha Niphadkar`,
+    description: `Neha Niphadkar is a Computer Science Graduate Student`,
     siteUrl: `https://www.nehaniphadkar.in/`,
     plugins: [`gatsby-plugin-sitemap`],
     social: {
