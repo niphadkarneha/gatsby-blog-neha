@@ -25,5 +25,5 @@ Navigate to `localhost:8000`.
 
 This project is open source and available under the [MIT License](LICENSE).
 
-[Lighthouse Report](https://lighthousereport.netlify.com)
+[Click here to view the full Lighthouse Report](https://lighthousereport.netlify.com)
 ![Report](./LighthouseReport.PNG)
