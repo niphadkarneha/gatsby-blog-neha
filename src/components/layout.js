@@ -36,11 +36,11 @@ class Layout extends React.Component {
     } else if (post !== undefined) {
       // When its a blog details page
       header = (
-        <div style={{paddingBottom: `2rem`}}>
+        <div style={{paddingBottom: `1rem`}}>
           <nav
             className="font-sans"
             style={{
-              paddingBottom: "2rem"
+              paddingBottom: "1rem"
             }}
           >
             <Link
@@ -55,7 +55,26 @@ class Layout extends React.Component {
             >
               ← Back to Home
             </Link>
-          </nav>
+            </nav>
+          <nav
+            className="font-sans"
+            style={{
+              paddingBottom: "1rem"
+            }}
+          >
+            <Link
+              style={{
+                boxShadow: `none`,
+                textDecoration: `none`,
+                color: "rgb(48, 54, 67)",
+                fontWeight: "normal",
+                fontStyle: "normal"
+              }}
+              to={`/blogs`}
+            >
+              ← Read more, Go back to the Blogs page
+            </Link>
+            </nav>
           <p style={{
             color: "rgb(89, 92, 98)",
             fontSize: "0.5 rem"

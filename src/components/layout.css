@@ -64,6 +64,10 @@ main p {
     margin-left: 0;
 }
 
+.gatsby-resp-image-figcaption {
+    text-align: center;
+}
+
 @media only screen and (max-width: 600px) {
     h1 {
         font-size: 2.369rem !important;
