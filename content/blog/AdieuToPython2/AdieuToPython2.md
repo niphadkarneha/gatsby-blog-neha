@@ -17,12 +17,15 @@ Enterprises big and small, if not already will soon migrate to Python 3. If you 
 
 Sometime ago, I helped, [Transitland-processing-animation](https://www.mapzen.com/blog/animating-transitland/) migrate from Python 2 to Python 3. One cannot dismiss the benefits of Open Source Softwares. The process of migration was easy and straightforward, tools like 2to3 will help and while they are useful, they do have some limitations. The differences in Python 2 and Python 3 are not just the differences in print statements
 
-> print 1 + 2
+```
+print 1 + 2
+```
 
 VS
 
-> print(1+2)
-
+```
+print(1+2)
+```
 
 It goes deeper into bug fixes and I'll write about them seperately, it is beyond the scope of this article. I’m going to briefly highlight how to properly install Python 3 on a Mac OS X computer.  
 
@@ -33,13 +36,17 @@ python --version and hitting Enter, if there are no errors you will most likely 
 
 Now, remember we want the latest version of Python 3 i.e. Python 3.7.4. In order to do that we need Xcode and Homebrew
 
-> xcode-select --install
- 
+```
+xcode-select --install
+```
+
 Click through all the confirmation commands. Xcode is a large program and it will take sometime to download and install. (It also depends on your internet connection)
 Next, let's install Homebrew:
 
-> /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
- 
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
 To confirm Homebrew installed correctly, run this command:
 > $ brew doctor
  
