@@ -1,6 +1,6 @@
 ---
 title: Adieu to Python 2
-date: "2019-10-01T21:53:43+00:00"
+date: "2019-10-01T00:00:00+00:00"
 ---
 
 If you began your journey on learning how to code a couple of years back and your chosen language was Python most likely you would have started with Python 2. Other programming languages can be overwhelming for beginner programmers but Python 2 can be easy to read and understand. Over the past decade, we have been gradually moving towards Python version 3. Whether Python 2 and Python 3 are different languages or the same language with different version can be a debate over cup of coffee but the pressing issue of 2019 is the change from Python 2 to Python 3.

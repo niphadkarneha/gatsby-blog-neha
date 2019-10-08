@@ -14,7 +14,7 @@ The 3 step guide to extracting latitude and longitude from addresses and extract
 ### Step 1.
 To get started open a Google Spreadsheet or Sheets. Start a new spreadsheet by clicking the ‘+’ icon. Let’s name it, ‘Demo’.
 
-![Drag Racing](./demo.png)
+![Google Sheets](./demo.png)
 
 ### Step 2.
 Click on Tools and <>Script editor.
