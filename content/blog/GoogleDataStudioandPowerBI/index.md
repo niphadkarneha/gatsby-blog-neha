@@ -80,10 +80,12 @@ Let's create some basic visualizations
 ### Visualization 1
 
 1. Go to Insert, click on, "Filter Control". Drop it at the top of the page
-2. On the right hand side, under Data. Change the dimension to, "Continent".
+2. On the right hand side, under Data. Change the dimension to, "Country".
 3. Click on Insert -> GeoMap. Drop it below the filter.
 
-![Continent](./continent.png "Web Traffic from different Continents.")
+<!-- ![Continent](./continent.png "Web Traffic from different Continents.") -->
+
+<iframe width="500" height="250" src="https://datastudio.google.com/embed/reporting/14QFZGQDLMRHDLPFSOuYkCv8PZkYz_IE_/page/Bjz2" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 I immediately get a visualization of traffic sources based on the Continent.
 
@@ -94,19 +96,25 @@ I immediately get a visualization of traffic sources based on the Continent.
 
 I get the, "Type of Visit" on a timeline. It gives me the area chart for Organic, Referral, and Direct visits to my webpage. It also tell me that visits to my webpage have gone up in the last 30 days. The maximum visits have been from a referral. If I analyze the data further, I know it is from GitHub Inc.
 
-![Area](./area.png "Types of Visits.")
+<!-- ![Area](./area.png "Types of Visits.") -->
+
+<iframe width="500" height="250" src="https://datastudio.google.com/embed/reporting/1veD3rPxFAyaZG4gDU0qPizCQNGXIMnqw/page/Aiz2" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ### Visualization 3
 
 1. Go to Insert, Pivot table
 2. On the right hand side, under Data. Change the dimension to, "Page".
 
-![Page Views](./pageviews.png "Page Views according to sources.")
+<!-- ![Page Views](./pageviews.png "Page Views according to sources.") -->
+
+<iframe width="500" height="250" src="https://datastudio.google.com/embed/reporting/1MwsfySX8rSXE75FqX3XoTwxqQYtmbQoH/page/qSV2" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 I can see how many visitors have gone beyond the first page i.e. the landing page onto other pages like blogs, projects, small programs, resume etc.
 
 ### Complete Single Page Report
 
-I've used these techniques to create a basic single page report for my [webpage](https://datastudio.google.com/s/lKdIY45K8C4). Google Analytics and Google Data Studio are free tools that are easily accessible considering they are on the cloud. You can create powerful reports to help you analyze your products and support your business goals.
+<iframe width="600" height="800" src="https://datastudio.google.com/embed/reporting/1M5eHgUEVkSdFd7C3OqdXiL-NOPlLOWkI/page/jYO2" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+I've used these techniques to create a basic single page report for my [webpage](https://datastudio.google.com/s/lKdIY45K8C4). Google Analytics and Google Data Studio are free tools that are easily accessible. You can create powerful reports to help you analyze your products and support your business goals.
 
 In the third part of this series, I'll create a similar report using PowerBI.
