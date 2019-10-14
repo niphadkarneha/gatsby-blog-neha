@@ -88,3 +88,12 @@ Yashraj Ahluwalia - The Moonshot Factory [Google].
 - Summer 2018 worshop at ODU.
 - Graduation photoshoot for Department of Computer Science, ODU - 2018 - 2019
 - Graduation photoshoot for Department of Computer Science, ODU - 2017 - 2018
+
+
+#### General Certifications
+
+Besides the regular course work, and reading technical documentation I steer my mind in directions. I love learning new things and free certifications are enticing, not for adding value to my resume but for teaching me something new. I try and complete them in a week, if I am unable to do so they go in to the sideprojects folder in my laptop.
+
+- [Google Tag Manager Fundamentals](https://analytics.google.com/analytics/academy/certificate/2NV5kQ_hSE6RB_ifYpZ71w)
+- [Introduction to Data Studio](https://analytics.google.com/analytics/academy/certificate/x7AIf5_cQ92eAHkdaF_47g)
+- [Google Analytics for Power Users](https://analytics.google.com/analytics/academy/certificate/PSdLr-jwT26M1R7Zj5FTaQ)

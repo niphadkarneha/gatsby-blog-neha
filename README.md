@@ -12,6 +12,20 @@ gatsby develop
 
 Navigate to `localhost:8000`.
 
+## Errors
+
+If you get an error like this
+
+```bash
+There was a problem loading the local develop command. Gatsby may not be installed in your site
+```
+
+Run these commands, in that particular order.
+
+```bash
+npm install
+gatsby develop
+```
 
 ## Acknowledgements
 
