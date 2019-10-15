@@ -18,7 +18,7 @@ class Layout extends React.Component {
       hasContent = false
       header = (
         <div className="homePageHeader">
-          <h1>Hey, I'm Neha.`:wave:`</h1>
+          <h1>Hey, I'm Neha.</h1>
           <p>I am a student at Old Dominion University in Norfolk, Virginia and I will be graduating in Fall 2019 with a Master’s degree in Computer Science. These past two years have been great, I have learned a lot while I was working as a Graduate Teaching and Research Assistant.</p>
           <p>When summer rolled along, I thought I’d revamp my old website and try something new, that’s when I came across GatsbyJS and I love it. I started my blog so that I could share the resources that have helped me along my journey to becoming a programmer.</p>
           <p>I enjoy learning and improving my skills with newer technologies that are ever-evolving.</p>
