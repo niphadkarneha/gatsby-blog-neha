@@ -3,32 +3,34 @@ title: Computer Science Graduate Student
 date: "2019-05-30T08:34:09+00:00"
 ---
 
-I'm a Master's student at Old Dominion University, expected to gradute in December 2019. This page is an informal resume.
-You can download the formal resume [here](/NehaNiphadkar.pdf).
+I am graduating in December 2019 with a Master's degree in Computer Science, you can find my formal resume [here](/NehaNiphadkar.pdf). 2 years is a long time and all of the experiences cannot be captured in one page, you can browse this page to find more details.
 
-- [nniph00@odu.edu](https://www.nehaniphadkar.in)
-- [niphadkarneha@gmail.com](mailto:niphadkarneha@gmail.com)
-- Graduate School is located in Norfolk, VA
+Find me on the web:
+
+- School email address: [nniph00@odu.edu](https://www.nehaniphadkar.in)
+- Personal email address:[niphadkarneha@gmail.com](mailto:niphadkarneha@gmail.com)
+- Located in Norfolk, VA
 
 ## Technical Skills
 
-- **Languages** - Java, PHP, HTML5, CSS3, Bash, Python
+- **Languages** - Python, Java, PHP, HTML5, CSS3, and Bash
 - **Concepts** - Agile Process
 - **Tools/Environment** - Node.js, Git, Jenkins, Chrome DevTools, Jira, AWS, CLI, Sass
 - **Frameworks/Libraries** - React, jQuery, Semantic UI, Material, Bootstrap
-- **Data** - SQL (MySQL, PostgreSQL), JSON
+- **Databases** - SQL (MySQL, PostgreSQL)
 
 ## Experience
 
-#### Graduate Research Assistant
-**Old Dominion University** - _2018 - Present | Norfolk,VA_
-- Computational support for evaluating images of flora and fauna. Increasing the detection rate using a combination of Yolo.V3 and Coco dataset.
-- Design and implementation of an Android application to enhance the Accessibility feature.
-
 #### Graduate Teaching Assistant
 **Old Dominion University** - _2018 - Present | Norfolk,VA_
-- Responsible for conducting recitations, proctoring exams, and grading.
+- I have conducted 300+ hours of face-to-face and online recitations. 
+- Responsible for preparing tests, proctoring exams, and grading.
 - Nominated for Best Graduate Teaching Assistant for College of Sciences, ODU. (Spring 2018 and Spring 2019)
+
+#### Graduate Research Assistant
+**Old Dominion University** - _2018 - Present | Norfolk,VA_
+- Preliminary research in Computer Vision with an aim to detect object detection. The goal was to evaluate image and video data and differentiate between flora and fauna. Increasing the detection rate using a combination of Yolo.V3 and Coco dataset.
+- Designed and implementated an Android application that used inbuilt sensors to enhance the Accessibility feature.
 
 #### Generalist - Human Resources
 **Cogencis.com** - _2013 - 2014 | Mumbai, IN_
