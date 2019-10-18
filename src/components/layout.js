@@ -19,11 +19,11 @@ class Layout extends React.Component {
       header = (
         <div className="homePageHeader">
           <h1>Hey, I'm Neha.</h1>
-          <p>I am a student at Old Dominion University in Norfolk, Virginia and I will be graduating in Fall 2019 with a Master’s degree in Computer Science. These past two years have been great, I have learned a lot while I was working as a Graduate Teaching and Research Assistant.</p>
+          <p>I am a student at Old Dominion University and I will be graduating in December 2019 with a Master’s degree in Computer Science. These past two years have been a great learning experience. At ODU, I have worked both as a Graduate Teaching Assistant and a Research Assistant.</p>
           <p>When summer rolled along, I thought I’d revamp my old website and try something new, that’s when I came across GatsbyJS and I love it. I started my blog so that I could share the resources that have helped me along my journey to becoming a programmer.</p>
           <p>I enjoy learning and improving my skills with newer technologies that are ever-evolving.</p>
           <p>Apart from programming, I love to travel and I aim to visit one new place each year. I enjoy photography and watching movies, you can expect to see a few pet topics creep into what is essentially an introduction to all things Neha.</p>
-          <p>You’re welcome to just read along as I jot down a few pointers for fellow tech-travelers, but if you want to talk about the last season of Game of Thrones, I’m totally fine with that too.</p>
+          <p>You are welcome to just read along as I jot down a few pointers for fellow tech-travelers, but if you want to talk about the last season of Game of Thrones, I’m totally fine with that too.</p>
           <p>Thank you for coming on board.</p>
           <nav className="main-nav">
             <Link to={"/projects"}>Projects</Link>

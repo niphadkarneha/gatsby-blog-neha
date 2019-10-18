@@ -17,7 +17,7 @@ Find me on the web:
 - **Concepts** - Agile Process
 - **Tools/Environment** - Node.js, Git, Jenkins, Chrome DevTools, Jira, AWS, CLI, Sass
 - **Frameworks/Libraries** - React, jQuery, Semantic UI, Material, Bootstrap
-- **Databases** - SQL (MySQL, PostgreSQL)
+- **Databases** - SQL (MySQL and PostgreSQL)
 
 ## Experience
 
