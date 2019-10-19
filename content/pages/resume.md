@@ -45,6 +45,10 @@ Find me on the web:
 
 ## People's confidence
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thanks to <a href="https://twitter.com/NiphadkarNeha?ref_src=twsrc%5Etfw">@NiphadkarNeha</a> for updating <a href="https://twitter.com/hashtag/transitflow?src=hash&amp;ref_src=twsrc%5Etfw">#transitflow</a> to be compatible with Python 3! Love <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> when people make improvements to your projects. Here&#39;s today&#39;s scheduled transit flows in Cleveland area, made with TransitFlow running Python 3.7: <a href="https://t.co/n0fIb8TNb4">https://t.co/n0fIb8TNb4</a> <a href="https://t.co/OlyqNTxm2L">pic.twitter.com/OlyqNTxm2L</a></p>&mdash; Will Geary (@wgeary) <a href="https://twitter.com/wgeary/status/1171099137435193344?ref_src=twsrc%5Etfw">September 9, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 > Neha has the required skill-set to effectively overcome any challenge and that shows in the success that she has had by single handedly driving all HR functions to perfection at Cosmos Consultants. Top Qualities : Excellent perception & promptness.
 Yashraj Ahluwalia - The Moonshot Factory [Google].
 
