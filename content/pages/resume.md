@@ -3,7 +3,7 @@ title: Computer Science Graduate Student
 date: "2019-05-30T08:34:09+00:00"
 ---
 
-I am graduating in December 2019 with a Master's degree in Computer Science, you can find my formal resume [here](/NehaNiphadkar.pdf). 2 years is a long time and all of the experiences cannot be captured in one page, you can browse this page to find more details.
+I am graduating in December 2019 with a Master's degree in Computer Science, you can find my formal resume [here](/NehaNiphadkar.pdf). Often a one page resume does not do justice to everything a candidate has to offer so I've noted down experiences of my professional career over the past couple of years.
 
 Find me on the web:
 
@@ -15,7 +15,7 @@ Find me on the web:
 
 - **Languages** - Python, Java, PHP, HTML5, CSS3, and Bash
 - **Concepts** - Agile Process
-- **Tools/Environment** - Node.js, Git, Jenkins, Chrome DevTools, Jira, AWS, CLI, Sass
+- **Tools/Environment** - Node.js, Git, Jenkins, Chrome DevTools, Jira, AWS, CLI, Google Data Studio, Google Analytics
 - **Frameworks/Libraries** - React, jQuery, Semantic UI, Material, Bootstrap
 - **Databases** - SQL (MySQL and PostgreSQL)
 
@@ -28,20 +28,20 @@ Find me on the web:
 - Nominated for Best Graduate Teaching Assistant for College of Sciences, ODU. (Spring 2018 and Spring 2019)
 
 #### Graduate Research Assistant
-**Old Dominion University** - _2018 - Present | Norfolk,VA_
+**Old Dominion University** - _2018 - 2019 | Norfolk,VA_
 - Preliminary research in Computer Vision with an aim to detect object detection. The goal was to evaluate image and video data and differentiate between flora and fauna. Increasing the detection rate using a combination of Yolo.V3 and Coco dataset.
 - Designed and implementated an Android application that used inbuilt sensors to enhance the Accessibility feature.
 
 #### Generalist - Human Resources
 **Cogencis.com** - _2013 - 2014 | Mumbai, IN_
-- Responsible for the HRMS - payroll and attendance.
-- Resposible for the entire recruitment cycle - PAN India.
-- Human Resource Engagement lead.
+- Maintained and Mananged the Human Resources Payroll System (payroll and attendance).
+- Resposible for the entire recruitment cycle across all levels- PAN India.
+- As Human Resource Engagement lead was responsible for organizing cultural events and offsite training.
 
 #### Generalist - Human Resources
 **Cosmos Creative, Inc.** - _2010 - 2013 | Mumbai, IN_
 - Responsible for recruitment, selection, onboarding, and training.
-- Responsible for payroll.
+- Responsible for payroll and disbursement.
 
 ## People's confidence
 
@@ -68,7 +68,7 @@ Yashraj Ahluwalia - The Moonshot Factory [Google].
 
 ## Conferences
 
-#### Grad Cohort for Women
+#### Computing Research Association for Women, CRA-W. Grad Cohort for Women
 
 **Chicago** - _2019 | Chicago, IL_
 
@@ -89,9 +89,9 @@ Yashraj Ahluwalia - The Moonshot Factory [Google].
 
 # Volunteer work
 
-- Summer 2019 worshop at ODU.
-- Summer 2018 workshop in Data Science and Machine Learning. [ML@ODU](https://sites.wp.odu.edu/dscamp/)
-- Summer 2018 worshop at ODU.
+- Summer Research Workshop for the Department of Computer Science at ODU 2019.
+- The Data Science and Machine Learning Workshop at ODU. [ML@ODU](https://sites.wp.odu.edu/dscamp/)
+- Summer Research Workshop for the Department of Computer Science at ODU 2018.
 - Graduation photoshoot for Department of Computer Science, ODU - 2018 - 2019
 - Graduation photoshoot for Department of Computer Science, ODU - 2017 - 2018
 
