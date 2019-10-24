@@ -38,11 +38,11 @@ class Layout extends React.Component {
     } else if (post !== undefined) {
       // When its a blog details page
       header = (
-        <div style={{paddingBottom: `1rem`}}>
+        <div style={{paddingBottom: `0.5rem`}}>
           <nav
             className="font-sans"
             style={{
-              paddingBottom: "1rem"
+              paddingBottom: "0.5rem"
             }}
           >
             <Link
@@ -91,7 +91,7 @@ class Layout extends React.Component {
           <nav
             className="font-sans"
             style={{
-              paddingBottom: "2rem"
+              paddingBottom: "1.2 rem"
             }}
           >
             <Link
@@ -118,7 +118,7 @@ class Layout extends React.Component {
       <React.Fragment>
         <header
           style={{
-            background: `rgb(235, 237, 242)`,
+            background: `rgb(255,234,228)`,
             paddingTop: `1rem`
           }}
         >

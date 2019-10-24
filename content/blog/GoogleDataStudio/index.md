@@ -1,5 +1,5 @@
 ---
-title: Google Data Studio and PowerBI.
+title: Google Data Studio.
 date: "2019-10-08T15:48:42+00:00"
 ---
 
