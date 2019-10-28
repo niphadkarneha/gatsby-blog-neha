@@ -118,7 +118,7 @@ class Layout extends React.Component {
       <React.Fragment>
         <header
           style={{
-            background: `rgb(255,234,228)`,
+            background: `rgb(251,245,256)`,
             paddingTop: `1rem`
           }}
         >
