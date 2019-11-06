@@ -101,7 +101,7 @@ Yashraj Ahluwalia - The Moonshot Factory [Google].
 #### The Data Science and Machine Learning Workshop
 **Department of Computer Science, ODU** - _2018 | Norfolk, VA_
 - [Link to the site:](https://sites.wp.odu.edu/dscamp/)
-![Final day photo](./content/assets/ml.jpg)
+![Final day photo](./assets/ml.jpg)
 
 #### Summer Research Workshop
 **Department of Computer Science, ODU** - _2018 | Norfolk, VA_
