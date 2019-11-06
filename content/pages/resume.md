@@ -23,25 +23,31 @@ Find me on the web:
 
 #### Graduate Teaching Assistant
 **Old Dominion University** - _2018 - Present | Norfolk,VA_
-- I have conducted 300+ hours of face-to-face and online recitations. 
+- I have conducted 300+ hours of face-to-face and online recitations.
 - Responsible for preparing tests, proctoring exams, and grading.
 - Nominated for Best Graduate Teaching Assistant for College of Sciences, ODU. (Spring 2018 and Spring 2019)
 
 #### Graduate Research Assistant
 **Old Dominion University** - _2018 - 2019 | Norfolk,VA_
 - Preliminary research in Computer Vision with an aim to detect object detection. The goal was to evaluate image and video data and differentiate between flora and fauna. Increasing the detection rate using a combination of Yolo.V3 and Coco dataset.
-- Designed and implementated an Android application that used inbuilt sensors to enhance the Accessibility feature.
+- Designed and implemented an Android application that used inbuilt sensors to enhance the Accessibility feature.
 
 #### Generalist - Human Resources
 **Cogencis.com** - _2013 - 2014 | Mumbai, IN_
-- Maintained and Mananged the Human Resources Payroll System (payroll and attendance).
-- Resposible for the entire recruitment cycle across all levels- PAN India.
-- As Human Resource Engagement lead was responsible for organizing cultural events and offsite training.
+- Responsible for Selection, Recruitment, Onboarding, and Induction Training, Budgeting and Finance, and Employee Engagement.
+- Successfully reduced the recruitment cost by 15 percent by starting Campus recruitments.
+- Successfully maintained a prospective employee database.
+- Tie-up with the local and national colleges for on-going recruitments throughout the year.
+- Reduced administrative costs by 30,000 INR a month for the Mumbai office.
+- Reduced the cost of employee training and onboarding.
+
 
 #### Generalist - Human Resources
-**Cosmos Creative, Inc.** - _2010 - 2013 | Mumbai, IN_
-- Responsible for recruitment, selection, onboarding, and training.
-- Responsible for payroll and disbursement.
+**Nail The Deal** - _2010 - 2013 | Mumbai, IN_
+- Responsible for recruitment and selection for both offices Mumbai and Dubai with profiles ranging from Search Engine Optimization, Social Media Optimizations, Social Media Manager, Database Manager, Website Designer, Website developer, Account Manager, and Sales.
+- Calculation and Disbursement of Compensation and Benefits.
+- Responsible for Human Resources and Administration Annual budgets.
+- Handled HR vendor tie-ups..
 
 ## People's confidence
 
@@ -89,11 +95,19 @@ Yashraj Ahluwalia - The Moonshot Factory [Google].
 
 # Volunteer work
 
-- Summer Research Workshop for the Department of Computer Science at ODU 2019.
-- The Data Science and Machine Learning Workshop at ODU. [ML@ODU](https://sites.wp.odu.edu/dscamp/)
-- Summer Research Workshop for the Department of Computer Science at ODU 2018.
-- Graduation photoshoot for Department of Computer Science, ODU - 2018 - 2019
-- Graduation photoshoot for Department of Computer Science, ODU - 2017 - 2018
+#### Summer Research Workshop
+**Department of Computer Science, ODU** - _2019 | Norfolk, VA_
+
+#### The Data Science and Machine Learning Workshop
+**Department of Computer Science, ODU** - _2018 | Norfolk, VA_
+- [Link to the site:](https://sites.wp.odu.edu/dscamp/)
+![Final day photo](./content/assets/ml.jpg)
+
+#### Summer Research Workshop
+**Department of Computer Science, ODU** - _2018 | Norfolk, VA_
+
+#### Graduate Student photoshoot
+**Department of Computer Science, ODU** - _2018 | Norfolk, VA_
 
 
 #### General Certifications
