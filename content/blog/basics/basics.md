@@ -4,7 +4,7 @@ date: "2019-06-20T21:53:43+00:00"
 ---
 
 Just like any other developer out there, I had to get started with Git. Now for someone who is learning
-how to code, "Git" can be a bit challenging. Especially if you've never worked in a team before. When I started working as a Research Assistant for the Department of Computer Science at Old Dominion University, I was working with a File Transfer Protocol (FTP) called, "FileZilla". It was free and easy to use. During my first two semesters that's all we used to transfer files to and from the server. I used FTP to complete and host a lot of my class and research projects. It sufficed the need of the hour.
+how to code, "Git" can be a bit challenging. Especially if you've never worked in a team before. When I started working as a Research Assistant for the Department of Computer Science at Old Dominion University, I was working with a File Transfer Protocol (FTP) called, "FileZilla". It is free and easy to use, during my first semesters that's all we used to transfer files to and from the server. I used FTP to complete and host a lot of my class projects. It sufficed the need of the hour.
 
 However,
 
@@ -17,10 +17,10 @@ There might have come a time when you would have accidentally overwritten a file
 
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. You can find the git manual right here - [Git](https://git-scm.com/docs). Once you've read the manual you can take a small quiz that will test you knowledge of Git.
 
-> Disclaimer: This quiz is not polished. It was a basic [quiz](https://happy-noyce-67af4f.netlify.com/) that I created while I was learning React. LinkedIn introduced a quiz of their own, which you can boast about in your profile.
 
+## Remember Git is not Github. So What is it, Then?
 
-Remember Git is not Github. If you don't want to go through the entire manual, I've mentioned some basic commands that should get you started.
+At a high level, GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code. The link to Github guides is [here](https://guides.github.com/).If you don't want to go through the entire manual, I completely understand. I can tell you basic commands to get you started but before that lets look at some installations.
 
 ### Installing Git on Mac
 
@@ -36,7 +36,7 @@ Download Git for Windows. You will be using the Git Bash program. It will utiliz
 
 Now that we've installed Git on you computer, lets try and make a simple webpage. 
 
-## But first we'll need Github
+## Github Account
 
 GitHub is the most popular location to host repositories, so go ahead and make an account there if you haven't.
 
@@ -52,47 +52,59 @@ folder on your computer by the name, "New folder" you can go to that folder usin
 - pwd: Will tell you everything that is there in this new folder.
 - mkdir: Will help you create a new folder/directory on your computer. 
 
-Lets go step by step now and we will be using the CLI.
+Lets go step by step now and we will be using the Terminal
 
 1. Create a folder
 
-> mkdir website
+```
+mkdir website
+```
 
 2. Go to the workin directory we just created. CD stands for, "Change directory"
 
-> cd website
+```
+cd website
+```
 
 3. Let's make an html page inside our working directory and let's name it, "index.html"
 
-> touch index.html
+```
+touch index.html
+```
 
 4. Write out first line, "Hello World!". Its tradition.
 
-> vi index.html
+```
+vi index.html
+```
 
 This will give you the ability to enter text into the document.
 
 Type these 3 lines
 
-> <!DOCTYPE html>
-> <h1>Hello World!</h1>
-> </html> 
+```
+<!DOCTYPE html>
+<h1>Hello World!</h1>
+</html> vi index.html
+```
 
 5. Press ESC and then SHIFT and "Z".
 
 6. Let's open your webpage and test see what it says
 
-> open index.html
+```
+open index.html
+```
 
 This will open up your browser and by now you should see, "Hello World!".
 
-Now we want to make sure that you save up all the hardwork that you've just put in and it does not get lost. For this we will put or store our index.html page on github.  You'll need to know few basic commands for git and I've mentioned them below
+Now we want to make sure that you save up all the hardwork that you've just put in and it does not get lost. For this we will put or store our index.html page on github.  You'll need to these commands
 
 ## Basic Git command for reference
 
 - git config: Configure Git
 - git init: Initialize Git repository
-- git status: Check the status of a Git repository
+- git status: Tells you if you have any files on your computer that you have not transferred to Github yet.
 - git add: Track files
 - git commit: Commit tracked files
 - git push: Upload files
