@@ -6,16 +6,12 @@ date: "2019-05-06T23:46:37.121Z"
 A Greek philosopher named Heraclitus taught me early on that “Change is the only constant”, I’ve carried that with me ever since. Unless you change, unless you learn, you will never grow. I made my career change into Computer Science in the year 2016. *I did not fall into the wrong career nor was I tired of my previous job*. I often get the Why? How? and When? and This is that story.
 
 ## The Beginning precedes the Why?
-I vaguely remember the first time I heard about Bill Gates and Steve Jobs, I was a child back then and did not fully comprehend why the grown ups were so fascinated by Apple and Microsoft. 
-<br>
-<iframe src="https://giphy.com/embed/E2N3bYXHdOixq" width="480" height="219" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pirates-of-the-caribbean-jdav-at-worlds-end-E2N3bYXHdOixq">via GIPHY</a></p>
-<br>
-I was happy playing video games and gully cricket. If you don’t know what that is
+I vaguely remember the first time I heard about Bill Gates and Steve Jobs, I was a child back then and did not fully comprehend why the grown ups were so fascinated by Apple and Microsoft. I was happy playing video games and gully cricket. If you don’t know what that is
 
 <!-- embeded image -->
-<img src="./assets/gully.jpeg" class="img-fluid" id="c4sr-embed">
+<img src="../assets/gully.jpeg" class="img-fluid" id="c4sr-embed">
 <!-- image caption -->
-<div class="caption">ATM transactions in Millions of Rupees, Oct-Dec 2016. Image created by Neha. Data source: RBI</div>
+<!-- <div class="caption">ATM transactions in Millions of Rupees, Oct-Dec 2016. Image created by Neha. Data source: RBI</div> -->
 
 Yes, I was that tomboy and I loved playing gully cricket. I remember the first time I opened MS Office in a school computer lab. I remember registering for AOL and Yahoo accounts
 
