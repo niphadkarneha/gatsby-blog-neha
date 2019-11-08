@@ -3,12 +3,7 @@ title: The Basics
 date: "2019-06-20T21:53:43+00:00"
 ---
 
-Just like any other developer out there, I had to get started with Git. Now for someone who is learning
-how to code, "Git" can be a bit challenging. Especially if you've never worked in a team before. When I started working as a Research Assistant for the Department of Computer Science at Old Dominion University, I was working with a File Transfer Protocol (FTP) called, "FileZilla". It is free and easy to use, during my first semesters that's all we used to transfer files to and from the server. I used FTP to complete and host a lot of my class projects. It sufficed the need of the hour.
-
-However,
-
-> To err is human - Alexander Pope.
+#To err is human - Alexander Pope.
 
 There might have come a time when you would have accidentally overwritten a file or deleted an important folder unintentionally. It has happened to all of us at one point or the other. That's where, "Version Control Systems" come in place. There are different kinds of VCS depending on usage like CVS, SVN, Mercurial, Bazaar, and Git. We started using git for both our web and mobile projects. I've almost only worked on Android for the past year and half. Android Studio has an amazing integration with Git for source control mamangement.
 
@@ -20,9 +15,9 @@ Git is a free and open source distributed version control system designed to han
 
 ## Remember Git is not Github. So What is it, Then?
 
-At a high level, GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code. The link to Github guides is [here](https://guides.github.com/).If you don't want to go through the entire manual, I completely understand. I can tell you basic commands to get you started but before that lets look at some installations.
+At a high level, GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code. The link to Github guides is [here](https://guides.github.com/). If you don't want to go through the entire manual, I completely understand. I can tell you basic commands to get you started but before that lets look at some installations.
 
-### Installing Git on Mac
+## Installing Git on Mac
 
 Open the Terminal program, on the upper right corner locate the search icon/magnifying glass and type, "terminal". Once it's open, type git --version and press enter. If a version number is returned, Git is already installed. If something along the lines of -bash: git: command not found pops up, install Xcode from the App Store.
 
@@ -30,7 +25,7 @@ In XCode, install Command Line Tools: > Preferences > Downloads > Command Line T
 
 It is not necessary but an extremely usefull tool to manage dev tools is called, "Homebrew". It would be amazing if you can install Homebrew.
 
-### Installing Git on Windows
+## Installing Git on Windows
 
 Download Git for Windows. You will be using the Git Bash program. It will utilize all the same commands as Terminal.
 
@@ -56,33 +51,33 @@ Lets go step by step now and we will be using the Terminal
 
 1. Create a folder
 
-```
-mkdir website
+```shell_session
+$ mkdir website
 ```
 
 2. Go to the workin directory we just created. CD stands for, "Change directory"
 
-```
-cd website
+```shell_session
+$ cd website
 ```
 
 3. Let's make an html page inside our working directory and let's name it, "index.html"
 
-```
-touch index.html
+```shell_session
+$ touch index.html
 ```
 
 4. Write out first line, "Hello World!". Its tradition.
 
-```
-vi index.html
+```shell_session
+$ vi index.html
 ```
 
 This will give you the ability to enter text into the document.
 
 Type these 3 lines
 
-```
+```vim
 <!DOCTYPE html>
 <h1>Hello World!</h1>
 </html> vi index.html
@@ -92,8 +87,8 @@ Type these 3 lines
 
 6. Let's open your webpage and test see what it says
 
-```
-open index.html
+```shell_session
+$ open index.html
 ```
 
 This will open up your browser and by now you should see, "Hello World!".
