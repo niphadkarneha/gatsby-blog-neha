@@ -1,23 +1,25 @@
 ---
-title: The Basics
+title: A Beginner’s Guide to GitHub.
 date: "2019-06-20T21:53:43+00:00"
 ---
-
 #To err is human - Alexander Pope.
 
-There might have come a time when you would have accidentally overwritten a file or deleted an important folder unintentionally. It has happened to all of us at one point or the other. That's where, "Version Control Systems" come in place. There are different kinds of VCS depending on usage like CVS, SVN, Mercurial, Bazaar, and Git. We started using git for both our web and mobile projects. I've almost only worked on Android for the past year and half. Android Studio has an amazing integration with Git for source control mamangement.
-
+Have you accidentally deleted a file? Or Have you accidentally overwritten or replaced it? If Yes, then this article is for you :) I was in your shoes and I had read many lengthy tutorials so not dwelling too much into introductions, I am going to jump into the basics and you can follow along.
 
 ## What is Git?
 
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. You can find the git manual right here - [Git](https://git-scm.com/docs). Once you've read the manual you can take a small quiz that will test you knowledge of Git.
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Version control meaning, every time you make changes to a file you are creating a new version of it. Git lets you keep a track of the multiple versions you have created.
+
+You can find the git manual right here - [Git](https://git-scm.com/docs). Once you've read the manual you can take a small quiz that will test you knowledge of Git.
 
 
 ## Remember Git is not Github. So What is it, Then?
 
 At a high level, GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code. The link to Github guides is [here](https://guides.github.com/). If you don't want to go through the entire manual, I completely understand. I can tell you basic commands to get you started but before that lets look at some installations.
 
-## Installing Git on Mac
+## Let's talk about installations first
+
+1. Installing Git on Mac
 
 Open the Terminal program, on the upper right corner locate the search icon/magnifying glass and type, "terminal". Once it's open, type git --version and press enter. If a version number is returned, Git is already installed. If something along the lines of -bash: git: command not found pops up, install Xcode from the App Store.
 
@@ -25,13 +27,13 @@ In XCode, install Command Line Tools: > Preferences > Downloads > Command Line T
 
 It is not necessary but an extremely usefull tool to manage dev tools is called, "Homebrew". It would be amazing if you can install Homebrew.
 
-## Installing Git on Windows
+2. Installing Git on Windows
 
 Download Git for Windows. You will be using the Git Bash program. It will utilize all the same commands as Terminal.
 
 Now that we've installed Git on you computer, lets try and make a simple webpage. 
 
-## Github Account
+## Creating a Github Account
 
 GitHub is the most popular location to host repositories, so go ahead and make an account there if you haven't.
 
