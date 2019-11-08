@@ -13,7 +13,7 @@ Git is a free and open source distributed version control system designed to han
 You can find the git manual right here - [Git](https://git-scm.com/docs). Once you've read the manual you can take a small quiz that will test you knowledge of Git.
 
 
-## Remember Git is not Github. So What is it, Then?
+## Git is not Github. So What is it, Then?
 
 At a high level, GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code. The link to Github guides is [here](https://guides.github.com/). If you don't want to go through the entire manual, I completely understand. I can tell you basic commands to get you started but before that lets look at some installations.
 
@@ -35,19 +35,26 @@ Now that we've installed Git on you computer, lets try and make a simple webpage
 
 ## Creating a Github Account
 
-GitHub is the most popular location to host repositories, so go ahead and make an account there if you haven't.
+Click [here](https://github.com/) to create a Github Account
 
-I'll assume your username is you. This would make your new GitHub account github.com/you.
+I'll assume your username, "starlord". This would make your new GitHub account github.com/starlord.
 
-Once you've made your account, create a repository by clicking Add New Repo. Do not initialize with a README.md or .gitignore at this point. We can call the repository, "website". Your repository has been created at github.com/you/website. It should be completely empty.
+## Using the Terminal or Command Line
 
-Secondly, if you are not comfortable with using terminal just yet don't worry. There are the four commands that you need to know. When you first open your terminal you will most likely be in the main directory.
+If you are not comfortable with using terminal just yet don't worry. There are the four commands that you need to know. When you first open your terminal you will most likely be in the main directory.
 
-- ls: List all the directories or files.
-- cd: Changes the directory. You will need to specify which directory you want to go to for e.g. if you see a 
-folder on your computer by the name, "New folder" you can go to that folder using your terminal by typing in,"cd New folder"
-- pwd: Will tell you everything that is there in this new folder.
-- mkdir: Will help you create a new folder/directory on your computer. 
+:ls = List all the directories or files on your computer.
+:cd = Changes the directory. You will need to specify which directory you want to go to 
+
+for e.g. if you see a folder on your computer by the name, "New folder" 
+you can go to that folder using your terminal by typing in
+
+```shell_session
+$ cd New folder
+```
+
+:pwd = Will tell you everything that is there in this new folder.
+:mkdir = Will help you create a new folder/directory on your computer. 
 
 Lets go step by step now and we will be using the Terminal
 
@@ -112,33 +119,48 @@ All of the future commands we do today will only apply to your local Git environ
 
 Configure your global Git account. Open your terminal and copy paste these commands one by once.
 
-> git config --global user.name "Firstname Lastname"
-> git config --global user.email username@email.com
+```shell_session
+$ git config --global user.name "Firstname Lastname"
+$ git config --global user.email username@email.com
+```
 
 Make sure you're still in the project-local folder, then move on. 
 
 Initialize Git repository.
 
-> git init
+```shell_session
+$ git init
+``` 
 
-This initialized an empty Git repository in /Users/you/website-local/.git/
+This initialized an empty Git repository in /Users/starlord/website-local/.git/
 
 Great! Now you have an empty Git repo on your local computer.
 
 Let's hook up local directory with the repo we made at github.com.
 
-> git remote add origin https://github.com/you/website
+```shell_session
+$ git remote add origin https://github.com/starlord/website
+``` 
 
 Terminal won't respond, but it was successful. Check the status of your local repository by using 
 
-> git status
+```shell_session
+$ git status
+``` 
 
 The terminal will now tell us that there is an index.html file that is not present in our github repository. The message
 will go something like this, "nothing added to commit but untracked files present (use "git add" to track)
 "
+```shell_session
+$ git add index.html
+``` 
 
-> git add index.html
-> git commit -m "adding the html file"
-> git push origin master
+```shell_session
+$ git commit -m "adding the html file"
+``` 
+
+```shell_session
+$ git push origin master
+``` 
 
 Now refresh your GitHub page. Success! All your files are now stored on Github.com!
