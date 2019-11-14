@@ -46,8 +46,8 @@ main p {
 .homePageHeader {
     font-size: 1.3rem;
     line-height: 1.4;
-    padding-top: 2rem;
-    padding-bottom: 12rem;
+    padding-top: 1rem;
+    padding-bottom: 9rem;
     font-kerning: normal;
 }
 

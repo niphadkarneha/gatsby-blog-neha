@@ -14,7 +14,7 @@ I love reading blogs and articles on Medium and that how I stumbled on
 
 >More often than not as a developer you will need to create a static web page. Either creating a portfolio of your projects, a product landing page, etc.
 
-![Chinese Salty Egg](./gatsby.jpg)
+![Mr. Gatsby](./gatsby.jpg)
 
 I found these tutorials extremely useful
 
