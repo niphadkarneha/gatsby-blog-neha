@@ -19,7 +19,7 @@ class Layout extends React.Component {
       header = (
         <div className="homePageHeader">
           <h1>Hey, I'm Neha <span role="img" aria-label="wave">👋</span></h1>
-          <p>I am a graduating with a <strong>Master's degree in Computer Science <span role="img" aria-label="woman student">👩‍🎓</span></strong> from Old Dominion University in December, 2019. 
+          <p>I am graduating with a <strong>Master's degree in Computer Science <span role="img" aria-label="woman student">👩‍🎓</span></strong> from Old Dominion University in December, 2019. 
           These past two years have been an amazing learning experience, I have worked both as a Computer Science Instructor  
           and a Research Assistant.</p>
 
@@ -27,7 +27,7 @@ class Layout extends React.Component {
           volunteered at summer research camps, participated in hackathons, all in all, lived a full life as a graduate student.</p>
 
           <p>I always wanted to share the resources that have helped me along my journey, 
-          so when summer rolled along, I started writing my blog. You are welcome to just read along as I jot down a few pointers for fellow tech-travelers, 
+          so when summer rolled along, I started writing my blog. You are welcome to read along as I jot down a few pointers for fellow tech-travelers, 
           but if you want to talk about the House of The Dragon <span role="img" aria-label="dragon">🐉</span>, I’m totally fine with that too.</p>
 
           <p>Apart from programming, I love to travel <span role="img" aria-label="travel">🛫</span>and I aim to visit one new place each year. 
