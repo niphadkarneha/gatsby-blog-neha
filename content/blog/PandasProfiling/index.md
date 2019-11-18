@@ -1,5 +1,5 @@
 ---
-title: Pandas Profiling
+title: Pandas Profiling: Nifty little library
 date: "2019-09-30T18:59:39+00:00"
 layout: post
 draft: false
@@ -17,30 +17,22 @@ For e.g. we will use a publicly available dataset from the seaborn dataset, for 
 
 Open a Google Colab and copy paste the code given below
 
-```
+```python
 import pandas as pd
 df = pd.read_csv('https://raw.githubusercontent.com/mwaskom/seaborn-data/master/diamonds.csv')
 df.describe()
 ```
 
-
-![Panda's .describe()](./describe.png)
-
-
-
 There is a better module out there that gives us more than the base statistics. Pandas Profiling generates reports from a pandas DataFrame, pandas_profiling extends the DataFrame and provides us quick analysis
 
 Similar to the code above with one additional import we can generate a Descriptive report and save it as a html file to be published.
 
-```
+```python
 pip install -U pandas-profiling
 ```
 
-> 
+<div style="width:100%;height:0;padding-bottom:16%;position:relative;"><iframe src="https://giphy.com/embed/jpPSSPeqHkpDauBaT4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/jpPSSPeqHkpDauBaT4">Visualization created using GIPHY</a></p>
 
-![profile](./profile.png) 
-
-![report](./report.png)
 
 The type of data generated is mentioned below
 
