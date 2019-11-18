@@ -24,7 +24,6 @@ Up until a couple of days back, it dawned on me that I never carried sentiment a
 
 I have used Python and related libraries like Natural Language Toolkit(NLTK) and SpaCy in the past to carry out Sentiment analysis but I wanted to learn a new tool, I read the documentation on products offered by Google and IBM Watson. I have no preference or specific particular reason for choosing these two company products. The way these tools report their analysis differ in detail but the overall gist remains the same. 
 
-<br>
 
 The sentiment score ranges ranges from -1 (minus one) to +1 (plus one), negative to positive. The Magnitude of the score refers to the intensity of the sentiment. I used the content from my landing page to carry out the analysis, and the initial results were shocking to me. The landing page content got a neutral score of 0.2 with a magnitude of 3.6.
 
