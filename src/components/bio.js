@@ -22,10 +22,10 @@ function Bio() {
             }}
           >
             <p>
-              Written by <strong>{author}</strong> who lives and works in Norfolk, Virginia.
+              Written by <strong>{author}</strong>M.S. in Computer Science.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                Follow her on Twitter.
+                Twitter @NiphadkarNeha.
               </a>
             </p>
           </div>
