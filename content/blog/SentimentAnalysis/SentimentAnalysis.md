@@ -20,9 +20,7 @@ I have used python in the past to do this task but I wanted to try something new
 I used the content from my landing page to carry out the analysis, and the initial results were shocking to me. The landing page content got a neutral score of 0.2 with a magnitude of 3.6, I didn't realize my content was neutral and negative, I am just entering the job market I didn't want to sound neutral or negative. Words that had negative or neutral connotations like down, fall, amateur etc brought down the score substantially. If we look at the words in terms of context they are not particularly negative, for e.g. "jot down" and "graduating in Fall". But I did make changes to my content and my findings are below. Here are the before and after scores, the change were mostly restructing and sentence reconstruction.
 
 
-![Before](./before.png "Google's Natural Language API report")
-
-![After](./after.jpg "Google's Natural Language API report")
+<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/UWaunbOKkwwZILAYda" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/UWaunbOKkwwZILAYda">via GIPHY</a></p>
 
 
 Here are the brief scores for both IBM Watson and Google's API.
