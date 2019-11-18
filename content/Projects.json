@@ -10,11 +10,6 @@
     "github": "https://github.com/niphadkarneha/GatherlyMobile"
   },
   {
-    "title": "Small Programs",
-    "description": "Learning somethine new everyday. #Personal #WardCunningam #Julie&Julia",
-    "github": "https://github.com/niphadkarneha/SmallPrograms"
-  },
-  {
     "title": "Transitland-Python3",
     "description": "Modified to work with python 3. #Personal #WillGeary #Mapzen",
     "github": "https://github.com/niphadkarneha/transitland-processing-animation"
@@ -28,5 +23,20 @@
     "title": "Impact of Policy",
     "description": "Information Visualization course project at ODU. #D3js #Demonetization",
     "github": "https://github.com/niphadkarneha/CS725"
+  },
+  {
+    "title": "Virginia Beach Crime Exploration and Mapping",
+    "description": "Exploratory Data Analysis for City of Virginia Beach Crimes.",
+    "github": "https://crimedataanalysisvirginiabeach.netlify.com/"
+  },
+  {
+    "title": "Google Data Studio with Google Analytics",
+    "description": "Visualizing Website Analytics using Google Data Studio",
+    "github": "https://www.nehaniphadkar.in/GoogleDataStudio/"
+  },
+  {
+    "title": "Natural Language Processing",
+    "description": "NLP for website landing page.",
+    "github": "https://www.nehaniphadkar.in/SentimentAnalysis/SentimentAnalysis/"
   }
 ]
