@@ -16,7 +16,7 @@
   },
   {
     "title": "Transitland-Python3",
-    "description": "Modified to work with python 3. #Personal #WillGeary #Mapzen",
+    "description": "Modified to work with python 3. #OpenSource #WillGeary #Mapzen",
     "github": "https://github.com/niphadkarneha/transitland-processing-animation"
   },
   {
@@ -31,17 +31,17 @@
   },
   {
     "title": "Virginia Beach Crime Exploration and Mapping",
-    "description": "Exploratory Data Analysis for City of Virginia Beach Crimes.",
+    "description": "Exploratory Data Analysis for City of Virginia Beach Crimes. #Personal #EDA",
     "github": "https://crimedataanalysisvirginiabeach.netlify.com/"
   },
   {
     "title": "Google Data Studio with Google Analytics",
-    "description": "Visualizing Website Analytics using Google Data Studio",
+    "description": "Visualizing Website Analytics using Google Data Studio. #Personal #Dash",
     "github": "https://www.nehaniphadkar.in/GoogleDataStudio/"
   },
   {
     "title": "Natural Language Processing",
-    "description": "NLP for website landing page.",
+    "description": "NLP for website landing page. #WebContent #Analysis",
     "github": "https://www.nehaniphadkar.in/SentimentAnalysis/SentimentAnalysis/"
   }
 ]
