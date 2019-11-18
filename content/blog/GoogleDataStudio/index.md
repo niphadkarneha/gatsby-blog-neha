@@ -1,5 +1,5 @@
 ---
-title: Google Data Studio.
+title: Google Data Studio with Google Analytics
 date: "2019-10-08T15:48:42+00:00"
 ---
 
@@ -23,11 +23,8 @@ I already have an Google Analytics account and I have been monitoring the perfor
 
 The layout of Data Studio is similar to the layout of Google Drive. Data Studio gives you the option to Create new reports or browse existing templates and use one. It lets you pick your Data sources and Explore the existing labs. I will be creating a blank report and connecting my Google Analytics account to import my site data. A blank report will look exactly like a Google doc and I like to make some basic changes before I start, I'll go ahead and change the name of the document on the upper right hand corner and change the layout to,"Simple dark" it is easier on the eyes. 
 
-![format](./format.png "Changing the name and Theme of the report")
 
 Next, we'll connect a data source, on the bottom right page you can see the option, "CREATE NEW DATA SOURCE". It will take you to the connectors page and out of the 18 connectors provided by Google we are going to choose Google Analytics.
-
-![Google Analytics](./analytics.png "Authorize Google Anaytics")
 
 After authorizing the application, it let you pick amongst the various projects available in your Google Analytics directory. I chose my webpage and immediately it pulls up all of the information it has on my website. I do not wish to cram all of the information on a single page report so I am going to focus on 5 aspects that are important to me right now.
 
@@ -41,7 +38,7 @@ I will look at the source of the visit, are people using their mobile phones or 
 
 I will talk about two fields in the Data Studio platform that will help you create basic visualizations. Firstly we'll navigate to something called, "Filter Control". 
 
-Path: Data Studio -> Your report -> Insert -> Filter Control
+>Path: Data Studio -> Your report -> Insert -> Filter Control
 
 Filter Control lets you pick amongst the different dimensions and metrics in your data field. Which fields to pick and choose from depend on your data and the questions you want answered. The dimensions of Geo Network, User, Session, Traffic Sources, Platform or Device, and User Timing is important for my visualization. The complete list is mentioned below
 
@@ -50,11 +47,6 @@ Filter Control lets you pick amongst the different dimensions and metrics in you
 - Ecommerce
 - App Tracking
 - Content Grouping
-- Event Tracking
-- User Timing
-- Social Interactions
-- Time
-- GeoTracking
 
 Let's create some basic visualizations
 
@@ -98,4 +90,3 @@ I can see how many visitors have gone beyond the first page i.e. the landing pag
 
 I've used these techniques to create a basic single page report for my [webpage](https://datastudio.google.com/s/lKdIY45K8C4). Google Analytics and Google Data Studio are free tools that are easily accessible. You can create powerful reports to help you analyze your products and support your business goals.
 
-In the third part of this series, I'll create a similar report using PowerBI.
