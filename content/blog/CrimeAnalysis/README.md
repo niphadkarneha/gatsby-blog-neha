@@ -1,5 +1,5 @@
 ---
-title: Crime rate analysis for the City of Virginia Beach.
+title: Exploratory Data Analysis of Crime Rate in the City of Virginia Beach.
 date: "2019-10-24T22:00:19+00:00"
 layout: post
 draft: false
