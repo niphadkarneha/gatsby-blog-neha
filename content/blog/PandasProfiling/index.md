@@ -1,5 +1,5 @@
 ---
-title: Pandas Profiling: Nifty little library
+title: Pandas Profiling Nifty little library
 date: "2019-09-30T18:59:39+00:00"
 layout: post
 draft: false
