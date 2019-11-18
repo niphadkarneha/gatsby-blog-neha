@@ -40,7 +40,6 @@ class Layout extends React.Component {
             <Link to={"/resume/"}>Resume</Link>
             <a href="https://www.linkedin.com/in/niphad/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
             <a href="https://twitter.com/NiphadkarNeha" target="_blank" rel="noopener noreferrer">Twitter</a>
-            <a href="https://smallprograms.netlify.com" target="_blank" rel="noopener noreferrer">Small Programs</a>
           </nav>
         </div>
       )
