@@ -1,9 +1,9 @@
 ---
-title: Geocoding from Google.
+title: Geocoding with Google
 date: "2019-08-23T01:58:59+00:00"
 ---
 
-## Extracting latitude and longitude with google scripts.
+# Latitude, Longitude, and Addresses with Google Scripts
 
 The 3 step guide to extracting latitude and longitude from addresses and extracting address from latitude and longitude. In this short tutorial, we are going to use
 
@@ -167,9 +167,9 @@ function onOpen() {
 };
 ```
 
-That's it. Go ahead and give it a try :)
+That's it. Go ahead and give it a try 😃
 
-Happy Learning :)
+Happy Learning 📜
 
 
 
