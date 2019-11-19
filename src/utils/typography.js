@@ -7,7 +7,7 @@ Wordpress2016.overrideThemeStyles = () => {
       boxShadow: `none`,
     },
     "h1": {
-      fontFamily: ["Lora", "serif"].join(",")
+      fontFamily: ["Cooper Hewitt", "sans-serif"].join(",")
     }
   }
 }
@@ -29,8 +29,8 @@ Wordpress2016.googleFonts = [
     ],
   },
 ]
-Wordpress2016.headerFontFamily = ["Lora", "serif"]
-Wordpress2016.bodyFontFamily = ["Lora", "serif"]
+Wordpress2016.headerFontFamily = ["Cooper Hewitt", "sans-serif"]
+Wordpress2016.bodyFontFamily = ["Cooper Hewitt", "sans-serif"]
 
 
 const typography = new Typography(Wordpress2016)
