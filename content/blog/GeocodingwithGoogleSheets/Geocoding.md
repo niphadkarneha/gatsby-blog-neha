@@ -5,7 +5,7 @@ date: "2019-08-23T01:58:59+00:00"
 
 # Latitude, Longitude, and Addresses with Google Scripts
 
-The 3 step guide to extracting latitude and longitude from addresses and extracting address from latitude and longitude. In this short tutorial, we are going to use
+The 2 step guide to extracting latitude and longitude from addresses and extracting address from latitude and longitude. In this short tutorial, we are going to use
 
 1. Google sheets
 2. Google scripts
