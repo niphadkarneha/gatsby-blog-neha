@@ -10,15 +10,25 @@ The 3 step guide to extracting latitude and longitude from addresses and extract
 1. Google sheets
 2. Google scripts
 
+What we are trying to achieve
+
+#### Extracting Latitude and Longitude from Address: Video 1.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t1wM8loFpzk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Extracting Address from Latitude and longitude: Video 2.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IlZzA7FDSZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This blog was published on [Medium](https://medium.com/@nniph001/googles-geocode-with-sheets-337fb5e4a88b?source=friends_link&sk=832468638379b111f585614e69e88ce4).
 
 ### Step 1.
 To get started open a Google Spreadsheet or Sheets. Start a new spreadsheet by clicking the ‘+’ icon. Let’s name it, ‘Demo’.
 
-![Google Sheets](./demo.png)
-
 ### Step 2.
-Click on Tools and <>Script editor.
-Copy-paste this code and save the script. You might have to close and reopen your, “Demo” sheet if you are unable to see the Geocode option in the navigation bar.
+1. Click on Tools and <>Script editor.
+2. Copy-paste this code and save the script. 
+3. You might have to close and reopen your, “Demo” sheet if you are unable to see the Geocode option in the navigation bar.
 
 ```googlescript
 function getGeocodingRegion() {
@@ -157,15 +167,9 @@ function onOpen() {
 };
 ```
 
-### Step 3.
-If you want Latitude and Longitude from Address: Video 1.
+That's it. Go ahead and give it a try :)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t1wM8loFpzk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Happy Learning :)
 
-If you want to extract Address from Latitude and longitude: Video 2.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IlZzA7FDSZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-This blog was published on [Medium](https://medium.com/@nniph001/googles-geocode-with-sheets-337fb5e4a88b?source=friends_link&sk=832468638379b111f585614e69e88ce4).
 
 
