@@ -12,9 +12,9 @@ Since, the beginning of 2019 you would have come across something like this on y
 The alert tells us that after Jan. 1, 2020, Python 2.7 — the last version of Python 2 will no longer be actively maintained. We've know this for a couple of years now and if you look at the official python documentation, it gives us the precise timeline for each version
 
 
-| Branch        | Schedule        | Status        | First Release       | End-of-life       | Release Manager       |
-| :---        |  :----:       |  ---:       |
-| master        | PEP 596       | features        | TBD        |  TBD       | Łukasz Langa        |
+| Branch  | Schedule  | Status  | First Release | End-of-life | Release Manager |
+| :---  | :----:  | ---:  | ---:  | ---:  | ---:  |
+| master  | PEP 596 | features  | TBD |  TBD  | Łukasz Langa  |
 3.8	PEP 569	bugfix	2019-10-14	2024-10	Łukasz Langa
 3.7	PEP 537	bugfix	2018-06-27	2023-06-27	Ned Deily
 2.7	PEP 373	bugfix	2010-07-03	2020-01-01	Benjamin Peterson
