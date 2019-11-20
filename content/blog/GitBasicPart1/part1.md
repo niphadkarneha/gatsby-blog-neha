@@ -17,14 +17,15 @@ description: "The basics about GitHub Part I"
 ## To Err is Human - Alexander Pope
 
 Have you accidentally deleted a file of code? Or Have you accidentally overwritten or replaced a code that was important? If your answer is Yes,
-you are not alone my friend :) To safeguard against our own behavior, our fellow human created a system called as, "Version Control" and like the name suggest it
-let's you keep a track of all the versions of your code. It will keep a track of all the small and big changes you make to your files.
-Let’s dive into it
+you are not alone my friend :) To safeguard against our own behavior, our fellow humans created a system called, "Version Control" and like the name suggest it
+let's you keep a track of all the versions of your code. It will keep a track of all the small and big changes you make to your files. The benefits of version control is that
+you do not loose any of your work, and if you want, you can go back to any of the previous files or versions that you like.
+Let’s explore more
 
 ### Git
 
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
-Version control meaning, every time you make changes to a file you are creating a new version of it. Git lets you keep track of the multiple versions you have created.
+Git lets you keep track of the multiple versions you have created.
 You can find the git manual right [here](https://git-scm.com/docs) - Git. Once you’ve read the manual you can take a small quiz that will test you knowledge of Git.
 
 ### Git is not GitHub. So What is it, Then?
@@ -34,12 +35,16 @@ The link to GitHub guides is [here](https://guides.github.com/). If you don’t 
 I can tell you basic commands to get you started but before that let's create your account on GitHub.
 
 In order, to sign up go to [www.github.com](https://github.com/)
-![Sign Up](./github1.PNG)
+
+![Sign Up](./github1.PNG "Image sourced from GitHub.com")
+Figure 1: Image sourced from www.github.com
 
 GitHub will ask you series of questions, and will ask you to choose a plan. I have chosen the, "Free" plan which gives you access to unlimited public and private
 repositories. repositories are folder that will contain your documentation, code, text files, images, etc.
+
 ![Choose your Plan](./plan.PNG)
 
 Once, you are done with the set up question, you will be asked to verify your account. Upon, verification you will come to your GitHub page with a message that will
 look like this
+
 ![Yay, Welcome to the Community](./joined.PNG)
