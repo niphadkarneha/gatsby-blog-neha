@@ -11,19 +11,19 @@ Since, the beginning of 2019 you would have come across something like this on y
 
 The alert tells us that after Jan. 1, 2020, Python 2.7 — the last version of Python 2 will no longer be actively maintained. We've know this for a couple of years now and if you look at the official python documentation, it gives us the precise timeline for each version
 
-![Timeline](./timeline.png "Image 1: Timeline for Python Versions")
+![Timeline](./timeline.PNG "Image 1: Timeline for Python Versions")
 
 Enterprises big and small, if not already will soon migrate to Python 3. If you are a student like me who uses Python for basic programming assignments or Data Science projects and if you do not work on any enterprise version maybe one of the libraries that you’re using is bulky and is compatible only with Python 2, in such instances you will have to keep your code compatible with Python 3.  Most of the Supporting libraries and modules for python have already migrated. 
 
 Sometime ago, I helped, [Transitland-processing-animation](https://www.mapzen.com/blog/animating-transitland/) migrate from Python 2 to Python 3. One cannot dismiss the benefits of Open Source Softwares. The process of migration was easy and straightforward, tools like 2to3 will help and while they are useful, they do have some limitations. The differences in Python 2 and Python 3 are not just the differences in print statements
 
-```
+```py
 print 1 + 2
 ```
 
 VS
 
-```
+```py
 print(1+2)
 ```
 
@@ -32,37 +32,47 @@ It goes deeper into bug fixes and I'll write about them seperately, it is beyond
 Python 2 is installed by default on Apple computers, Python 3 is not. You can confirm this by typing in Terminal 
 python --version and hitting Enter, if there are no errors you will most likely see:
 
-![python2](./python2.png "Image 2: Terminal output for, 'python --version'")
+![python2](./python2.PNG "Image 2: Terminal output for, 'python --version'")
 
 Now, remember we want the latest version of Python 3 i.e. Python 3.7.4. In order to do that we need Xcode and Homebrew
 
-```
-xcode-select --install
+```sh
+$ xcode-select --install
 ```
 
 Click through all the confirmation commands. Xcode is a large program and it will take sometime to download and install. (It also depends on your internet connection)
 Next, let's install Homebrew:
 
-```
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```Sh
+$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
 To confirm Homebrew installed correctly, run this command:
-> $ brew doctor
+
+```Sh
+$ brew doctor
+```
  
 Install Python 3
 To install the latest version of Python, run the following command:
 
-> $ brew install python3
- 
+```Sh
+$ brew install python3
+```
+
 Now let’s confirm which version was installed:
-> $ python3 --version
- 
+
+```Sh
+$ python3 --version
+```
+
 To open a Python 3 shell from the command line type python3:
+```Sh
 $ python3
+```
 
 The output you will see:
-![python3](./python3.png "Image 3: Terminal output for, 'python3'.")
+![python3](./python3.PNG "Image 3: Terminal output for, 'python3'.")
 
 In order to exit, type exit() and press Return 
 
@@ -72,7 +82,10 @@ Ctrl-D (at the same time)
 
 
 Note you can still run Python shells with Python 2 by simply typing python:
-> $ python
+
+```Sh
+$ python
+```
 
 To install with Virtual Environments, The Hitchhiker’s guide to python gives a great step by step tutorial on just how to do that. I have included one useful link in the references. 
 
