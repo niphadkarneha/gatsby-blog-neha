@@ -11,7 +11,15 @@ Since, the beginning of 2019 you would have come across something like this on y
 
 The alert tells us that after Jan. 1, 2020, Python 2.7 — the last version of Python 2 will no longer be actively maintained. We've know this for a couple of years now and if you look at the official python documentation, it gives us the precise timeline for each version
 
-![Timeline](./timeline.PNG)
+
+| Branch        | Schedule        | Status        | First Release       | End-of-life       | Release Manager       |
+| :---        |  :----:       |  ---:       |
+| master        | PEP 596       | features        | TBD        |  TBD       | Łukasz Langa        |
+3.8	PEP 569	bugfix	2019-10-14	2024-10	Łukasz Langa
+3.7	PEP 537	bugfix	2018-06-27	2023-06-27	Ned Deily
+2.7	PEP 373	bugfix	2010-07-03	2020-01-01	Benjamin Peterson
+3.6	PEP 494	security	2016-12-23	2021-12-23	Ned Deily
+3.5	PEP 478	security	2015-09-13	2020-09-13	Larry Hastings
 
 Enterprises big and small, if not already will soon migrate to Python 3. If you are a student like me who uses Python for basic programming assignments or Data Science projects and if you do not work on any enterprise version maybe one of the libraries that you’re using is bulky and is compatible only with Python 2, in such instances you will have to keep your code compatible with Python 3.  Most of the Supporting libraries and modules for python have already migrated.
 
@@ -30,11 +38,9 @@ print(1+2)
 It goes deeper into bug fixes and I'll write about them seperately, it is beyond the scope of this article. I’m going to briefly highlight how to properly install Python 3 on a Mac OS X computer.  
 
 Python 2 is installed by default on Apple computers, Python 3 is not. You can confirm this by typing in Terminal
-python --version and hitting Enter, if there are no errors you will most likely see:
+python --version and hitting Enter.
 
-![python2](./python2.PNG)
-
-Now, remember we want the latest version of Python 3 i.e. Python 3.7.4. In order to do that we need Xcode and Homebrew
+Now, remember we want the latest version of Python 3 i.e. Python 3.7.4. In order to do that we need XCode and Homebrew
 
 ```sh
 $ xcode-select --install
@@ -70,9 +76,6 @@ To open a Python 3 shell from the command line type python3:
 ```Sh
 $ python3
 ```
-
-The output you will see:
-![python3](./python3.PNG)
 
 In order to exit, type exit() and press Return
 
