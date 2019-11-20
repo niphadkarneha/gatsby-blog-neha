@@ -19,8 +19,7 @@ description: "The basics about GitHub Part I"
 Have you accidentally deleted a file of code? Or Have you accidentally overwritten or replaced a code that was important? If your answer is Yes,
 you are not alone my friend :) To safeguard against our own behavior, our fellow humans created a system called, "Version Control" and like the name suggest it
 let's you keep a track of all the versions of your code. It will keep a track of all the small and big changes you make to your files. The benefits of version control is that
-you do not loose any of your work, and if you want, you can go back to any of the previous files or versions that you like.
-Let’s explore more
+you do not loose any of your work, and if you want, you can go back to any of the previous files or versions that you like. Let’s explore more
 
 ### Git
 
@@ -36,7 +35,7 @@ I can tell you basic commands to get you started but before that let's create yo
 
 In order, to sign up go to [www.github.com](https://github.com/)
 
-![Sign Up](./github1.PNG "Image sourced from GitHub.com")
+![Sign Up](./github1.PNG)
 Figure 1: Image sourced from www.github.com
 
 GitHub will ask you series of questions, and will ask you to choose a plan. I have chosen the, "Free" plan which gives you access to unlimited public and private
