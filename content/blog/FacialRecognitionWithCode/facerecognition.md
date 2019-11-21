@@ -37,9 +37,6 @@ The next thing I want to do is create a list of encoding and names for both of u
 
 This blog was an introductory to Face Recognition with Python, you can try this for yourself, just download the [ImageRecognition.ipnyb](https://github.com/niphadkarneha/FaceRecognition/blob/master/ImageRecognition.ipynb) you can either run it on Anaconda or Google Colab, the choice is yours.
 
-
-<div style="text-align: center;"><embed src="https://gist.github.com/niphadkarneha/a62b835f0f17dd27c34dcf345dda227f.js" style="width:900px; height: 700px;"></div>
-
 If you want to watch the CS50 Lecture 6 Python, you can watch the whole thing there
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fL308_-Kbt0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
