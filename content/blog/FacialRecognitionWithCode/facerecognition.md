@@ -35,10 +35,10 @@ The next thing I want to do is create a list of encoding and names for both of u
 
 ![Group Picture](./final.PNG)
 
-This blog was an introductory to Face Recognition with Python, you can try this for yourself, just download the [ImageRecognition.ipnyb](https://github.com/niphadkarneha/FaceRecognition/blob/master/ImageRecognition.ipynb) you can either run it on Anaconda or Google Colab, the choice is yours. The field of Computer Vision is vast, with a lot of interesting problem.
+This blog was an introductory to Face Recognition with Python, you can try this for yourself, just download the [ImageRecognition.ipnyb](https://github.com/niphadkarneha/FaceRecognition/blob/master/ImageRecognition.ipynb) you can either run it on Anaconda or Google Colab, the choice is yours.
 
-<script src="https://gist.github.com/niphadkarneha/a62b835f0f17dd27c34dcf345dda227f.js"></script>
 
+<div style="text-align: center;"><embed src="https://gist.github.com/niphadkarneha/a62b835f0f17dd27c34dcf345dda227f.js" style="width:900px; height: 700px;"></div>
 
 If you want to watch the CS50 Lecture 6 Python, you can watch the whole thing there
 
