@@ -22,11 +22,11 @@ So, I decided to run the code on Google Colaboratory, all you need to make sure 
 
 Face Recognition library let's you upload a known image which will be used for the purpose of identification. I have used an image that can be found on almost all of my social media accounts
 
-![Profile Picture](./profile.jpg)
+![Profile Picture](./nehaprofile.PNG)
 
 Python is going to rely on libraries like Face Recognition, Pillow, and NumPy to use the known image and search for my face in the group. As a test image, I have used a group image. This particular photograph was taken last year in Summer 2018, when I volunteered for the Machine Learning and Data Science Bootcamp held at Old Dominion University (ODU) in collaboration with Virginia Space Grant Consortium (VSGC). In this image, you will see Me(Neha), Dr. Ravi Mukkamala (Chair - Department of Computer Science), Dr. Yaohang Li (Associate Professor at ODU), and seniors from High School in the Hampton Roads area. This workshop was conducted in order to promote STEM education. You can see we can successfully detect my face, and it can be marked by a bounding box around it.
 
-![Group Picture](./result.jpg)
+![Group Picture](./result_neha.PNG)
 
 You can watch the whole thing there
 
