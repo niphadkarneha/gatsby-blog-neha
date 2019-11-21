@@ -29,11 +29,15 @@ Python is going to rely on libraries like Face Recognition, Pillow, and NumPy to
 ![Group Picture](./result_neha.PNG)
 
 Let's try and recognize more people in the same group picture. Let's try and recognize the Chair for the Department of Computer Science at ODU, Dr. Ravi Mukkamala, and we'll for everyone else in the image, we will try and tag them as unknown. In order to do this, we will need to download Image and ImageDraw from the Pillow library since I will be drawing on the images. Just like our previous example, the way we identified my image, we will replicate it for Dr. Ravi. I will load_image_file as a numpy array, then I will use face_encodings to return a list of 128-dimensional face encodings.
-We will only need the first item and we can set the index to [0]. Now, we have face encodings for me and Dr. Ravi. The next thing I want to do is create a list of encoding and names for both of us. The rest of the procedure remains fairly identical to the first process. In the resulting image below, you can see that all of the faces are annotated with some information, in case of Dr. Ravi and myself we have our names below our images but rest of them are labelled as unknown.
+We will only need the first item and we can set the index to [0]. Now, we have face encodings for me and Dr. Ravi.
+
+The next thing I want to do is create a list of encoding and names for both of us. The rest of the procedure remains fairly identical to the first process. In the resulting image below, you can see that all of the faces are annotated with some information, in case of Dr. Ravi and myself we have our names below our images but rest of them are labelled as unknown.
 
 ![Group Picture](./final.PNG)
 
 This blog was an introductory to Face Recognition with Python, you can try this for yourself, just download the [ImageRecognition.ipnyb](https://github.com/niphadkarneha/FaceRecognition/blob/master/ImageRecognition.ipynb) you can either run it on Anaconda or Google Colab, the choice is yours. The field of Computer Vision is vast, with a lot of interesting problem.
+
+<script src="https://gist.github.com/niphadkarneha/a62b835f0f17dd27c34dcf345dda227f.js"></script>
 
 
 If you want to watch the CS50 Lecture 6 Python, you can watch the whole thing there
