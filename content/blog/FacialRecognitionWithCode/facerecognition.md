@@ -21,7 +21,7 @@ Google Colaboratory is a jupyter notebook environment that runs on the cloud and
 
 All you need to make sure is that you have a google account to sign in and the tutorial is right [here](https://colab.research.google.com/notebooks/welcome.ipynb).
 
-Let's get started, In this 2 part tutorial we will first try to detect one image or one person from a group. In Part 2, we will detect 2 images or 2 people and label the rest as unknown.
+Let's get started, in this 2 part tutorial we will first try to detect one image or one person from a group. In Part 2, we will detect 2 images or 2 people and label the rest as unknown.
 
 ## Part 1
 
@@ -33,7 +33,7 @@ Face Recognition library let's you upload an image, often called as the, "known 
 
 Figure 1: My profile picture which will be called as, "Known image".
 
-Python is going to rely on libraries like Face Recognition, Pillow, and NumPy to use the known image and search for my face in the group. As a test image, I have used a group image. This particular photograph was taken last year in Summer 2018, when I volunteered for the Machine Learning and Data Science Bootcamp held at Old Dominion University (ODU) in collaboration with Virginia Space Grant Consortium (VSGC). In this image, you will see Me(Neha), Dr. Ravi Mukkamala (Chair - Department of Computer Science), Dr. Yaohang Li (Associate Professor at ODU), and seniors from High School in the Hampton Roads area. This workshop was conducted in order to promote STEM education. You can see we can successfully detect my face, and it can be marked by a bounding box around it.
+Python is going to rely on libraries like Face Recognition, Pillow, and NumPy to use the known image and search for my face in the group. As a test image, I have used a group image. This particular photograph was taken last year in Summer 2018, when I volunteered for the Machine Learning and Data Science Bootcamp held at Old Dominion University (ODU) in collaboration with Virginia Space Grant Consortium (VSGC). In this image, you will see Me (Neha), Dr. Ravi Mukkamala (Chair - Department of Computer Science), Dr. Yaohang Li (Associate Professor at ODU), and seniors from High School in the Hampton Roads area. This workshop was conducted in order to promote STEM education. You can see we can successfully detect my face, and it can be marked by a bounding box around it.
 
 ![Group Picture](./result_neha.PNG)
 Figure 2: You can see the bounding box around my face, the library was 100% accurate.
