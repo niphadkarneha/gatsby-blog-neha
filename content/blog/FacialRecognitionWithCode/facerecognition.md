@@ -1,5 +1,5 @@
 ---
-title: Facial Recognition with Python Code
+title: Face Recognition with Python Code
 date: "2019-11-21T20:48:51+00:00"
 layout: post
 draft: false
@@ -30,6 +30,7 @@ Let's get started, In this 2 part tutorial we will first try to detect one image
 Face Recognition library let's you upload an image, often called as the, "known image" which will be used for the purpose of identification. I have used an image that can be found on almost all of my social media accounts.
 
 ![Profile Picture](./nehaprofile.PNG)
+
 Figure 1: My profile picture which will be called as, "Known image".
 
 Python is going to rely on libraries like Face Recognition, Pillow, and NumPy to use the known image and search for my face in the group. As a test image, I have used a group image. This particular photograph was taken last year in Summer 2018, when I volunteered for the Machine Learning and Data Science Bootcamp held at Old Dominion University (ODU) in collaboration with Virginia Space Grant Consortium (VSGC). In this image, you will see Me(Neha), Dr. Ravi Mukkamala (Chair - Department of Computer Science), Dr. Yaohang Li (Associate Professor at ODU), and seniors from High School in the Hampton Roads area. This workshop was conducted in order to promote STEM education. You can see we can successfully detect my face, and it can be marked by a bounding box around it.
