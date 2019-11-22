@@ -12,10 +12,10 @@ tags:
 description: "Facial Recognition with Python Code"
 ---
 
-Face Recognition library for Python is a powerful, easy to use, and simplest library. This blog post is for begineers who want to dabble with Face detection or Object detection
+Face Recognition library for Python is a powerful, easy to use, and simplest library. This blog post is for beginner's who want to dabble with Face detection or Object detection
 using Python. I am going to use Google Colaboratory tool so that you do not have to worry about installing libraries or making sure that you have the right version of python.
 
-Google Colaboratory is a jupyter notebook enviroment that runs on the cloud and does not require any setup. It is easy, free to use, and wait for it
+Google Colaboratory is a jupyter notebook environment that runs on the cloud and does not require any setup. It is easy, free to use, and wait for it
 
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/5gYaMoRVw28vMdtZ3n" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cc-gpu-gumgum-5gYaMoRVw28vMdtZ3n">Free GPU</a></p>
 
