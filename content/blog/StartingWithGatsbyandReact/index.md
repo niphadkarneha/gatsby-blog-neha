@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Moving to GatsbyJS
 date: "2019-05-30T08:34:09+00:00"
 ---
 
@@ -14,7 +14,7 @@ I love reading blogs and articles on Medium and that how I stumbled on
 
 >More often than not as a developer you will need to create a static web page. Either creating a portfolio of your projects, a product landing page, etc.
 
-![Mr. Gatsby](./gatsby.png)
+![Mr. Gatsby](./gatsby.PNG)
 
 I found these tutorials extremely useful
 
