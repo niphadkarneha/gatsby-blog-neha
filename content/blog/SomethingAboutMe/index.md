@@ -1,6 +1,6 @@
 ---
 title: New Beginnings
-date: "2019-05-30T08:34:09+00:00"
+date: "2019-06-30T08:34:09+00:00"
 description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
 

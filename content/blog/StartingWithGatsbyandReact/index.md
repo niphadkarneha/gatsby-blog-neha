@@ -1,6 +1,6 @@
 ---
 title: Moving to GatsbyJS
-date: "2019-05-30T08:34:09+00:00"
+date: "2019-06-01T00:00:00+00:00"
 ---
 
 This is my first attempt at building a Gatsby site.

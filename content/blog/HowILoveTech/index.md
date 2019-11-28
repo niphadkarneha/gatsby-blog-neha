@@ -1,6 +1,6 @@
 ---
 title: Transition into Computer Science.
-date: "2019-05-06T23:46:37.121Z"
+date: "2019-06-15T23:46:37.121Z"
 ---
 
 <strong>I did not fall into the wrong career path nor was I tired of my previous job.</strong> A Greek philosopher named Heraclitus taught me early on that “Change is the only constant”, I’ve carried that with me ever since. Unless you change, unless you learn, you will never grow. I made my career change into Computer Science in the year 2016, I often get asked How did you decide to change your career? How did you do it? How many universitites did I apply to? etc. Without boring you with too many details, I will focus on the main
