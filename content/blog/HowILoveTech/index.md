@@ -4,23 +4,26 @@ date: "2019-05-06T23:46:37.121Z"
 ---
 
 
-<strong>I did not fall into the wrong career path nor was I tired of my previous job.</strong> A Greek philosopher named Heraclitus taught me early on that “Change is the only constant”, I’ve carried that with me ever since. Unless you change, unless you learn, you will never grow. I made my career change into Computer Science in the year 2016. I often get the Why? How? and When? and This is that story.
+<strong>I did not fall into the wrong career path nor was I tired of my previous job.</strong> A Greek philosopher named Heraclitus taught me early on that “Change is the only constant”, I’ve carried that with me ever since. Unless you change, unless you learn, you will never grow. I made my career change into Computer Science in the year 2016, I often get asked How did you decide to change your career? How did you do it? How many universitites did I apply to? etc. Without boring you with too many details, I will focus on the main
 
 # Start - Research
 
 I started out by searching for all the possible degrees offered in the field of Computer Science. The 3 degree programs that peaked my interest right away were
 
-1. Master's degree in Computer Science
-2. Master's degree in Computer Information Systems
-3. Master's degree in Computer Science with a focus in Cyber Security.
++ Master's degree in Computer Science
++ Master's degree in Computer Information Systems
++ Master's degree in Computer Science with a focus in Cyber Security.
 
-I researched about all the Universities within a 100 mile radius who offered these programs. I found out the funding opportunities, research opportunities, diversity ratio, faculty members, and housing. Yes, my pro's and con's list was as extensive as it can be, based on the list and extensive research I ended up picking <strong>Old Dominion University (ODU)</strong> I made an appointment to meet with The Chair Dr. Ravi Mukkamala and The Graduate Program Director Dr. Michele Weigle for Computer Science and they were extremely kind and supportive, we charted out a plan of how I can finish my prerequisites and apply for the Master's program. 
+I researched about all the Universities within a 100 mile radius who offered these programs. Funding opportunities, Research opportunities, Diversity ratio, Faculty members and Staff, and On campus and off campus housing were all important factors for me. Yes, my pro's and con's list was as extensive as it can be, based on the list and research I ended up picking <strong>Old Dominion University (ODU)</strong> I made an appointment to meet with The Chair Dr. Ravi Mukkamala and The Graduate Program Director Dr. Michele Weigle for Computer Science and they were extremely kind and supportive, we charted out a plan of how I can finish my prerequisites and apply for the Master's program.
+
+> Meeting with the faculty and staff, helped establish a good rapport. It helped put a face to an application.
+>>They heard my story, knew what I wanted to achieve, and realized that I was determined to follow through.
 
 # Middle - Pre-requisites
 
-Pre-requisites can be an expensive deal for an international student who is paying Out-of-state tuition, thus we came to a consensus that I would complete all my prerequiste courses at the local Tidewater Community College (TCC) for 2 years and then transfer to ODU. The application process for TCC was fairly straightforward and the staff was some of the most helpfull people I as an international student could ever meet.
+Pre-requisites can and are an expensive deal for an international student who is paying Out-of-state tuition, we are talking about paying $300 versus $1000 per credit. We came to a consensus that I would complete all my prerequiste courses at the local Tidewater Community College (TCC) for 2 years and then transfer to ODU. The application process for TCC was fairly straightforward and the staff was some of the most helpfull people I as an international student could ever meet.
 
-While at Tidewater Community College, I took course in both Math and Computer Science some of them are mentioned below
+While at Tidewater Community College, I took course in both Math, Statistics, and Computer Science some of them are mentioned below
 
 1. Precalculus
 2. Calculus
@@ -29,11 +32,13 @@ While at Tidewater Community College, I took course in both Math and Computer Sc
 5. Computer Organization
 6. Programming with C++
 
-Once I completed these courses, I started my transfer/application process at ODU. It was honestly nerve-wracking but I did get into the program. I initially applied for a Master's in Computer Information Systems but right into my first semester I realized that I was more suited and passionate for Master's in Computer Science. I made the switch right after my first semester.
+Once I completed these courses, I started my transfer/application process at ODU. It was honestly nerve-wracking but I did get into the program. 
+
+> I initially applied for a Master's in Computer Information Systems
 
 # End - Graduate Student
 
-The process of transitioning into Computer Science has been long, hard, and filled with a lot of ups and downs. I am grateful for this journey but it would not have been possible without mentioning these kind people
+Right into my first semester I realized that I was more passionate about programming and switched my Major from CIS to Computer Science. The process of transitioning into Computer Science has been long, hard, and filled with a lot of ups and downs. I am grateful for this journey but it would not have been possible without mentioning these kind people
 
 A non-exhaustive list.
 
