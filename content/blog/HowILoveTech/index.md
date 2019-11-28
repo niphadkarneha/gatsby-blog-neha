@@ -49,9 +49,9 @@ People who helped me
 
 I started with these tools
 
-- [Free Code Camp](https://www.freecodecamp.org/) Free!!
-- [Harvard CS50](https://cs50.harvard.edu/college/) Free!!
-- [Atom Text Editor](https://atom.io/) Free!!
+- [Free Code Camp](https://www.freecodecamp.org/) 🆓
+- [Harvard CS50](https://cs50.harvard.edu/college/) 🆓
+- [Atom Text Editor](https://atom.io/) 🆓s
 - [Terminal](https://github.com/0nn0/terminal-mac-cheatsheet#english-version) Start using your Command Line Interface.
 
 ### Do not hesitate to ask more questions
