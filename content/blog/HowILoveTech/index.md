@@ -25,24 +25,35 @@ Pre-requisites can and are an expensive deal for an international student who is
 
 While at Tidewater Community College, I took course in both Math, Statistics, and Computer Science some of them are mentioned below
 
-1. Precalculus
-2. Calculus
-3. Differential Equations
-4. Introduction to Computing
-5. Computer Organization
-6. Programming with C++
++ Precalculus
++ Calculus
++ Differential Equations
++ Introduction to Computing
++ Computer Organization
++ Programming with C++
 
 Once I completed these courses, I started my transfer/application process at ODU. It was honestly nerve-wracking but I did get into the program. 
 
-> I initially applied for a Master's in Computer Information Systems
+> I initially applied for a Master's in Computer Information Systems (CIS).
 
 # End - Graduate Student
 
-Right into my first semester I realized that I was more passionate about programming and switched my Major from CIS to Computer Science. The process of transitioning into Computer Science has been long, hard, and filled with a lot of ups and downs. I am grateful for this journey but it would not have been possible without mentioning these kind people
+Right into my first semester I realized that I was more passionate about programming and switched my Major from CIS to Computer Science. The process of transitioning into Computer Science has been long, hard, and filled with a lot of ups and downs. I am grateful for this journey but it would not have been possible without mentioning a few things
 
-A non-exhaustive list.
+People who helped me
 
 - [Kirk Dewyea: Director of Training and Assessment at ODU](https://www.odu.edu/directory/people/k/kdewyea) - Kirk guided me on how to take my prerequisite courses at TCC. He is a great guide and mentor.
 - [Dr. Michele C. Weigle: Graduate Program Director](https://www.cs.odu.edu/~mweigle/) - Brilliant researcher, kind human being, and to the point in her meetings.
 - [Ajay Gupta: Director of Computer Resources](https://www.odu.edu/directory/people/a/ajay) - This man is a legend.
 - [Ariel Sturtevant: Graduate Programs](https://www.odu.edu/directory/people/a/astur001) - Guide, A fellow travel buddy, and friend for life.
+
+I started with these tools
+
+- [Free Code Camp](https://www.freecodecamp.org/) Free!!
+- [Harvard CS50](https://cs50.harvard.edu/college/) Free!!
+- [Atom Text Editor](https://atom.io/) Free!!
+- [Terminal](https://github.com/0nn0/terminal-mac-cheatsheet#english-version) Start using your Command Line Interface.
+
+### Do not hesitate to ask more questions
+
+If you do need more information, please email me on [niphadkarneha@gmail.com](niphadkarneha@gmail.com) or ask me on [Twitter](https://twitter.com/NiphadkarNeha).
