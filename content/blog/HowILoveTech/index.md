@@ -9,9 +9,9 @@ date: "2019-05-06T23:46:37.121Z"
 
 I started out by searching for all the possible degrees offered in the field of Computer Science. The 3 degree programs that peaked my interest right away were
 
-+ Master's degree in Computer Science
-+ Master's degree in Computer Information Systems
-+ Master's degree in Computer Science with a focus in Cyber Security.
++ [Master's in Computer Science](https://www.odu.edu/academics/programs/masters/computer-science)
++ [Master's in Computer Information Systems](https://www.odu.edu/business/departments/infotech/academics/graduate/master-of-scienceincomputerscience)
++ [Master's in Computer Science with a focus in Cyber Security](https://graduate.cs.odu.edu/certificates/cybersecurity/)
 
 I researched about all the Universities within a 100 mile radius who offered these programs. Funding opportunities, Research opportunities, Diversity ratio, Faculty members and Staff, and On campus and off campus housing were all important factors for me. Yes, my pro's and con's list was as extensive as it can be, based on the list and research I ended up picking <strong>Old Dominion University (ODU)</strong> I made an appointment to meet with The Chair Dr. Ravi Mukkamala and The Graduate Program Director Dr. Michele Weigle for Computer Science and they were extremely kind and supportive, we charted out a plan of how I can finish my prerequisites and apply for the Master's program.
 
@@ -20,7 +20,7 @@ I researched about all the Universities within a 100 mile radius who offered the
 
 ## Middle - Pre-requisites
 
-Pre-requisites can and are an expensive deal for an international student who is paying Out-of-state tuition 💵, we are talking about paying $300 versus $1000 per credit. We came to a consensus that I would complete all my prerequiste courses at the local Tidewater Community College (TCC) for 2 years and then transfer to ODU. The application process for TCC was fairly straightforward and the staff was some of the most helpfull people I as an international student could ever meet.
+Pre-requisites can and are an expensive deal for an international student who is paying Out-of-state tuition 💵, we are talking about paying $300 versus $1000 per credit. We came to a consensus that I would complete all my prerequiste courses at the local [Tidewater Community College (TCC)](https://www.tcc.edu/) for 2 years and then transfer to ODU. The application process for TCC was fairly straightforward and the staff was some of the most helpfull people I as an international student could ever meet.
 
 While at Tidewater Community College, I took course in both Math, Statistics, and Computer Science some of them are mentioned below
 
