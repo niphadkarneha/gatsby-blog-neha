@@ -1,12 +1,9 @@
 ---
-title: Google Data Studio with Google Analytics
+title: Website Analytics using Google Analytics and Data Studio.
 date: "2019-10-08T15:48:42+00:00"
 ---
 
-
-# Website Analysis using Google Data Studio.
-
-I stumbled on Google Data Studio fairly recently but it was launched by Google in 2016. It is a powerful tool if you want to carry out basic analysis and its free. All you need is Google account, for the purpose of this article I am going to carry out exploratory data analysis for my website i.e. <strong>nehaniphadkar.in</strong>. I will look at number of visits to my site, the frequency, time of day, geolocations etc. So ride along with me and We'll do this step by step
+I stumbled on Google Data Studio fairly recently but it was launched way back in 2016 by Google Inc. It is a powerful tool if you want to carry out basic analysis and its free. All you need is Google account, for the purpose of this article I am going to carry out exploratory data analysis for my website i.e. <strong>nehaniphadkar.in</strong>. I will look at number of visits to my site, the frequency, time of day, geolocations etc. So ride along with me and We'll do this step by step
 
 # Google Data Studio
 
@@ -56,8 +53,6 @@ Let's create some basic visualizations
 2. On the right hand side, under Data. Change the dimension to, "Country".
 3. Click on Insert -> GeoMap. Drop it below the filter.
 
-<!-- ![Continent](./continent.png "Web Traffic from different Continents.") -->
-
 <iframe width="500" height="250" src="https://datastudio.google.com/embed/reporting/14QFZGQDLMRHDLPFSOuYkCv8PZkYz_IE_/page/Bjz2" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 I immediately get a visualization of traffic sources based on the Continent.
@@ -69,16 +64,12 @@ I immediately get a visualization of traffic sources based on the Continent.
 
 I get the, "Type of Visit" on a timeline. It gives me the area chart for Organic, Referral, and Direct visits to my webpage. It also tell me that visits to my webpage have gone up in the last 30 days. The maximum visits have been from a referral. If I analyze the data further, I know it is from GitHub Inc.
 
-<!-- ![Area](./area.png "Types of Visits.") -->
-
 <iframe width="500" height="250" src="https://datastudio.google.com/embed/reporting/1veD3rPxFAyaZG4gDU0qPizCQNGXIMnqw/page/Aiz2" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ### Visualization 3
 
 1. Go to Insert, Pivot table
 2. On the right hand side, under Data. Change the dimension to, "Page".
-
-<!-- ![Page Views](./pageviews.png "Page Views according to sources.") -->
 
 <iframe width="500" height="250" src="https://datastudio.google.com/embed/reporting/1MwsfySX8rSXE75FqX3XoTwxqQYtmbQoH/page/qSV2" frameborder="0" style="border:0" allowfullscreen></iframe>
 
