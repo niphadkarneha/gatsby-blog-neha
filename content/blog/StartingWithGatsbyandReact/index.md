@@ -14,7 +14,7 @@ I love reading blogs and articles on Medium and that how I stumbled on
 
 >More often than not as a developer you will need to create a static web page. Either creating a portfolio of your projects, a product landing page, etc.
 
-![Mr. Gatsby](./gatsby.PNG)
+<div style="width:100%;height:0;padding-bottom:42%;position:relative;"><iframe src="https://giphy.com/embed/rY93u9tQbybks" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/great-dicaprio-leonardo-rY93u9tQbybks">via GIPHY</a></p>
 
 I found these tutorials extremely useful
 
