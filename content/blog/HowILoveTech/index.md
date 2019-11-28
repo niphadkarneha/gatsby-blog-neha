@@ -1,37 +1,43 @@
 ---
-title: How did I end up with all things Tech.
+title: Transition into Computer Science.
 date: "2019-05-06T23:46:37.121Z"
 ---
 
-A Greek philosopher named Heraclitus taught me early on that “Change is the only constant”, I’ve carried that with me ever since. Unless you change, unless you learn, you will never grow. I made my career change into Computer Science in the year 2016. *I did not fall into the wrong career nor was I tired of my previous job*. I often get the Why? How? and When? and This is that story.
 
-## The Beginning precedes the Why?
-I vaguely remember the first time I heard about Bill Gates and Steve Jobs, I was a child back then and did not fully comprehend why the grown ups were so fascinated by Apple and Microsoft. I was happy playing video games and gully cricket. If you don’t know what that is
+<strong>I did not fall into the wrong career path nor was I tired of my previous job.</strong> A Greek philosopher named Heraclitus taught me early on that “Change is the only constant”, I’ve carried that with me ever since. Unless you change, unless you learn, you will never grow. I made my career change into Computer Science in the year 2016. I often get the Why? How? and When? and This is that story.
 
-![Image](gully.jpeg "Gully cricket being played in India.")
+# Start - Research
 
-Yes, I was that tomboy and I loved playing gully cricket. I remember the first time I opened MS Office in a school computer lab. I remember registering for AOL and Yahoo accounts
+I started out by searching for all the possible degrees offered in the field of Computer Science. The 3 degree programs that peaked my interest right away were
 
-After highschool, I went to one of the best colleges, “Sophia College”. It was one of the turning places in my life. It was there that I was introduced to Psychology and in all of my academic life I had not come across a more complex field of study. I was astonished rather shocked by the number of people who need and seek help in daily life and how there is a shortage of personnel in the field. Thus began my five year journey into the study of psychology. I specialized in the Applied field of Industrial and Organizational psychology and got my Master’s degree. I worked in the Department of Human Resources in 2 different Digital Media agencies while in India.
+1. Master's degree in Computer Science
+2. Master's degree in Computer Information Systems
+3. Master's degree in Computer Science with a focus in Cyber Security.
 
-## The Middle - Why? How? and When?
+I researched about all the Universities within a 100 mile radius who offered these programs. I found out the funding opportunities, research opportunities, diversity ratio, faculty members, and housing. Yes, my pro's and con's list was as extensive as it can be, based on the list and extensive research I ended up picking <strong>Old Dominion University (ODU)</strong> I made an appointment to meet with The Chair Dr. Ravi Mukkamala and The Graduate Program Director Dr. Michele Weigle for Computer Science and they were extremely kind and supportive, we charted out a plan of how I can finish my prerequisites and apply for the Master's program. 
 
-While working at Cogencis Information Services,  I was incharge of HRIS, Human Resource Information System. What might have been a rather expensive task for the company and what I found was that there were 3 different systems in place. We had independent software for attendance, payroll, and taxes. It took several human hours at the end of every month to get salaries and compensation out in a time when all of these tools could have been linked for better processing. Saving time, money, and resources. I decided to spend my spare time whatever I had left to learn programming. Pun not intended but the benefits of being into HR, is that you have access to human resources. I went to Head of Department for IT and asked him the basics. He introduced me to W3Schools.com.
+# Middle - Pre-requisites
 
-I knew If I did not have a strong understanding of the basic concepts I would not good at anything. I did what any student who did not want huge student debts, I went to a community college and enrolled in Programming with C++(CS210). Tidewater Community College was one of the best decisions I took. Anybody who went to TCC, Virginia Beach will tell you about the amazing professor named, Scott Davis. He is an amazing mentor for someone who wants to learn programming. His classes were 95 percent hands on programming, I ended up writing 5-7 programs in one class. It was all about finding syntax errors, whiteboarding, and a lot of projects.
-After getting familiar with the basics I transferred to Old Dominion University which is also based in Norfolk, VA.
+Pre-requisites can be an expensive deal for an international student who is paying Out-of-state tuition, thus we came to a consensus that I would complete all my prerequiste courses at the local Tidewater Community College (TCC) for 2 years and then transfer to ODU. The application process for TCC was fairly straightforward and the staff was some of the most helpfull people I as an international student could ever meet.
 
-## Present
+While at Tidewater Community College, I took course in both Math and Computer Science some of them are mentioned below
 
-Here's the [tl;dr](https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read) of my story:
+1. Precalculus
+2. Calculus
+3. Differential Equations
+4. Introduction to Computing
+5. Computer Organization
+6. Programming with C++
 
-- I've always loved the possibilities of how technology can improve our lives.
-- I loved studying formal language of Computer Science.
-- The hardest part of all was thinking If I am too late to make the switch.
-- I did a three month unpaid internship inorder to get a job on campus that would pay for my tuition.
-- The seed of an idea for a career change began in March, 2014.
-- I hope to get a job in this new chosen field.
+Once I completed these courses, I started my transfer/application process at ODU. It was honestly nerve-wracking but I did get into the program. I initially applied for a Master's in Computer Information Systems but right into my first semester I realized that I was more suited and passionate for Master's in Computer Science. I made the switch right after my first semester.
 
-The End Is Only The Beginning.
+# End - Graduate Student
 
-- Yes, I am a big movie buff. 
+The process of transitioning into Computer Science has been long, hard, and filled with a lot of ups and downs. I am grateful for this journey but it would not have been possible without mentioning these kind people
+
+A non-exhaustive list.
+
+- [Kirk Dewyea: Director of Training and Assessment at ODU](https://www.odu.edu/directory/people/k/kdewyea) - Kirk guided me on how to take my prerequisite courses at TCC. He is a great guide and mentor.
+- [Dr. Michele C. Weigle: Graduate Program Director](https://www.cs.odu.edu/~mweigle/) - Brilliant researcher, kind human being, and to the point in her meetings.
+- [Ajay Gupta: Director of Computer Resources](https://www.odu.edu/directory/people/a/ajay) - This man is a legend.
+- [Ariel Sturtevant: Graduate Programs](https://www.odu.edu/directory/people/a/astur001) - Guide, A fellow travel buddy, and friend for life.
