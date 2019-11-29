@@ -19,16 +19,13 @@ class Layout extends React.Component {
       header = (
         <div className="homePageHeader">
           <h1>Hey, I'm Neha <span role="img" aria-label="wave">👋</span></h1>
-          <p>I am graduating with a <strong>Master's degree in Computer Science <span role="img" aria-label="woman student">👩‍🎓</span></strong> from Old Dominion University in December, 2019. 
-          These past two years have been an amazing learning experience, I have worked both as a Computer Science Instructor  
-          and a Research Assistant.</p>
+          <p>I am graduating with <strong>Master's in Computer Science <span role="img" aria-label="woman student">👩‍🎓</span></strong> from Old Dominion University in December 2019, 
+          and the past two years have been an amazing journey as a student, as a researcher, and a computer science instructor.</p>
 
-          <p>I have been an active member of student organization called, "International Student Advisory Board", 
-          volunteered at summer research camps, participated in hackathons, all in all, lived a full life as a graduate student.</p>
+          <p>I have lived a full and enriching life as a graduate student, being an active member of student body organizations, participating in hackathons, conferences, workshops, and volunteering whenever I could.</p>
 
-          <p>I always wanted to share the resources that have helped me along my journey, 
-          so when summer rolled along, I started writing my blog. You are welcome to read along as I jot down a few pointers for fellow tech-travelers, 
-          but if you want to talk about the House of The Dragon <span role="img" aria-label="dragon">🐉</span>, I’m totally fine with that too.</p>
+          <p>I always wanted to share the resources that have helped me along my journey, so I started writing my blog. 
+          You are welcome to read along as I jot down a few pointers, but if you want to talk about the House of The <span role="img" aria-label="dragon">🐉</span>, I’m totally fine with that too.</p>
 
           <p>Apart from programming, I love to travel <span role="img" aria-label="travel">🛫</span>and I aim to visit one new place each year. 
           I enjoy photography and watching movies, you can expect to see a few pet topics creep into what is essentially 
@@ -38,8 +35,7 @@ class Layout extends React.Component {
             <Link to={"/projects"}>Projects</Link>
             <Link to={"/blogs"}>Blogs</Link>
             <Link to={"/resume/"}>Resume</Link>
-            <a href="https://www.linkedin.com/in/niphad/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-            <a href="https://twitter.com/NiphadkarNeha" target="_blank" rel="noopener noreferrer">Twitter</a>
+            <Link to={"/contact/"}>Contact</Link>
           </nav>
         </div>
       )

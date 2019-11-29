@@ -27,6 +27,20 @@ class BlogIndex extends React.Component {
             })}
           </ul>
         </div>
+        <div>
+          <ul>
+            {posts.filter(item => item.node.fields.slug !== '/contact/').map(({ node }) => {
+              const title = node.frontmatter.title || node.fields.slug
+              return (
+                <li key={node.fields.slug}>
+                  <Link style={{ boxShadow: `none`, fontSize:"21px", textDecoration:"none", fontStyle:"normal" }} to={node.fields.slug}>
+                    {title}
+                  </Link>
+                </li>
+              )
+            })}
+          </ul>
+        </div>        
       </Layout>
     )
   }

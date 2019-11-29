@@ -1,7 +1,7 @@
 [
   {
     "title": "Gatherly",
-    "description": "Social Media website - HTML, CSS, AJAX, and JavaScript. #ClassProject",
+    "description": "Social Media Website - HTML, CSS, AJAX, and JavaScript. #ClassProject",
     "github": "https://github.com/AbelWeldaregay/Gatherly-Social-Media-Website"
   },
   {
@@ -10,8 +10,23 @@
     "github": "https://github.com/niphadkarneha/GatherlyMobile"
   },
   {
-    "title": "App Development for Smart Devices",
-    "description": "Contacts, ToDo, Localization, Food Blog. #ClassProject",
+    "title": "To-Do",
+    "description": "To-Do list application for #ClassProject",
+    "github": "https://github.com/niphadkarneha/AppDevelopmentForSmartDevices"
+  },
+  {
+    "title": "Contact application",
+    "description": "Contacts application for #ClassProject",
+    "github": "https://github.com/niphadkarneha/AppDevelopmentForSmartDevices"
+  },
+  {
+    "title": "Localization with Google Maps API",
+    "description": "Localization with Google Maps API for #ClassProject",
+    "github": "https://github.com/niphadkarneha/AppDevelopmentForSmartDevices"
+  },
+  {
+    "title": "Golden Palace - Moroccan Food Receipes",
+    "description": "Moroccan Food Receipes application for #ClassProject",
     "github": "https://github.com/niphadkarneha/AppDevelopmentForSmartDevices"
   },
   {
@@ -35,12 +50,12 @@
     "github": "https://crimedataanalysisvirginiabeach.netlify.com/"
   },
   {
-    "title": "Google Data Studio with Google Analytics",
-    "description": "Visualizing Website Analytics using Google Data Studio. #Personal #Dash",
+    "title": "Wesite Analytics",
+    "description": "Website analytics using Google Analytics and Data Studio. #Personal #Reporting",
     "github": "https://www.nehaniphadkar.in/GoogleDataStudio/"
   },
   {
-    "title": "Natural Language Processing",
+    "title": "Website Content - Natural Language Processing",
     "description": "NLP for website landing page. #WebContent #Analysis",
     "github": "https://www.nehaniphadkar.in/SentimentAnalysis/SentimentAnalysis/"
   }
