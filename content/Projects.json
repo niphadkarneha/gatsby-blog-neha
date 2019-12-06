@@ -1,6 +1,6 @@
 [
   {
-    "title": "Gatherly",
+    "title": "Gatherly Web App",
     "description": "Social Media Website - HTML, CSS, AJAX, and JavaScript. #ClassProject",
     "github": "https://github.com/AbelWeldaregay/Gatherly-Social-Media-Website"
   },
@@ -10,12 +10,18 @@
     "github": "https://github.com/niphadkarneha/GatherlyMobile"
   },
   {
-    "title": "To-Do",
+    "title": "Virginia Beach Crime Exploration and Mapping",
+    "description": "Exploratory Data Analysis for City of Virginia Beach Crimes. #Personal #EDA",
+    "github": "https://crimedataanalysisvirginiabeach.netlify.com/"
+  },
+
+  {
+    "title": "To-Do Mobile App",
     "description": "To-Do list application for #ClassProject",
     "github": "https://github.com/niphadkarneha/AppDevelopmentForSmartDevices"
   },
   {
-    "title": "Contact application",
+    "title": "Contact Mobile App",
     "description": "Contacts application for #ClassProject",
     "github": "https://github.com/niphadkarneha/AppDevelopmentForSmartDevices"
   },
@@ -35,7 +41,7 @@
     "github": "https://github.com/niphadkarneha/transitland-processing-animation"
   },
   {
-    "title": "Volunteering@ODU",
+    "title": "Volunteering at ODU",
     "description": "Machine Learning and Data Science Camp. #Andy #DrLi",
     "github": "https://github.com/niphadkarneha/SummerCamp"
   },
@@ -45,12 +51,7 @@
     "github": "https://github.com/niphadkarneha/CS725"
   },
   {
-    "title": "Virginia Beach Crime Exploration and Mapping",
-    "description": "Exploratory Data Analysis for City of Virginia Beach Crimes. #Personal #EDA",
-    "github": "https://crimedataanalysisvirginiabeach.netlify.com/"
-  },
-  {
-    "title": "Wesite Analytics",
+    "title": "Website Analytics",
     "description": "Website analytics using Google Analytics and Data Studio. #Personal #Reporting",
     "github": "https://www.nehaniphadkar.in/GoogleDataStudio/"
   },
@@ -58,5 +59,10 @@
     "title": "Website Content - Natural Language Processing",
     "description": "NLP for website landing page. #WebContent #Analysis",
     "github": "https://www.nehaniphadkar.in/SentimentAnalysis/SentimentAnalysis/"
+  },
+  {
+    "title": "Website Content for Information Literacy",
+    "description": "Written and maintained website content for CS120|121|112",
+    "github": "https://intro.cs.odu.edu/"
   }
 ]
