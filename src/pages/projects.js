@@ -67,7 +67,7 @@ class Projects extends React.Component {
                         textDecoration: "none",
                         fontStyle: "normal"
                       }}
-                      href={item.node.github}>Github</a>
+                      href={item.node.github}>Link</a>
                   </div>
                 </div>
               </div>
