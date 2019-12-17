@@ -20,7 +20,7 @@ With the goal of reading one book a month while maintaining the balance between 
 - [Data Driven: Harnessing Data and AI to Reinvent Customer Engagement - Book by Chris O'Hara, Tom Chavez, and Vivek Vaidya](https://play.google.com/store/books/details?id=dOtoDwAAQBAJ&rdid=book-dOtoDwAAQBAJ&rdot=1&source=gbs_atb&pcampaignid=books_booksearch_atb)
 - [The Great Gatsby - Novel by F. Scott Fitzgerald](https://vbpl.overdrive.com/media/58115?utm_campaign=searchfeed&utm_source=google)
 - [Homo Deus - Book by Yuval Noah Harari](https://www.ynharari.com/book/homo-deus/)
-- [Everything is F#cked](https://markmanson.net/books/everything-is-fucked)
+- [Everything is F#cked: A Book About Hope - By Mark Manson](https://markmanson.net/books/everything-is-fucked)
 
 #### Academic
 
@@ -33,18 +33,18 @@ With the goal of reading one book a month while maintaining the balance between 
 # Podcast
 
 - [Python Bytes - Michael Kennedy and Brian Okken](https://pythonbytes.fm/)
-- [baseCS - Vaidehi Joshi](https://www.codenewbie.org/basecs)
+- [baseCS - Vaidehi Joshi](https://www.codenewbie.org/basecs)💙
 
 # Shows
 
-- [Game of Thrones](https://www.hbo.com/game-of-thrones)
+- [Game of Thrones](https://www.hbo.com/game-of-thrones)💙
 - [Chernobyl](https://www.hbo.com/chernobyl)
 - [Narcos](https://www.netflix.com/title/80025172)
-- [Sense8](https://www.netflix.com/title/80025744)
-- [The Crown](https://www.netflix.com/title/80025678)
+- [Sense8](https://www.netflix.com/title/80025744)💙
+- [The Crown](https://www.netflix.com/title/80025678)💙
 - [Big Little Lies](https://www.hbo.com/big-little-lies)
 - [Black Mirror](https://www.netflix.com/title/70264888)
-- [Sherlock](https://www.netflix.com/title/70202589)
+- [Sherlock](https://www.netflix.com/title/70202589)💙
 - [House of Cards](https://www.netflix.com/title/70178217)
 
 # News, Magazines, Blog, Sites
