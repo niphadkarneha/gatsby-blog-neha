@@ -11,7 +11,14 @@ One is constantly exposed to content through various mediums everyday be it in f
 
 With the goal of reading one book a month while maintaining the balance between one academic and one non-academic
 
-#### Non-Academic
+#### Related
+
+- [Machine Learning in Production: Developing and Optimizing Data Science Workflows and Applications - Book by Adam Kelleher and Andrew Kelleher](https://play.google.com/store/books/details?pcampaignid=books_read_action&id=7zuIDwAAQBAJ) Currently reading
+- [Think DSP: Digital Signal Processing in Python - Book by Allen B. Downey](http://greenteapress.com/thinkdsp/thinkdsp.pdf)
+- [Python for Scientists and Engineers - Book by Shantanu Tiwari](https://www.pythonforengineers.com/python-for-scientists-and-engineers/)
+- [Problem Solving with Algorithms and Data Structures using Python - Book by By Brad Miller and David Ranum, Luther College](https://runestone.academy/runestone/static/pythonds/index.html) I keep coming back to this one
+
+#### Non-Related, Taking a break 
 
 - [What If?: Serious Scientific Answers to Absurd Hypothetical Questions - Book by Randall Munroe](https://www.goodreads.com/book/show/21413662-what-if)
 - [All Over the Place: Adventures in Travel, True Love, and Petty Theft  - Book by Geraldine DeRuiter](https://www.goodreads.com/book/show/31934609-all-over-the-place)
@@ -22,29 +29,22 @@ With the goal of reading one book a month while maintaining the balance between 
 - [Homo Deus - Book by Yuval Noah Harari](https://www.ynharari.com/book/homo-deus/)
 - [Everything is F#cked: A Book About Hope - By Mark Manson](https://markmanson.net/books/everything-is-fucked)
 
-#### Academic
-
-- [Think DSP: Digital Signal Processing in Python - Book by Allen B. Downey](http://greenteapress.com/thinkdsp/thinkdsp.pdf)
-- [Python for Scientists and Engineers - Book by Shantanu Tiwari](https://www.pythonforengineers.com/python-for-scientists-and-engineers/)
-- [Problem Solving with Algorithms and Data Structures using Python - Book by By Brad Miller and David Ranum, Luther College](https://runestone.academy/runestone/static/pythonds/index.html) I keep coming back to this one
-- [Machine Learning in Production: Developing and Optimizing Data Science Workflows and Applications - Book by Adam Kelleher and Andrew Kelleher](https://play.google.com/store/books/details?pcampaignid=books_read_action&id=7zuIDwAAQBAJ) Currently reading
-
 
 # Podcast
 
 - [Python Bytes - Michael Kennedy and Brian Okken](https://pythonbytes.fm/)
-- [baseCS - Vaidehi Joshi](https://www.codenewbie.org/basecs)💙
+- [baseCS - Vaidehi Joshi](https://www.codenewbie.org/basecs) 💙
 
 # Shows
 
-- [Game of Thrones](https://www.hbo.com/game-of-thrones)💙
+- [Game of Thrones](https://www.hbo.com/game-of-thrones) 💙
 - [Chernobyl](https://www.hbo.com/chernobyl)
 - [Narcos](https://www.netflix.com/title/80025172)
-- [Sense8](https://www.netflix.com/title/80025744)💙
-- [The Crown](https://www.netflix.com/title/80025678)💙
+- [Sense8](https://www.netflix.com/title/80025744) 💙
+- [The Crown](https://www.netflix.com/title/80025678) 💙
 - [Big Little Lies](https://www.hbo.com/big-little-lies)
 - [Black Mirror](https://www.netflix.com/title/70264888)
-- [Sherlock](https://www.netflix.com/title/70202589)💙
+- [Sherlock](https://www.netflix.com/title/70202589) 💙
 - [House of Cards](https://www.netflix.com/title/70178217)
 
 # News, Magazines, Blog, Sites
