@@ -1,6 +1,6 @@
 ---
 title: Grow Everyday
-date: "2019-11-19T12:46:06+00:00"
+date: "2019-12-17T23:10:35+00:00"
 description: Getting into the habit of reading every day.
 ---
 
@@ -20,12 +20,14 @@ With the goal of reading one book a month while maintaining the balance between 
 - [Data Driven: Harnessing Data and AI to Reinvent Customer Engagement - Book by Chris O'Hara, Tom Chavez, and Vivek Vaidya](https://play.google.com/store/books/details?id=dOtoDwAAQBAJ&rdid=book-dOtoDwAAQBAJ&rdot=1&source=gbs_atb&pcampaignid=books_booksearch_atb)
 - [The Great Gatsby - Novel by F. Scott Fitzgerald](https://vbpl.overdrive.com/media/58115?utm_campaign=searchfeed&utm_source=google)
 - [Homo Deus - Book by Yuval Noah Harari](https://www.ynharari.com/book/homo-deus/)
+- [Everything is F#cked](https://markmanson.net/books/everything-is-fucked)
 
 #### Academic
 
 - [Think DSP: Digital Signal Processing in Python - Book by Allen B. Downey](http://greenteapress.com/thinkdsp/thinkdsp.pdf)
 - [Python for Scientists and Engineers - Book by Shantanu Tiwari](https://www.pythonforengineers.com/python-for-scientists-and-engineers/)
 - [Problem Solving with Algorithms and Data Structures using Python - Book by By Brad Miller and David Ranum, Luther College](https://runestone.academy/runestone/static/pythonds/index.html) I keep coming back to this one
+- [Machine Learning in Production: Developing and Optimizing Data Science Workflows and Applications - Book by Adam Kelleher and Andrew Kelleher](https://play.google.com/store/books/details?pcampaignid=books_read_action&id=7zuIDwAAQBAJ) Currently reading
 
 
 # Podcast
@@ -39,7 +41,7 @@ With the goal of reading one book a month while maintaining the balance between 
 - [Chernobyl](https://www.hbo.com/chernobyl)
 - [Narcos](https://www.netflix.com/title/80025172)
 - [Sense8](https://www.netflix.com/title/80025744)
-- [The Crown](https://www.netflix.com/title/80025678) Currently watching
+- [The Crown](https://www.netflix.com/title/80025678)
 - [Big Little Lies](https://www.hbo.com/big-little-lies)
 - [Black Mirror](https://www.netflix.com/title/70264888)
 - [Sherlock](https://www.netflix.com/title/70202589)
