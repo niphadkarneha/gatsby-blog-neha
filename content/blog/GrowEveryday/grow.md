@@ -1,6 +1,6 @@
 ---
 title: Grow Everyday
-date: "2019-12-17T23:10:35+00:00"
+date: "2019-12-19T23:10:35+00:00"
 description: Getting into the habit of reading every day.
 ---
 
@@ -37,6 +37,7 @@ With the goal of reading one book a month while maintaining the balance between 
 
 # Shows
 
+- [Fleabag](https://www.imdb.com/title/tt5687612/) - Funniest, Wittiest, Pure Dark British comedy. Absolutely amazing.
 - [Game of Thrones](https://www.hbo.com/game-of-thrones) 💙
 - [Chernobyl](https://www.hbo.com/chernobyl)
 - [Narcos](https://www.netflix.com/title/80025172)
