@@ -1,10 +1,63 @@
 ---
 title: Computer Science Graduate Student
-date: "2019-05-30T08:34:09+00:00"
+date: "2019-11-30T08:34:09+00:00"
 ---
 
 A one page resume often does not do justice to any candidate. The saying, “Don’t judge a book by it’s cover” applies here.
-My curriculum vitae or "course of life" or my life's work is mentioned below.
+My curriculum vitae or "course of life" or my life's work along with a few kind words from my Manager's
+
+## People's confidence 🤝
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thanks to <a href="https://twitter.com/NiphadkarNeha?ref_src=twsrc%5Etfw">@NiphadkarNeha</a> for updating <a href="https://twitter.com/hashtag/transitflow?src=hash&amp;ref_src=twsrc%5Etfw">#transitflow</a> to be compatible with Python 3! Love <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> when people make improvements to your projects. Here&#39;s today&#39;s scheduled transit flows in Cleveland area, made with TransitFlow running Python 3.7: <a href="https://t.co/n0fIb8TNb4">https://t.co/n0fIb8TNb4</a> <a href="https://t.co/OlyqNTxm2L">pic.twitter.com/OlyqNTxm2L</a></p>&mdash; Will Geary (@wgeary) <a href="https://twitter.com/wgeary/status/1171099137435193344?ref_src=twsrc%5Etfw">September 9, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+> Neha has the required skill-set to effectively overcome any challenge and that shows in the success that she has had by single handedly driving all HR functions to perfection at Cosmos Consultants. Top Qualities : Excellent perception & promptness.
+>
+> Yashraj Ahluwalia - [The Moonshot Factory: Google](https://x.company/)
+
+## Projects at Old Dominion University (ODU) 🏫
+
+#### Web and Data Applications 🌐📊
+
+- [Content Management and Upgradation of Information Literacy Portal.](https://intro.cs.odu.edu/InfolitPortal/)
+
+	Maintained the college's website and email communications infrastructure built in .NET. Responsibilities included 
+	writing and editing content for websites, posting, editing, and managing a media library. Integrated Google Analytics 
+	to monitor, and track usability of the site.
+
+- [Profiling for Authentication and Authorization, Data Mining and Security]()
+
+	Developed a creative profiling for a huge historical data set using different user patterns and filtering techniques using Python. Used Association rule to determine relationships in unrelated data. K-Means Clustering is employed to determine groups of users using Weka V-3.8.2 and bring insights on the data.
+
+- [APNS](https://www.apnplace.org/) - Implemented study modules, user analytics on progress, completion certificates, and performance updates using PHP, HTML, CSS, jQuery, Ajax, JavaScript, Google Analytics — Project was made in collaboration with [@ChandrasekharReddyMuthyala](https://github.com/cmuth001).
+
+- [IBHERT](https://ibhert.org/) is a learning management system funded by Health Resources and Services Administration (HRSA), implemented and wrote static content for the website. Project was made in collaboration with [@ChandrasekharReddyMuthyala](https://github.com/cmuth001), [@RohilaGudipati](https://github.com/rohila95), and [@MaheshKukunooru](https://github.com/maheshreddykukunooru).
+
+- [Gatherly](http://qav2.cs.odu.edu/fordFanatics/index.php) -Fully functional social media website built using HTML, PHP, CSS, jQuery, JavaScript, and MySQL. Key features: Direct messaging, public and private groups, GitHub login, Gravatar, reCaptcha, and admin credentials - made in collaboration with [@AbelWeldaregay](https://github.com/AbelWeldaregay).
+
+- [Impact of Regulatory Policy](http://infoviz.com.s3-website-us-east-1.amazonaws.com/index.html): Built a Dashboard with basics of HTML, CSS, D3js, and JavaScript and deployed on AWS(S3) to showcase the visualize the impact on gross domestic product, banks, and people.
+
+#### Mobile Projects 📱
+
+- [Gatherly - Mobile](https://github.com/niphadkarneha/GatherlyMobile) - Android application built so that Gatherly will have a mobile presence.
+
+- Golden Palace - Android application for Moroccan food recipes. This project was done for the App development for Smart devices.
+
+- SOAP-D Observer: Designed and implemented an android application for recording behavioral observations.
+
+#### Open Source Contributions ☮️
+
+- [Transitland Processing Animation](https://github.com/transitland/transitland-processing-animation): Successfully migrated Transitflow from Py2 to Py3, retaining the complete functionality of the program.
+
+#### General Certifications
+
+Besides the regular course work, and reading technical documentation I steer my mind in directions. I love learning new things and free certifications are enticing, not for adding value to my resume but for teaching me something new. I try and complete them in a week, if I am unable to do so they go in to the side projects folder in my laptop.
+
+- [Google Tag Manager Fundamentals](https://analytics.google.com/analytics/academy/certificate/2NV5kQ_hSE6RB_ifYpZ71w)
+- [Introduction to Data Studio](https://analytics.google.com/analytics/academy/certificate/x7AIf5_cQ92eAHkdaF_47g)
+- [Google Analytics for Power Users](https://analytics.google.com/analytics/academy/certificate/PSdLr-jwT26M1R7Zj5FTaQ)
+
 
 ## Experience 💼
 
@@ -34,35 +87,6 @@ My curriculum vitae or "course of life" or my life's work is mentioned below.
 - Responsible for Human Resources and Administration Annual budgets.
 - Handled HR vendor tie-ups..
 
-## People's confidence 🤝
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thanks to <a href="https://twitter.com/NiphadkarNeha?ref_src=twsrc%5Etfw">@NiphadkarNeha</a> for updating <a href="https://twitter.com/hashtag/transitflow?src=hash&amp;ref_src=twsrc%5Etfw">#transitflow</a> to be compatible with Python 3! Love <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> when people make improvements to your projects. Here&#39;s today&#39;s scheduled transit flows in Cleveland area, made with TransitFlow running Python 3.7: <a href="https://t.co/n0fIb8TNb4">https://t.co/n0fIb8TNb4</a> <a href="https://t.co/OlyqNTxm2L">pic.twitter.com/OlyqNTxm2L</a></p>&mdash; Will Geary (@wgeary) <a href="https://twitter.com/wgeary/status/1171099137435193344?ref_src=twsrc%5Etfw">September 9, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-> Neha has the required skill-set to effectively overcome any challenge and that shows in the success that she has had by single handedly driving all HR functions to perfection at Cosmos Consultants. Top Qualities : Excellent perception & promptness.
-Yashraj Ahluwalia - The Moonshot Factory [Google].
-
-## Projects while at Old Dominion University (ODU) 🏫
-
-#### Web and Data Applications 🌐📊
-
-- [APNS](https://www.apnplace.org/) - Implemented study modules, user analytics on progress, completion certificates, and performance updates using PHP, HTML, CSS, jQuery, Ajax, JavaScript, Google Analytics — Project was made in collaboration with [@ChandrasekharReddyMuthyala](https://github.com/cmuth001).
-- [IBHERT](https://ibhert.org/) is a learning management system funded by Health Resources and Services Administration (HRSA), implemented and wrote static content for the website. Project was made in collaboration with [@ChandrasekharReddyMuthyala](https://github.com/cmuth001), [@RohilaGudipati](https://github.com/rohila95), and [@MaheshKukunooru](https://github.com/maheshreddykukunooru).
-- [Gatherly](http://qav2.cs.odu.edu/fordFanatics/index.php) -Fully functional social media website built using HTML, PHP, CSS, jQuery, JavaScript, and MySQL. Key features: Direct messaging, public and private groups, GitHub login, Gravatar, reCaptcha, and admin credentials - made in collaboration with [@AbelWeldaregay](https://github.com/AbelWeldaregay).
-- [Impact of Regulatory Policy](http://infoviz.com.s3-website-us-east-1.amazonaws.com/index.html): A website built in HTML, CSS, D3js, and JavaScript and deployed on AWS(S3) to showcase the visualize the impact on gross domestic product, banks, and people.
-- [Content Management and Upgradation of Information Literacy Portal.](https://intro.cs.odu.edu/InfolitPortal/)
-- Profiling for Authentication and Authorization, Data Mining and Security.
-
-#### Mobile Projects 📱
-
-- [Gatherly - Mobile](https://github.com/niphadkarneha/GatherlyMobile) - Android application built so that Gatherly will have a mobile presence.
-- Golden Palace - Android application for Moroccan food recipes. This project was done for the App development for Smart devices.
-- SOAP-D Observer: Designed and implemented an android application for recording behavioral observations.
-
-#### Open Source Contributions ☮️
-
-- [Transitland Processing Animation](https://github.com/transitland/transitland-processing-animation): Successfully migrated Transitflow from Py2 to Py3, retaining the complete functionality of the program.
 
 ## Conferences and Workshops
 
@@ -100,10 +124,3 @@ Yashraj Ahluwalia - The Moonshot Factory [Google].
 **Department of Computer Science, ODU** - _2018 | Norfolk, VA_
 
 
-#### General Certifications
-
-Besides the regular course work, and reading technical documentation I steer my mind in directions. I love learning new things and free certifications are enticing, not for adding value to my resume but for teaching me something new. I try and complete them in a week, if I am unable to do so they go in to the side projects folder in my laptop.
-
-- [Google Tag Manager Fundamentals](https://analytics.google.com/analytics/academy/certificate/2NV5kQ_hSE6RB_ifYpZ71w)
-- [Introduction to Data Studio](https://analytics.google.com/analytics/academy/certificate/x7AIf5_cQ92eAHkdaF_47g)
-- [Google Analytics for Power Users](https://analytics.google.com/analytics/academy/certificate/PSdLr-jwT26M1R7Zj5FTaQ)
