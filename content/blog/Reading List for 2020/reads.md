@@ -4,9 +4,11 @@ date: "2020-01-01T01:58:59+00:00"
 ---
 
 
-# Book
+# Books
 
-- [The Design of Everyday Thing - Book by Don Norman](https://www.google.com/books/edition/The_Design_of_Everyday_Things/nVQPAAAAQBAJ?hl=en&gbpv=1&printsec=frontcover) Currently reading
+- [Originals: How Non-Conformists Move the World - Book by Adam Grand, Sherly Sandberg](https://www.nytimes.com/2016/01/30/business/dealbook/creating-originality-at-home-and-at-work.html) Currently reading
+
+- [The Design of Everyday Thing - Book by Don Norman](https://www.google.com/books/edition/The_Design_of_Everyday_Things/nVQPAAAAQBAJ?hl=en&gbpv=1&printsec=frontcover)
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/kDBRg2bsLDsignYqpt" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/kDBRg2bsLDsignYqpt">via GIPHY</a></p>
 

@@ -22,7 +22,7 @@ function Bio() {
             }}
           >
             <p>
-              Written by <strong>{author}</strong> M.S. in Computer Science.
+              Written by <strong>{author}</strong>Just another data enthusiast
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
                 Twitter handle @NiphadkarNeha.

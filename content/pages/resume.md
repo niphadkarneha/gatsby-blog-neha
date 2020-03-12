@@ -1,10 +1,42 @@
 ---
-title: Computer Science Graduate Student
-date: "2019-11-30T08:34:09+00:00"
+title: Data Enthusiast
+date: "2020-01-01T08:34:09+00:00"
 ---
 
 A one page resume often does not do justice to any candidate. The saying, “Don’t judge a book by it’s cover” applies here.
 My curriculum vitae or "course of life" or my life's work along with a few kind words from my Manager's
+
+## Experience 💼
+
+#### Data Analyst
+**MAP Communications** - _March 2020 - Present | Chesapeake, VA_
+
+#### Graduate Teaching Assistant for CS 112 | 120 | 121 |
+**Old Dominion University** - _2018 - 2019 | Norfolk, VA_
+- I have conducted 300+ hours of face-to-face and online recitations.
+- Responsible for preparing tests, proctoring exams, answering student queries, and grading.
+
+#### Graduate Research Assistant
+**Old Dominion University** - _2018 - 2019 | Norfolk, VA_
+- Preliminary research in Computer Vision with an aim to detect object detection. The goal was to evaluate image and video data and differentiate between flora and fauna. Increasing the detection rate using a combination of Yolo.V3 and Coco dataset.
+- Designed and implemented an Android application that used inbuilt sensors to enhance the Accessibility feature.
+
+#### Generalist - Human Resources
+**Cogencis.com** - _2013 - 2014 | Mumbai, IN_
+- Responsible for Selection, Recruitment, Onboarding, and Induction Training, Budgeting and Finance, and Employee Engagement.
+- Successfully reduced the recruitment cost by 15 percent by starting Campus recruitments.
+- Successfully maintained a prospective employee database.
+- Tie-up with the local and national colleges for on-going recruitments throughout the year.
+- Reduced administrative costs by 30,000 INR a month for the Mumbai office.
+- Reduced the cost of employee training and onboarding.
+
+#### Generalist - Human Resources
+**Nail The Deal** - _2010 - 2013 | Mumbai, IN_
+- Responsible for recruitment and selection for both offices Mumbai and Dubai with profiles ranging from Search Engine Optimization, Social Media Optimizations, Social Media Manager, Database Manager, Website Designer, Website developer, Account Manager, and Sales.
+- Calculation and Disbursement of Compensation and Benefits.
+- Responsible for Human Resources and Administration Annual budgets.
+- Handled HR vendor tie-ups..
+
 
 ## People's confidence 🤝
 
@@ -57,36 +89,6 @@ Besides the regular course work, and reading technical documentation I steer my 
 - [Google Tag Manager Fundamentals](https://analytics.google.com/analytics/academy/certificate/2NV5kQ_hSE6RB_ifYpZ71w)
 - [Introduction to Data Studio](https://analytics.google.com/analytics/academy/certificate/x7AIf5_cQ92eAHkdaF_47g)
 - [Google Analytics for Power Users](https://analytics.google.com/analytics/academy/certificate/PSdLr-jwT26M1R7Zj5FTaQ)
-
-
-## Experience 💼
-
-#### Graduate Teaching Assistant for CS 112 | 120 | 121 |
-**Old Dominion University** - _2018 - Present | Norfolk, VA_
-- I have conducted 300+ hours of face-to-face and online recitations.
-- Responsible for preparing tests, proctoring exams, answering student queries, and grading.
-
-#### Graduate Research Assistant
-**Old Dominion University** - _2018 - 2019 | Norfolk, VA_
-- Preliminary research in Computer Vision with an aim to detect object detection. The goal was to evaluate image and video data and differentiate between flora and fauna. Increasing the detection rate using a combination of Yolo.V3 and Coco dataset.
-- Designed and implemented an Android application that used inbuilt sensors to enhance the Accessibility feature.
-
-#### Generalist - Human Resources
-**Cogencis.com** - _2013 - 2014 | Mumbai, IN_
-- Responsible for Selection, Recruitment, Onboarding, and Induction Training, Budgeting and Finance, and Employee Engagement.
-- Successfully reduced the recruitment cost by 15 percent by starting Campus recruitments.
-- Successfully maintained a prospective employee database.
-- Tie-up with the local and national colleges for on-going recruitments throughout the year.
-- Reduced administrative costs by 30,000 INR a month for the Mumbai office.
-- Reduced the cost of employee training and onboarding.
-
-#### Generalist - Human Resources
-**Nail The Deal** - _2010 - 2013 | Mumbai, IN_
-- Responsible for recruitment and selection for both offices Mumbai and Dubai with profiles ranging from Search Engine Optimization, Social Media Optimizations, Social Media Manager, Database Manager, Website Designer, Website developer, Account Manager, and Sales.
-- Calculation and Disbursement of Compensation and Benefits.
-- Responsible for Human Resources and Administration Annual budgets.
-- Handled HR vendor tie-ups..
-
 
 ## Conferences and Workshops
 
