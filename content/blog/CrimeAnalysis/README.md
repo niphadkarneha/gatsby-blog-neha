@@ -12,13 +12,13 @@ tags:
 description: "Data fetched from public datasets are messy."
 ---
 
-This post takes inspiration from the Kaggle's challenge of [Crimes in Boston](https://www.kaggle.com/AnalyzeBoston/crimes-in-boston/kernels), there are over 100 kernels and lot of amazing work has been already done. I wanted to do something tad bit different. I wanted to get data from a public database, in order to start exploring the messyness of real data. Everyone and I mean everyone that works with Data has heard this at some point or the other, "80% of data analysis is spent on the cleaning and preparing data". It is by no means a one step process, one will come back to this step over and over again.
+This post takes inspiration from the Kaggle's challenge of [Crimes in Boston](https://www.kaggle.com/AnalyzeBoston/crimes-in-boston/kernels), there are over 100 kernels and lot of amazing work has been already done. I wanted to do something tad bit different and grab data from a public database, in order to start exploring the messyness of real data. Everyone and I mean everyone that works with Data has heard this at some point or the other, "80% of data analysis is spent on the cleaning and preparing data". It is by no means a one step process, one will come back to this step over and over again.
 
 While working on this mini-project I talk about
 
 1. Lo-Fi/Lofi or Low Fidelity prototyping.
 2. Data preprocessing.
-3. Geopandas
+3. Geopandas (Which helps overlay data on Maps.)
 
 
 <div style="text-align: center;"><embed src="https://crimedataanalysisvirginiabeach.netlify.com/" style="width:900px; height: 700px;"></div>

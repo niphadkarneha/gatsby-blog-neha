@@ -10,16 +10,12 @@ I stumbled on Google Data Studio fairly recently but it was launched way back in
 Google data studio provides a wide variety of sources for importing data. The data needs to be preprocessed and cleaned before we connect it to the Data Studio. Out of the hundreds of sources and connectors available, mentioned below are the few popular connectors out there and I am going to use Google Analytics.
 
 1. Google Analytics
-2. Google Ads
-3. Google Sheets
-4. Big Query
-5. Cloud SQL for MySQL
-6. PostgreSQL
+2. Big Query
+3. PostgreSQL
 
 I already have an Google Analytics account and I have been monitoring the performance and reach of my website since its inception. I used the same account to sign in to Google Data Studio as I had used for Google Analytics. Once you are logged in you will see a page similar to this 
 
 The layout of Data Studio is similar to the layout of Google Drive. Data Studio gives you the option to Create new reports or browse existing templates and use one. It lets you pick your Data sources and Explore the existing labs. I will be creating a blank report and connecting my Google Analytics account to import my site data. A blank report will look exactly like a Google doc and I like to make some basic changes before I start, I'll go ahead and change the name of the document on the upper right hand corner and change the layout to,"Simple dark" it is easier on the eyes. 
-
 
 Next, we'll connect a data source, on the bottom right page you can see the option, "CREATE NEW DATA SOURCE". It will take you to the connectors page and out of the 18 connectors provided by Google we are going to choose Google Analytics.
 
