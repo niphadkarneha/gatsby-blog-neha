@@ -13,7 +13,7 @@ description: "Python 2.7 will reach the end of its life on January 1st, 2020"
 
 ---
 
-If you began your journey on learning how to code a couple of years back and your chosen language was Python most likely you would have started with Python 2. Other programming languages can be overwhelming for beginner programmers but Python 2 can be easy to read and understand. Over the past decade, we have been gradually moving towards Python version 3. Whether Python 2 and Python 3 are different languages or the same language with different version can be a debate over cup of coffee but the pressing issue of 2019 is the change from Python 2 to Python 3.
+If you began your journey on learning how to code a couple of years back and your chosen language was Python most likely you would have started with Python 2. Programming languages can be overwhelming for anyone who wants to learn how to code but Python 2 can be easy to read and understand. Over the past decade, we have been gradually moving towards Python version 3. Whether Python 2 and Python 3 are different languages or the same language with different version can be a debate over cup of coffee but the pressing issue of 2019 is the change from Python 2 to Python 3.
 
 Since, the beginning of 2019 you would have come across something like this on your Command Line or Terminal.
 
@@ -30,7 +30,7 @@ The alert tells us that after Jan. 1, 2020, Python 2.7 — the last version of P
 |  3.6 |	PEP 494 | security |  2016-12-23  |	2021-12-23  |	Ned Deily |
 |  3.5 |	PEP 478 |	security  |	2015-09-13  |	2020-09-13  |	Larry Hastings  |
 
-Enterprises big and small, if not already will soon migrate to Python 3. If you are a student like me who uses Python for basic programming assignments or Data Science projects and if you do not work on any enterprise version maybe one of the libraries that you’re using is bulky and is compatible only with Python 2, in such instances you will have to keep your code compatible with Python 3.  Most of the Supporting libraries and modules for python have already migrated.
+Enterprises big and small, if not already will soon migrate to Python 3. If you are a student like me who uses Python for basic programming assignments or Data Science projects and if you do not work on any enterprise version maybe one of the libraries that you’re using is bulky and is incompatible with Python 3, in such instances you will have to update. Industry experts are upgrading their libraries and modules.
 
 Sometime ago, I helped, [Transitland-processing-animation](https://www.mapzen.com/blog/animating-transitland/) migrate from Python 2 to Python 3. One cannot dismiss the benefits of Open Source Software's. The process of migration was easy and straightforward, tools like 2to3 will help and while they are useful, they do have some limitations. The differences in Python 2 and Python 3 are not just the differences in print statements
 

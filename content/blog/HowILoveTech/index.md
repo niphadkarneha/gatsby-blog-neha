@@ -3,7 +3,7 @@ title: Transition into Computer Science.
 date: "2019-06-15T23:46:37.121Z"
 ---
 
-<strong>I did not fall into the wrong career path nor was I tired of my previous job.</strong> A Greek philosopher named Heraclitus taught me early on that “Change is the only constant”, I’ve carried that with me ever since. Unless you change, unless you learn, you will never grow. I made my career change into Computer Science in the year 2016, I often get asked How did you decide to change your career? How did you do it? How many universitites did I apply to? etc. Without boring you with too many details, I will focus on the main
+<strong>I did not fall into the wrong career path nor was I tired of my previous job.</strong> A Greek philosopher named Heraclitus taught me early on that “Change is the only constant”, I’ve carried that with me ever since. Unless you change, unless you learn, you will never grow. I made my career change into Computer Science in 2016. I have been often asked the question of, "How did you decide to change your career?" Without boring you with too many details, I will focus on the main
 
 ## Start - Research 📜
 
@@ -13,7 +13,7 @@ I started out by searching for all the possible degrees offered in the field of 
 + [Master's in Computer Information Systems](https://www.odu.edu/business/departments/infotech/academics/graduate/master-of-scienceincomputerscience)
 + [Master's in Computer Science with a focus in Cyber Security](https://graduate.cs.odu.edu/certificates/cybersecurity/)
 
-I researched about all the Universities within a 100 mile radius who offered these programs. Funding opportunities, Research opportunities, Diversity ratio, Faculty members and Staff, and On campus and off campus housing were all important factors for me. Yes, my pro's and con's list was as extensive as it can be, based on the list and research I ended up picking <strong>Old Dominion University (ODU)</strong> I made an appointment to meet with The Chair Dr. Ravi Mukkamala and The Graduate Program Director Dr. Michele Weigle for Computer Science and they were extremely kind and supportive, we charted out a plan of how I can finish my prerequisites and apply for the Master's program.
+I, researched about all the Universities within a 100 mile radius who offered these programs. Funding opportunities, Research opportunities, Diversity ratio, Faculty members and Staff, and On campus and off campus housing were all important factors for me. Yes, my pro's and con's list was as extensive as it can be, based on the list and research I ended up picking <strong>Old Dominion University (ODU)</strong> I made an appointment to meet with The Chair Dr. Ravi Mukkamala and The Graduate Program Director Dr. Michele Weigle for Computer Science and they were extremely kind and supportive, we charted out a plan of how I can finish my prerequisites and apply for the Master's program.
 
 > Meeting with the faculty and staff, helped establish a good rapport. It helped put a face to an application.
 >>They heard my story, knew what I wanted to achieve, and realized that I was determined to follow through.

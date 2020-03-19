@@ -19,8 +19,8 @@ class Layout extends React.Component {
       header = (
         <div className="homePageHeader">
           <h1>Hey, I'm Neha <span role="img" aria-label="wave">👋</span></h1>
-          <p>I'm currently a Data Analyst at Map Communications, Inc. I graduated with a MS in Computer Science <span role="img" aria-label="woman student">👩‍🎓</span> from Old Dominion University in December 2019.</p>
-          <p>I have been working on databases, web services, and exploring novel uses of Python and React. Previously I worked as a Research Assistant in Data and as a Computer Science Instructor.</p>
+          <p>I'm a Data Analyst at Map Communications, Inc. I graduated with a M.S. in Computer Science <span role="img" aria-label="woman student">👩‍🎓</span> from Old Dominion University in December 2019. I have been working with databases, web services, and exploring novel uses of Python and React. 
+            Previously, I worked as a Research Assistant in Data Science and as a Computer Science Instructor.</p>
 
           <p>Inspired by the movie, 'Pay it Forward' thought of sharing the resources that have helped me along my journey, I started writing my blog. You are welcome to read along as I jot down a few pointers
             , but if you want to talk about the House of The Dragon <span role="img" aria-label="dragon">🐉</span>, I’m totally fine with that too.</p>

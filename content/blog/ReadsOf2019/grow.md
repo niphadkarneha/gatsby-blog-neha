@@ -4,7 +4,7 @@ date: "2019-12-19T23:10:35+00:00"
 description: Getting into the habit of reading every day.
 ---
 
-One is constantly exposed to content through various mediums everyday be it in form of books, television, games, conversations, audiobooks etc. I have compiled a list of books, articles, research papers, who have compelled me to think differently or has in a way taught me something valuable.
+One is constantly exposed to content through various mediums everyday be it in form of books, television, games, conversations, audiobooks etc. I have compiled a list of books, articles, research papers, which have compelled me to think differently or has in a way taught me something valuable.
 
 
 # Books
