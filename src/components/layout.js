@@ -34,6 +34,7 @@ class Layout extends React.Component {
             <Link to={"/projects"}>Projects</Link>
             <Link to={"/blogs"}>Blogs</Link>
             <Link to={"/contact/"}>Contact</Link>
+            <Link to={"/tools/"}>Tools I Love</Link>
           </nav>
         </div>
       )
