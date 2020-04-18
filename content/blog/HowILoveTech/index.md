@@ -3,11 +3,11 @@ title: Transition into Computer Science.
 date: "2019-06-15T23:46:37.121Z"
 ---
 
-<strong>I did not fall into the wrong career path nor was I tired of my previous job.</strong> A Greek philosopher named Heraclitus taught me early on that “Change is the only constant”, I’ve carried that with me ever since. Unless you change, unless you learn, you will never grow. I made my career change into Computer Science in 2016. I have been often asked the question of, "How did you decide to change your career?" Without boring you with too many details, I will focus on the main
+<strong>I did not fall into the wrong career path nor was I tired of my previous job.</strong> A Greek philosopher named Heraclitus taught me early on that “Change is the only constant”, I’ve carried that with me ever since. Unless you change, unless you learn, you will never grow. I made my career change into Computer Science in 2016. I have been often asked the question of, "How did I make the change?" Without boring you with too many details, I will focus on the main
 
 ## Start - Research 📜
 
-I started out by searching for all the possible degrees offered in the field of Computer Science. The 3 degree programs that peaked my interest right away were
+I, started out by searching for all the possible degrees offered in the field of Computer Science. The 3 degree programs that peaked my interest right away were
 
 + [Master's in Computer Science](https://www.odu.edu/academics/programs/masters/computer-science)
 + [Master's in Computer Information Systems](https://www.odu.edu/business/departments/infotech/academics/graduate/master-of-scienceincomputerscience)
@@ -20,9 +20,9 @@ I, researched about all the Universities within a 100 mile radius who offered th
 
 ## Middle - Pre-requisites
 
-Pre-requisites can and are an expensive deal for an international student who is paying Out-of-state tuition 💵, we are talking about paying $300 versus $1000 per credit. We came to a consensus that I would complete all my prerequiste courses at the local [Tidewater Community College (TCC)](https://www.tcc.edu/) for 2 years and then transfer to ODU. The application process for TCC was fairly straightforward and the staff was some of the most helpfull people I as an international student could ever meet.
+Pre-requisites, if you come from a different field of study be prepared to do a lot of prerequiste courswork. They are an expensive deal for an international student who is paying Out-of-state tuition 💵, we are talking about paying $300 versus $1000 per credit. Faculty members at ODU and I came to a consensus that I would complete all my prerequiste courses at the local [Tidewater Community College (TCC)](https://www.tcc.edu/) for 2 years and then transfer to ODU. The application process for TCC was fairly straightforward and the staff were some of the most helpful people I met as an international student could ever meet.
 
-While at Tidewater Community College, I took course in both Math, Statistics, and Computer Science some of them are mentioned below
+While at Tidewater Community College, I took course in Math, Statistics, and Computer Science some of them are mentioned below
 
 + Precalculus
 + Calculus
@@ -31,9 +31,9 @@ While at Tidewater Community College, I took course in both Math, Statistics, an
 + Computer Organization
 + Programming with C++
 
-Once I completed these courses, I started my transfer/application process at ODU. It was honestly nerve-wracking but I did get into the program. 
+Once I completed these courses, I started my transfer/application process to ODU. It was honestly nerve-wracking but I did get into the program. 
 
-> I initially applied for a Master's in Computer Information Systems (CIS).
+> I initially applied for a Master's in Computer Information Systems (CIS) but transferred to Master's in Computer Science right after my first semester.
 
 ## End - Master's in Computer Science 👩🏽‍🎓
 

@@ -35,6 +35,10 @@ gatsby develop
 - Muhammad Muhsin - [Using React Context API with Gatsby](https://www.gatsbyjs.org/blog/2019-01-31-using-react-context-api-with-gatsby/)
 - Thomas Frössman - [ExitWP](https://github.com/thomasf/exitwp) - WordPress XML to Markdown
 
+## Symbols
+
+- Emoji's and Symbols used in this webpage are from [Emojipedia](https://emojipedia.org/)
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).

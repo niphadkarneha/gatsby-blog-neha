@@ -18,11 +18,11 @@ class Layout extends React.Component {
       hasContent = false
       header = (
         <div className="homePageHeader">
-          <h1>Hey, I'm Neha <span role="img" aria-label="wave">👋</span></h1>
-          <p>I'm a Data Analyst at Map Communications, Inc. I graduated with a M.S. in Computer Science <span role="img" aria-label="woman student">👩‍🎓</span> from Old Dominion University in December 2019. I have been working with databases, web services, and exploring novel uses of Python and React. 
-            Previously, I worked as a Research Assistant in Data Science and as a Computer Science Instructor.</p>
+          <h1>whoami</h1>
+          <p>I'm Neha. I am a Data Analyst at Map Communications, Inc in the Hampton Roads area in Virginia, with over 2 years of experience as a Research Assistant and a Computer Science Instructor. I, graduated with a M.S. in Computer Science <span role="img" aria-label="woman student">👩‍🎓</span> from Old Dominion University in December 2019. 
+          </p>
 
-          <p>Inspired by the movie, 'Pay it Forward' thought of sharing the resources that have helped me along my journey, I started writing my blog. You are welcome to read along as I jot down a few pointers
+          <p>Inspired by the movie, 'Pay it Forward' I thought of sharing the resources that have helped me along my journey, started writing my blog. You are welcome to read along as I jot down a few pointers
             , but if you want to talk about the House of The Dragon <span role="img" aria-label="dragon">🐉</span>, I’m totally fine with that too.</p>
 
           <p>Apart from programming, I love to travel <span role="img" aria-label="travel">🛫</span>and I aim to visit one new place each year. 

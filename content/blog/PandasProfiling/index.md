@@ -11,9 +11,9 @@ tags:
 description: "Pandas Profiling Guide to Exploratory Data Analysis"
 ---
 
-Exploratory data analysis (EDA) is inarguably the first step on the path of finding patterns and meaning in your data. EDA entails a lot of manual work like data cleaning, transformation, and storing. It might not be fun for some people, you might make an error, and it can be time consuming. There was and still is a way to get the basic statistics fairly quickly and the pandas library provides a function called, ".describe()"</strong>. It is used to view basic statistics of a dataset like count, mean, standard deviation (sd), percentiles, min, and max
+Exploratory data analysis (EDA) is inarguably the first step on the path of finding patterns and meaning in your data. EDA entails a lot of manual work like data cleaning, transformation, and storing. It might not be fun for some people, you might make an error, and it can be time consuming. There was and still is a way to get the basic statistics fairly quickly and the pandas library provides a function called, ".describe()"</strong>. It is used to view basic statistics of a dataset like count, mean, standard deviation (sd), percentiles, min, and max.
 
-For e.g. we will use a publicly available dataset from the seaborn dataset, for the purpose of this article I am using the diamonds dataset and there are other's available as well, you can check them out [here](https://github.com/mwaskom/seaborn-data).
+For e.g. we will use a publicly available dataset from the seaborn data pool, for the purpose of this article I am using the diamonds dataset and there are other's available as well, you can check them out [here](https://github.com/mwaskom/seaborn-data).
 
 Open a Google Colab and copy paste the code given below
 
