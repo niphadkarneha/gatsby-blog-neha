@@ -1,6 +1,6 @@
 ---
 title: Data Enthusiast
-date: "2020-01-01T08:34:09+00:00"
+date: "2020-04-01T08:34:09+00:00"
 ---
 
 A one page resume often does not do justice to any candidate. The saying, “Don’t judge a book by it’s cover” applies here.

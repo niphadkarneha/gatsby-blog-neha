@@ -19,11 +19,8 @@ class Layout extends React.Component {
       header = (
         <div className="homePageHeader">
           <h1>whoami</h1>
-          <p>I'm Neha. I am a Data Analyst at Map Communications, Inc in the Hampton Roads area in Virginia, with over 2 years of experience as a Research Assistant and a Computer Science Instructor. I, graduated with a M.S. in Computer Science <span role="img" aria-label="woman student">👩‍🎓</span> from Old Dominion University in December 2019. 
+          <p>I am currently a Data Analyst at Map Communications, Inc based in Virginia with over 2 years of experience as a Research Assistant and a Computer Science Instructor. I, graduated with a M.S. in Computer Science <span role="img" aria-label="woman student">👩‍🎓</span> from Old Dominion University. 
           </p>
-
-          <p>Inspired by the movie, 'Pay it Forward' I thought of sharing the resources that have helped me along my journey, started writing my blog. You are welcome to read along as I jot down a few pointers
-            , but if you want to talk about the House of The Dragon <span role="img" aria-label="dragon">🐉</span>, I’m totally fine with that too.</p>
 
           <p>Apart from programming, I love to travel <span role="img" aria-label="travel">🛫</span>and I aim to visit one new place each year. 
           I enjoy photography and watching movies, you can expect to see a few pet topics creep into what is essentially 
