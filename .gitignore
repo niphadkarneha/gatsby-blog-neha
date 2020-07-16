@@ -8,6 +8,9 @@
 
 # production
 /build
+/built-lambda
+
+/.netlify
 
 # misc
 .DS_Store
