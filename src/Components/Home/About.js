@@ -1,13 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 import parse from 'html-react-parser';
 
 class About extends React.Component {
    state = {
       about: this.props.about,
       colorToggleVal: this.getRandomInt(4)
-   }
-   constructor(props){
-      super(props);
    }
    handleClick(i) {
       const newAbout = this.state.about.slice() //copy the array
@@ -28,6 +25,7 @@ class About extends React.Component {
    changeColor = () => {
       var links = document.querySelectorAll("a");
       for (const [index, link] of links.entries()) {
+      // for (const [index, link] of links.entries()) {
          if(link){
             var colorVal = this.getRandomInt(4);
             link.style.color = this.props.colors[colorVal];
@@ -40,7 +38,7 @@ class About extends React.Component {
       // change color every 4s
       this.changeColor();
       var toggler = this.state.about.map((about, i)=>{
-         if(about.class == "show"){
+         if(about.class === "show"){
             var activeToggleColor = this.props.colors[this.state.colorToggleVal];
             return <button id={about.title} className={about.class} key={i} style={{color: activeToggleColor, borderColor: activeToggleColor}} onClick={() => this.handleClick(i)}>{about.title}</button>
          }

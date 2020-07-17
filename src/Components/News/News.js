@@ -1,9 +1,6 @@
 import React, { Component } from 'react';
 import Social from '../Home/Social';
 class News extends Component {
-  constructor(props){
-    super(props);
- }
  getRandomInt(max) {
   return Math.floor(Math.random() * Math.floor(max));
 }

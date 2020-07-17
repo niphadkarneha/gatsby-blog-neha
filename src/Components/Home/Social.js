@@ -1,14 +1,10 @@
 import React, { Component } from 'react';
-import { resumeData } from '../../resumeData';
 class Social extends Component {
   state = {
     social: this.props.social,
     newsDisplay: "",
     childshow: this.props.childshow,
     hoverSocial: 100
-  }
-  constructor(props){
-    super(props);
   }
   getRandomInt(max) {
     return Math.floor(Math.random() * Math.floor(max));

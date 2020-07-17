@@ -1,11 +1,7 @@
 import React, { Component } from 'react';
-import parse from 'html-react-parser';
 class Copyright extends Component {
   state = {
     
-  }
-  constructor(props){
-    super(props);
   }
   render() {
     return (

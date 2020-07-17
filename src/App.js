@@ -3,8 +3,7 @@ import './App.css';
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
 } from "react-router-dom";
 import Home from './Components/Home/Home';
 import News from './Components/News/News';

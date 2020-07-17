@@ -8,9 +8,7 @@ class Article extends Component {
       articles: this.props.articles,
       copyright: this.props.copyright
   }
-  constructor(props){
-    super(props);
-  }
+
   render() {
     var article = this.state.articles[this.state.articleNo];
     var articleSection = parse(article.content);
@@ -22,16 +20,15 @@ class Article extends Component {
         prev: -100,
         next : -100
     };
+    var pageLink = "", pageTitle="";
     if(this.state.articleNo < articleLastNo)
         pagers.next = this.state.articleNo + 1;
-        // Object.keys(pagers).map(function(keyName, i)
-        // Object.entries(pagers).map(([key, value]) =>
     var pagerRender = Object.entries(pagers).map(([key, value]) => {
-        if(key == "prev"){
+        if(key === "prev"){
             if(this.state.articleNo > 0){
                 pagers.prev = this.state.articleNo - 1;
-                var pageLink = "/" + this.state.articles[pagers.prev].link;
-                var pageTitle = this.state.articles[pagers.prev].title;
+                pageLink = "/" + this.state.articles[pagers.prev].link;
+                pageTitle = this.state.articles[pagers.prev].title;
                 return <li key={key}><a rel="prev" href={pageLink}>← {pageTitle}</a></li>
             }
             else{
@@ -41,12 +38,12 @@ class Article extends Component {
         else{
             if(this.state.articleNo < articleLastNo){
                 pagers.next = this.state.articleNo + 1;
-                var pageLink = "/" + this.state.articles[pagers.next].link;
-                var pageTitle = this.state.articles[pagers.next].title;
-                var pageLink = "/" + this.state.articles[pagers.next].link;
+                pageLink = "/" + this.state.articles[pagers.next].link;
+                pageTitle = this.state.articles[pagers.next].title;
                 return <li key={key}><a rel="next" href={pageLink}>{pageTitle} →</a></li>
             } 
         }
+        return 0;
     });
     var copyLink = parse(this.state.copyright.copyLink);
     return (
