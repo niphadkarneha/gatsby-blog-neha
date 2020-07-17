@@ -62,7 +62,7 @@ class App extends Component {
       <Switch2
           styles={{
             track: {
-              backgroundColor: 'white'
+              backgroundColor: 'green',
             },
             trackChecked: {
               backgroundColor: '#000'
@@ -71,10 +71,11 @@ class App extends Component {
               backgroundColor: '#96979c'
             },
             buttonChecked: {
-              backgroundColor: '#000'
+              backgroundColor: '#000',
+              left: '37px'
             }
           }}
-          on={true} off={false} value={this.state.switchValue2} onChange={this.setValue}
+          class="123" id="456" on={true} off={false} value={this.state.switchValue2} onChange={this.setValue}
         />
         </div>
         <div className="container">
