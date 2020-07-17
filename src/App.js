@@ -58,6 +58,7 @@ class App extends Component {
     return (
       <Router>
       <div className="App" style={{backgroundColor: this.state.appBackClr}}>
+      <div className="switch-color">
       <Switch2
           styles={{
             track: {
@@ -75,6 +76,7 @@ class App extends Component {
           }}
           on={true} off={false} value={this.state.switchValue2} onChange={this.setValue}
         />
+        </div>
         <div className="container">
         <Switch>
           <Route exact path="/">

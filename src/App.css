@@ -191,7 +191,7 @@ a:hover{
   font-weight: bold;
 }
 /* toggle */
-.css-3fp6db-Switch{
+.switch-color span:nth-child(2){
  display: block;
  height: 26px;
  width: 60px;
@@ -206,7 +206,7 @@ a:hover{
  border: 2px solid #fff;
  border-radius: 15px !important;
 }
-.css-ab8zyt-Switch, .css-dzgw1q-Switch{
+.switch-color span:nth-child(3), .css-dzgw1q-Switch{
  top: 3px !important;
  border: 2px solid #fff;
  width: 20px;
@@ -221,7 +221,7 @@ a:hover{
  background: #000;
  border: 2px solid #fff;
 }
-.css-xjimrv-Switch{
+.switch-color label{
  position: absolute !important;
  z-index: 1000;
  top: 5px;
