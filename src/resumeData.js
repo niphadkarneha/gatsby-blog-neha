@@ -2,43 +2,43 @@ export const resumeData  = {
   "home": {
     "header": {
       "name":"Neha N",
-      "job": "Software Engineer in Seattle",
+      "job": "Data Analyst at MAP Communications",
       "image": "neha_n.jpg"
     },
     "social": [
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/NiphadkarNeha",
         "className":"fa fa-twitter"
       },
-      {
-        "name":"patreon",
-        "url":"https://www.patreon.com/cassidoo",
-        "className":"fa fa-google-plus"
-      },
-      {
-        "name":"newsletter",
-        "url":"/newsletter",
-        "className":"fa fa-linkedin"
-      },
+      // {
+      //   "name":"patreon",
+      //   "url":"https://www.patreon.com/cassidoo",
+      //   "className":"fa fa-google-plus"
+      // },
+      // {
+      //   "name":"newsletter",
+      //   "url":"/newsletter",
+      //   "className":"fa fa-linkedin"
+      // },
       {
         "name":"github",
-        "url":"http://github.com/cassidoox",
+        "url":"https://github.com/niphadkarneha",
         "className":"fa fa-github"
       },
-      {
-        "name":"codepen",
-        "url":"http://codepen.io/cassidoo/",
-        "className":"fa fa-skype"
-      },
+      // {
+      //   "name":"codepen",
+      //   "url":"http://codepen.io/cassidoo/",
+      //   "className":"fa fa-skype"
+      // },
       {
         "name":"linkedin",
-        "url":"http://linkedin.com/in/cassidoo",
+        "url":"http://linkedin.com/in/niphad",
         "className":"fa fa-skype"
       },
       {
         "name":"email",
-        "url":"mailto:cassidy@cassidoo.co",
+        "url":"mailto:niphadkarneha@gmail.com",
         "className":"fa fa-skype"
       },
       {
@@ -51,18 +51,19 @@ export const resumeData  = {
       {
         "title" : "short",
         "class": "show",
-        "content": "Hi there! My name is Neha and I'm a Principal Developer Experience Engineer at <a href='https://www.netlify.com/?utm_source=cassidoowebsite&utm_medium=bio-cs&utm_campaign=devex'>Netlify</a>. I often make silly videos on the internet, enjoy building mechanical keyboards, and playing music in my free time."
-      },
-      {
-        "title": "long",
-        "content": "Well hello there! My name is Neha and I'm a Principal Developer Experience Engineer at <a href='https://www.netlify.com/?utm_source=cassidoowebsite&utm_medium=bio-cs&utm_campaign=devex'>Netlify</a>. Before now, I worked at React Training, CodePen, Amazon, L4 Digital, Clarifai, and Venmo, and graduated from Iowa State University. <br />I run <a href='http://cassidoo.co/newsletter'> a weekly newsletter</a> and love teaching and helping people become better coders! In my spare time, I love playing music, building mechanical keyboards and LEGO sets, and hanging out with <a href='https://twitter.com/cwillycs'>my sister Cami</a>. We also like to make cool things with our laser cutter and 3D printer, and have <a href='https://www.etsy.com/shop/LeakyBucketDesign'>a little Etsy shop</a> if you want to check it out! I also have a <a href='https://www.patreon.com/cassidoo'>Patreon</a> if you'd like to chat with me regularly (our Discord group is so active I can hardly keep up, come join in the fun!), get resume reviews, schedule mock interviews with me, or get a few coupons and gifts from me on occasion. No pressure to join in, and I appreciate your support a ton no matter what! <br />In terms of where I am on the internet (and off), you might have seen me in <a href='https://www.glamour.com/gallery/top-new-women-leaders-in-technology' >Glamour Magazine</a> or the <a href='https://www.amazon.com/gp/video/detail/B07L6S92HG/'>Big Dream documentary</a>a few years back, or more recently you might have seen my <a href='https://www.producthunt.com/posts/massdrop-x-hasbro-scrabble-keyboard'>Scrabble keyboard</a> project in a couple dozen different publications! I also made a successfully funded <a href='https://www.kickstarter.com/projects/cassidoo/go-on-the-go/'>Kickstarter project called Go: On the Go!</a> to get people interested in playing the game go. I've spoken at over a hundred events around the world, and have made online classes on <a href='https://www.udemy.com/user/cassidywilliams/'>Udemy</a>, <a href='https://www.skillshare.com/r/profile/Cassidy-Williams/3062729'>Skillshare</a>, and moooore. I'll (likely) happily speak at your event or podcast, or do influencer work for your org. I have a <a href='https://github.com/cassidoo/talks/blob/master/speaker-rider.md'>speaker rider</a>, if you'd like to talk to me about your event. Feel free to <a href='mailto:cassidy@cassidoo.co'>email me</a> with details! <br />Alright, since you've read this far, have a joke: Why are mountains so funny? Because they're hill areas.",
-        "class": ""
-      },
-      {
-        "title": "speaker",
-        "content": "Neha is a Principal Developer Experience Engineer at Netlify. She's worked for several other places, including CodePen, Amazon, and Venmo, and she's had the honor of working with various non-profits, including cKeys and Hacker Fund as their Director of Outreach. She's active in the developer community, and one of Glamour Magazine's 35 Women Under 35 Changing the Tech Industry and LinkedIn's Top Professionals 35 &amp; Under. As an avid speaker, Neha has participated in several events including the Grace Hopper Celebration for Women in Computing, TEDx, the United Nations, and dozens of other technical events. She wants to inspire generations of STEM students to be the best they can be, and her favorite quote is from Helen Keller: 'One can never consent to creep when one feels an impulse to soar.' She loves mechanical keyboards and karaoke.",
-        "class": ""
+        "content": "Hi there! My name is Neha and I'm a Data Analyst 👩‍💻 at <a href='https://www.mapcommunications.com/'>MAP Communications, Inc</a>. I completed my MS in Computer Science in 2019. Apart from the world of programming and data, I, Travel (Passionately), Read (Exclusively), and Write (Periodically)."
       }
+      //,
+      // {
+      //   "title": "long",
+      //   "content": "Well hello there! My name is Neha and I'm a Principal Developer Experience Engineer at <a href='https://www.netlify.com/?utm_source=cassidoowebsite&utm_medium=bio-cs&utm_campaign=devex'>Netlify</a>. Before now, I worked at React Training, CodePen, Amazon, L4 Digital, Clarifai, and Venmo, and graduated from Iowa State University. <br />I run <a href='http://cassidoo.co/newsletter'> a weekly newsletter</a> and love teaching and helping people become better coders! In my spare time, I love playing music, building mechanical keyboards and LEGO sets, and hanging out with <a href='https://twitter.com/cwillycs'>my sister Cami</a>. We also like to make cool things with our laser cutter and 3D printer, and have <a href='https://www.etsy.com/shop/LeakyBucketDesign'>a little Etsy shop</a> if you want to check it out! I also have a <a href='https://www.patreon.com/cassidoo'>Patreon</a> if you'd like to chat with me regularly (our Discord group is so active I can hardly keep up, come join in the fun!), get resume reviews, schedule mock interviews with me, or get a few coupons and gifts from me on occasion. No pressure to join in, and I appreciate your support a ton no matter what! <br />In terms of where I am on the internet (and off), you might have seen me in <a href='https://www.glamour.com/gallery/top-new-women-leaders-in-technology' >Glamour Magazine</a> or the <a href='https://www.amazon.com/gp/video/detail/B07L6S92HG/'>Big Dream documentary</a>a few years back, or more recently you might have seen my <a href='https://www.producthunt.com/posts/massdrop-x-hasbro-scrabble-keyboard'>Scrabble keyboard</a> project in a couple dozen different publications! I also made a successfully funded <a href='https://www.kickstarter.com/projects/cassidoo/go-on-the-go/'>Kickstarter project called Go: On the Go!</a> to get people interested in playing the game go. I've spoken at over a hundred events around the world, and have made online classes on <a href='https://www.udemy.com/user/cassidywilliams/'>Udemy</a>, <a href='https://www.skillshare.com/r/profile/Cassidy-Williams/3062729'>Skillshare</a>, and moooore. I'll (likely) happily speak at your event or podcast, or do influencer work for your org. I have a <a href='https://github.com/cassidoo/talks/blob/master/speaker-rider.md'>speaker rider</a>, if you'd like to talk to me about your event. Feel free to <a href='mailto:cassidy@cassidoo.co'>email me</a> with details! <br />Alright, since you've read this far, have a joke: Why are mountains so funny? Because they're hill areas.",
+      //   "class": ""
+      // },
+      // {
+      //   "title": "speaker",
+      //   "content": "Neha is a Principal Developer Experience Engineer at Netlify. She's worked for several other places, including CodePen, Amazon, and Venmo, and she's had the honor of working with various non-profits, including cKeys and Hacker Fund as their Director of Outreach. She's active in the developer community, and one of Glamour Magazine's 35 Women Under 35 Changing the Tech Industry and LinkedIn's Top Professionals 35 &amp; Under. As an avid speaker, Neha has participated in several events including the Grace Hopper Celebration for Women in Computing, TEDx, the United Nations, and dozens of other technical events. She wants to inspire generations of STEM students to be the best they can be, and her favorite quote is from Helen Keller: 'One can never consent to creep when one feels an impulse to soar.' She loves mechanical keyboards and karaoke.",
+      //   "class": ""
+      // }
     ],
     "colors": [
       "#10a2f5",
@@ -74,7 +75,7 @@ export const resumeData  = {
   "blog": {
     "header":{
       "title": "Neha's Blog",
-      "description": "Written by <strong>Neha N.</strong> who lives and works in San Francisco building useful things. <a href='https://twitter.com/kylemathews'>You should follow her on Twitter</a>",
+      "description": "Written by <strong>Neha N.</strong> who lives and works in Hampton Roads building useful things. <a href='https://twitter.com/NiphadkarNeha'>You should follow her on Twitter</a>",
       "avatar": "neha_n.jpg"
     },
     "articles":[
