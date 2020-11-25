@@ -24,6 +24,7 @@ export const resumeData  = {
       {
         "name":"github",
         "url":"https://github.com/niphadkarneha",
+        "target":"_blank",
         "className":"fa fa-github"
       },
       // {
