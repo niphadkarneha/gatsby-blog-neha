@@ -51,7 +51,7 @@ export const resumeData  = {
       {
         "title" : "short",
         "class": "show",
-        "content": "Hi there! My name is Neha and I'm a Data Analyst 👩‍💻 at <a href='https://www.mapcommunications.com/'>MAP Communications, Inc</a>. I completed my MS in Computer Science in 2019. Apart from the world of programming and data, I, Travel (Passionately), Read (Exclusively), and Write (Periodically)."
+        "content": "Hi there! My name is Neha and I'm a Data Analyst 👩‍💻 at <a href='https://www.mapcommunications.com/'>MAP Communications, Inc</a>. I completed my MS in Computer Science in 2019. Apart from the world of computers, I Travel (Passionately), Read (Exclusively), and Write (Periodically). "
       }
       //,
       // {
