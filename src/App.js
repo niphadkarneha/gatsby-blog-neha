@@ -98,7 +98,7 @@ class App extends Component {
           </Switch>
           {/* Add footer */}
           <footer>
-            <Copyright year={this.state.copyright.year} link={copyLink}/>
+            <Copyright year={this.state.copyright.year} link={copyLink} appClr={this.state.appClr}/>
           </footer>
         </div>
         
