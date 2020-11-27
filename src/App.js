@@ -96,6 +96,7 @@ class App extends Component {
             </Route>
             {articleRoutes}
           </Switch>
+          {/* Add footer */}
           <footer>
             <Copyright year={this.state.copyright.year} link={copyLink}/>
           </footer>

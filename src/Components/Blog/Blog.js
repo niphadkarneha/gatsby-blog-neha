@@ -28,6 +28,7 @@ class Blog extends Component {
     var copyLink = parse(this.state.copyright.copyLink);
     return (
         <div className="blog" style={{color: this.props.appClr}}>
+          {/* Add redirect link by Brett 2020/11/28 */}
           <a className="backLink" href="/">Back to Home Page</a>
           <header>
             <h1 className="headerTitle">{this.state.header.title}</h1>

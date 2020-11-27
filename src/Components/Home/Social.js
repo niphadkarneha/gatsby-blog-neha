@@ -16,6 +16,7 @@ class Social extends Component {
     var socials="";
     socials = this.state.social.map((social, i) => {
       var colorVal = this.getRandomInt(4);
+      // Update blank page for social sites by Brett 2020/11/28
       return <a href={social.url} key={i} target={social.name!='blog'?"_blank":""} className={this.state.hoverSocial} style={{color: this.props.colors[colorVal]}} onMouseEnter={() => this.mouseEnter(i)}>{social.name}</a>
     });
     return (
