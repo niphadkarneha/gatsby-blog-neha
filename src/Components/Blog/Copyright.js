@@ -5,7 +5,7 @@ class Copyright extends Component {
   }
   render() {
     return (
-        <div>@{this.props.year}, Built by {this.props.link}</div>
+        <div>@{this.props.year}, Built by {this.props.link} and I'd like to give credit to <a href='https://cassidoo.co'>Cassidy Williams</a> for the design</div>
     );
   }
 }

@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
+
 import {
   BrowserRouter as Router,
   Switch,
@@ -11,6 +12,8 @@ import Blog from './Components/Blog/Blog';
 import Article from './Components/Blog/Article';
 import {resumeData} from './resumeData';
 import Switch2 from 'react-input-switch';
+import Copyright from './Components/Blog/Copyright';
+import parse from 'html-react-parser';
 class App extends Component {
   constructor(props){
     super(props);
@@ -21,7 +24,8 @@ class App extends Component {
       appBackClr: "white",
       counter: 0,
       switchValue2: false,
-      articles: resumeData.blog.articles
+      articles: resumeData.blog.articles,
+      copyright: resumeData.blog.copyright
     };
     this.handleChange = this.handleChange.bind(this);
   }
@@ -55,6 +59,7 @@ class App extends Component {
               <Article articleNo={i} articles={this.state.articles} blogHeader={resumeData.blog.header} copyright={resumeData.blog.copyright} appClr={this.state.appClr}/>
             </Route>
     });
+    var copyLink = parse(this.state.copyright.copyLink);
     return (
       <Router>
       <div className="App" style={{backgroundColor: this.state.appBackClr}}>
@@ -79,19 +84,23 @@ class App extends Component {
         />
         </div>
         <div className="container">
-        <Switch>
-          <Route exact path="/">
-            <Home homeData={this.state.homeData} appClr={this.state.appClr} counter={this.state.counter}/>
-          </Route>
-          <Route exact path="/newsletter">
-            <News social={this.state.homeData.social} appClr={this.state.appClr} colors={this.state.homeData.colors}/>
-          </Route>
-          <Route path="/blog">
-            <Blog blogData={resumeData.blog} appClr={this.state.appClr}/>
-          </Route>
-          {articleRoutes}
-        </Switch>
+          <Switch>
+            <Route exact path="/">
+              <Home homeData={this.state.homeData} blogData={resumeData.blog} appClr={this.state.appClr} counter={this.state.counter}/>
+            </Route>
+            <Route exact path="/newsletter">
+              <News social={this.state.homeData.social} appClr={this.state.appClr} colors={this.state.homeData.colors}/>
+            </Route>
+            <Route path="/blog">
+              <Blog blogData={resumeData.blog} appClr={this.state.appClr}/>
+            </Route>
+            {articleRoutes}
+          </Switch>
+          <footer>
+            <Copyright year={this.state.copyright.year} link={copyLink}/>
+          </footer>
         </div>
+        
       </div>
     </Router>
     );

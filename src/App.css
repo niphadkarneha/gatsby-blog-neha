@@ -258,6 +258,17 @@ a:hover{
  margin-bottom: 2.625rem;
  margin-top: 0;
 }
+.backLink{
+  font-size: 1rem;
+  position: fixed;
+  left: 20px;
+  top: 15px;
+  cursor: pointer;
+  font-family: "Roboto Mono", monospace;
+ }
+ .backLink:hover{
+   font-weight: bold !important;
+ }
 .headerDetail{
  display: flex;
  margin-bottom: 4.375rem;
@@ -397,4 +408,7 @@ a:hover{
  justify-content: space-between;
  list-style: none;
  padding: 0;
+}
+footer{
+  padding-top: 50px;
 }

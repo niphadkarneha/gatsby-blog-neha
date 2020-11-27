@@ -16,7 +16,7 @@ class Social extends Component {
     var socials="";
     socials = this.state.social.map((social, i) => {
       var colorVal = this.getRandomInt(4);
-      return <a href={social.url} key={i} className={this.state.hoverSocial} style={{color: this.props.colors[colorVal]}} onMouseEnter={() => this.mouseEnter(i)}>{social.name}</a>
+      return <a href={social.url} key={i} target={social.name!='blog'?"_blank":""} className={this.state.hoverSocial} style={{color: this.props.colors[colorVal]}} onMouseEnter={() => this.mouseEnter(i)}>{social.name}</a>
     });
     return (
       <div className="links">

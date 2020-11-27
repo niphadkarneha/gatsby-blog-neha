@@ -48,6 +48,7 @@ class Article extends Component {
     var copyLink = parse(this.state.copyright.copyLink);
     return (
         <div className="article" style={{color: this.props.appClr}}>
+            <a className="backLink" href="/blog">View all blogs</a>
             <header>
                 <h3>
                     <a href="/blog">{this.props.blogHeader.title}</a>

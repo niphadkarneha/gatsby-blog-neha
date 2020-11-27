@@ -27,18 +27,16 @@ class Blog extends Component {
     });
     var copyLink = parse(this.state.copyright.copyLink);
     return (
-      <div className="blog" style={{color: this.props.appClr}}>
-        <header>
-          <h1 className="headerTitle">{this.state.header.title}</h1>
-          <Bloginfo avatarLink={avatarLink} headerDescription={headerDescription}/>
-        </header>
-        <main>
-          {articles}
-        </main>
-        <footer>
-          <Copyright year={this.state.copyright.year} link={copyLink}/>
-        </footer>
-      </div>
+        <div className="blog" style={{color: this.props.appClr}}>
+          <a className="backLink" href="/">Back to Home Page</a>
+          <header>
+            <h1 className="headerTitle">{this.state.header.title}</h1>
+            <Bloginfo avatarLink={avatarLink} headerDescription={headerDescription}/>
+          </header>
+          <main>
+            {articles}
+          </main>
+        </div>
     );
   }
 }

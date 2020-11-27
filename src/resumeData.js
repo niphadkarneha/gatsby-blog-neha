@@ -219,7 +219,7 @@ export const resumeData  = {
     ],
     "copyright":{
       "year": "2020",
-      "copyLink": "<a href='https://www.gatsbyjs.org'>Neha N.</a>"
+      "copyLink": "<a href='https://www.nehaniphadkar.in'>Neha N</a>"
     }
   }
 };
