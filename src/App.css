@@ -295,7 +295,7 @@ a:hover{
   font-weight: inherit;
 }
 .blog article{
-  margin-bottom: 50px;
+  /* margin-bottom: 50px; */
 }
 .article{
  font: 100%/1.75 'Merriweather','Georgia',serif;

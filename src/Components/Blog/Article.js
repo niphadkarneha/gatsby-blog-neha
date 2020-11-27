@@ -73,9 +73,6 @@ class Article extends Component {
                     </ul>
                 </nav>
             </main>
-            <footer>
-                <Copyright year={this.state.copyright.year} link={copyLink}/>
-            </footer>
         </div>
     );
   }
