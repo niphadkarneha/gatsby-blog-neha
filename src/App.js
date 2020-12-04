@@ -20,8 +20,8 @@ class App extends Component {
     this.state = {
       homeData: resumeData.home,
       switchChecked: false,
-      appClr: "black",
-      appBackClr: "white",
+      appClr: "white",
+      appBackClr: "black",
       counter: 0,
       switchValue2: false,
       articles: resumeData.blog.articles,
@@ -101,7 +101,7 @@ class App extends Component {
             <Copyright year={this.state.copyright.year} link={copyLink} appClr={this.state.appClr}/>
           </footer>
         </div>
-        
+
       </div>
     </Router>
     );
