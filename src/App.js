@@ -40,16 +40,16 @@ class App extends Component {
   handleChange = (switchChecked) =>{
     this.setState({
       switchChecked,
-      appClr: switchChecked?"white":"black",
-      appBackClr: switchChecked?"black":"white"
+      appClr: switchChecked?"black":"white",
+      appBackClr: switchChecked?"white":"black"
     });
   }
   setValue = () => {
     var prevVal = this.state.switchValue2;
     this.setState({
       switchValue2: prevVal?false:true,
-      appClr: prevVal?"black":"white",
-      appBackClr: prevVal?"white":"black"
+      appClr: prevVal?"white":"black",
+      appBackClr: prevVal?"black":"white"
     });
   }
   render() {
