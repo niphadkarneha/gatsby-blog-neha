@@ -1,8 +1,8 @@
 export const resumeData  = {
   "home": {
     "header": {
-      "name":"Neha N",
-      "job": "Data Analyst at MAP Communications",
+      "name":"Neha N [ne-haa]",
+      "job": "Data Analyst at MAP Communications, Inc.",
       "image": "neha.jpg"
     },
     "social": [
@@ -24,7 +24,6 @@ export const resumeData  = {
       {
         "name":"github",
         "url":"https://github.com/niphadkarneha",
-        "target":"_blank",
         "className":"fa fa-github"
       },
       // {
@@ -42,17 +41,17 @@ export const resumeData  = {
         "url":"mailto:niphadkarneha@gmail.com",
         "className":"fa fa-skype"
       },
-      {
-        "name":"blog",
-        "url":"/blog",
-        "className":"fa fa-linkedin"
-      },
+      // {
+      //   "name":"blog",
+      //   "url":"/blog",
+      //   "className":"fa fa-linkedin"
+      // },
     ],
     "about":[
       {
         "title" : "short",
         "class": "show",
-        "content": "Hi there! My name is Neha and I'm a Data Analyst 👩‍💻 at <a href='https://www.mapcommunications.com/'>MAP Communications, Inc</a>. I studied Computer Science at the Old Dominion University. Recently I've been working with building interactive dashboards using cube.js, Power BI, Logi Analytics, SAP Crystal Reports. Apart from the world of computers, I Travel (Passionately), Read (Exclusively), and Write (Periodically). "
+        "content": "Hi there! My name is Neha and I'm a Data Analyst 👩‍💻 at <a href='https://www.mapcommunications.com/'>MAP Communications, Inc</a>. I studied Computer Science at the Old Dominion University. Recently I've been working with building interactive dashboards using cube.js, Power BI, Logi Analytics, SAP Crystal Reports."
       }
       //,
       // {
