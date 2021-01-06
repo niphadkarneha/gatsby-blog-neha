@@ -1,7 +1,7 @@
 export const resumeData  = {
   "home": {
     "header": {
-      "name":"Neha N [ne-haa]",
+      "name":"Neha [ne-haa]",
       "job": "Data Analyst at MAP Communications, Inc.",
       "image": "neha.jpg"
     },
@@ -41,11 +41,11 @@ export const resumeData  = {
         "url":"mailto:niphadkarneha@gmail.com",
         "className":"fa fa-skype"
       },
-      // {
-      //   "name":"blog",
-      //   "url":"/blog",
-      //   "className":"fa fa-linkedin"
-      // },
+      {
+        "name":"blog",
+        "url":"/blog",
+        "className":"fa fa-linkedin"
+      },
     ],
     "about":[
       {
