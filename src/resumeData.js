@@ -88,6 +88,10 @@ export const resumeData  = {
         "content": `<p>Books</p>
         <ol>
         <li><a href="https://www.goodreads.com/book/show/18003300-love-misadventure">Love & Misadventure by Lang Leav ❤️</a></li>
+        <p>Writing, specifically poetry to me is subjective. What struck me about this book is how Lang Leav's poems are all the definition of bite-sized. They're easy read.
+        If you can relate to the poems, you'll love this collection. If not, you will be probably find it too simplistic.
+        </p>
+
         <li><a href="https://www.goodreads.com/book/show/22151696-lullabies">Lullabies by Lang Leav - Currently reading 📖</li>
         </ol>
 `
