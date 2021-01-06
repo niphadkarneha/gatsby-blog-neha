@@ -130,7 +130,7 @@ export const resumeData  = {
       // }
     ],
     "copyright":{
-      "year": "2020",
+      "year": "2021",
       "copyLink": "<a href='https://www.nehaniphadkar.in'>Neha N</a>"
     }
   }
