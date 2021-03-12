@@ -81,9 +81,9 @@ export const resumeData  = {
     "articles":[
       {
         "title": "Reading List",
-        "date": "January, 2021",
+        "date": "Updated: March, 2021",
         "link": "new-beginnings",
-        "short": "Set out to read 1 book every two weeks, so well, here we go 🙃",
+        "short": "🙃",
         "header": "Books",
         "content": `<p>Books</p>
         <ol>
@@ -101,7 +101,8 @@ export const resumeData  = {
         <li><a href="https://aiethics.princeton.edu/case-studies/case-study-pdfs/">Case Studies by Princeton University.</a></li>
         </ul>
 
-        <li><a href="https://www.goodreads.com/book/show/22151696-lullabies">Lullabies by Lang Leav - Currently reading 📖</li>
+        <li><a href="https://www.goodreads.com/book/show/22151696-lullabies">Lullabies by Lang Leav</li>
+        <li><a href="https://www.goodreads.com/book/show/22245334-the-utopia-of-rules">The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy by David Graeber - Currently reading 📖</li>
         </ol>
 `
       }
