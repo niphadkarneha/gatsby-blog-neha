@@ -92,7 +92,7 @@ export const resumeData  = {
         If you can relate to the poems, you'll love this collection. If not, you will be probably find it too simplistic.
         </p>
 
-        <li><a href="https://www.google.com/books/edition/Ethics_and_Data_Science/UXHKDwAAQBAJ?hl=en&gbpv=1&dq=eTHICS+AND+DATA+SCIENCE&printsec=frontcover">Ethics and Data Science by Book by DJ Patil, Hilary Mason, and Mike Loukides.</a></li>
+        <li><a href="https://www.google.com/books/edition/Ethics_and_Data_Science/UXHKDwAAQBAJ?hl=en&gbpv=1&dq=eTHICS+AND+DATA+SCIENCE&printsec=frontcover">Ethics and Data Science a Book by DJ Patil, Hilary Mason, and Mike Loukides.</a></li>
         <p>The importance of this book or rather the topics it covers cannot be overstated. This book is a short read and is available for free. Dr. DJ Patil et. al. are inspirational figures
         in the world of Data and Ethics. As I read this book, I came across useful casestudies related to tech. While in school, I too worked on healthcare mobile data application and even though
         the application was designed to meet HIPPA complaince, I never full understood the extent of collecting data from the point of view of consent. I've mentioned the link for the case casestudies
