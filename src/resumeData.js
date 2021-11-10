@@ -3,7 +3,7 @@ export const resumeData  = {
     "header": {
       "name":"Neha She/Her.",
       "job": "Data Analyst at MAP Communications, Inc.",
-      "image": "neha.jpg"
+      "image": "neha_newyork.jpg"
     },
     "social": [
       {
