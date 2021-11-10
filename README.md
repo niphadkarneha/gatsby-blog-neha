@@ -16,5 +16,5 @@ Also, I'd like you to meet Leo, little 10 pound monster who keeps me on my toes 
 
 
 I also volunteer as a Web applications developer and tester for the local 757-Group. 
-I'm also an incoming faculty member at the Christopher Newport University in Spring 2022.
+I am also an incoming faculty member at [Christopher Newport University](https://cnu.edu) where I would be teaching Business Intelligence and Data Analytics with R in Spring 2022.
 
