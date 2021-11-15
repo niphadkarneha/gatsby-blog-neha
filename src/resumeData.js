@@ -2,7 +2,7 @@ export const resumeData  = {
   "home": {
     "header": {
       "name":"Neha She/Her.",
-      "job": "Data Analyst at MAP Communications, Inc.",
+      "job": "MAP Communications, Inc.",
       "image": "neha_newyork.jpg"
     },
     "social": [
@@ -51,7 +51,7 @@ export const resumeData  = {
       {
         "title" : "short",
         "class": "show",
-        "content": "Hi there! My name is Neha and I'm a Data Analyst 👩‍💻 at <a href='https://www.mapcommunications.com/'>MAP Communications, Inc</a>. I studied Computer Science at the Old Dominion University. Recently I've been working with building interactive dashboards using cube.js, Power BI, Logi Analytics, SAP Crystal Reports."
+        "content": "Hi there! My name is Neha and I work for 👩‍💻 <a href='https://www.mapcommunications.com/'>MAP Communications, Inc</a>. I studied Computer Science at the Old Dominion University. Recently I've been working with building interactive dashboards using JavaScript, REST API call based Power BI Dashboards, Logi Analytics, SAP Crystal Reports."
       }
       //,
       // {
