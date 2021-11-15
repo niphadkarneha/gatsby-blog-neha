@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Hello, World 😀
 
-I'm a Data Enthusiast and I work for [MAP Communications, Inc](https://www.mapcommunications.com) in Virginia. I stumble into coding ever so often. I studied Computer Science at [Tidewater Community College](https://www.tcc.edu) and [Old Dominion University](https://www.odu.edu/compsci).
+I work for [MAP Communications, Inc](https://www.mapcommunications.com) in Virginia. I stumble into coding ever so often. I studied Computer Science at [Tidewater Community College](https://www.tcc.edu) and [Old Dominion University](https://www.odu.edu/compsci).
 
 At MAP my day to day activities involve building interactive dashboards, creating comprehensive reports, and automating processes in order to save valuable human hours.
 
