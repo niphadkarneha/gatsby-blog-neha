@@ -75,13 +75,13 @@ export const resumeData  = {
   "blog": {
     "header":{
       "title": "Neha's Blog",
-      "description": "Written by <strong>Neha N.</strong> who lives and works in Hampton Roads building useful things. <a href='https://twitter.com/NiphadkarNeha'>You should follow her on Twitter</a>",
+      "description": "Written by <strong>Neha N.</strong> who lives and works in Hampton Roads. <a href='https://twitter.com/NiphadkarNeha'>You should follow her on Twitter</a>",
       "avatar": "neha_n.jpg"
     },
     "articles":[
       {
         "title": "Reading List",
-        "date": "Updated: March, 2021",
+        "date": "Updated: February, 2022",
         "link": "new-beginnings",
         "short": "🙃",
         "header": "Books",
@@ -144,7 +144,7 @@ export const resumeData  = {
       // }
     ],
     "copyright":{
-      "year": "2021",
+      "year": "2022",
       "copyLink": "<a href='https://www.nehaniphadkar.in'>Neha N</a>"
     }
   }
