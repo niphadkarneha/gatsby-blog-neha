@@ -75,7 +75,7 @@ export const resumeData  = {
   "blog": {
     "header":{
       "title": "Neha's Blog",
-      "description": "Written by <strong>Neha N.</strong> who lives and works in Hampton Roads. <a href='https://twitter.com/NiphadkarNeha'>You should follow her on Twitter</a>",
+      "description": "Written by <strong>Neha N.</strong> who lives and works in Hampton Roads.",
       "avatar": "neha_n.jpg"
     },
     "articles":[
@@ -87,22 +87,12 @@ export const resumeData  = {
         "header": "Books",
         "content": `<p>Books</p>
         <ol>
+        <li><a href="https://www.goodreads.com/book/show/14572.Peace_Is_Every_Step">Peace Is Every Step by Thich Nhat Hanh</a></li>
         <li><a href="https://www.goodreads.com/book/show/18003300-love-misadventure">Love & Misadventure by Lang Leav ❤️</a></li>
-        <p>All forms of writing, specially poetry is subjective. What struck me about this book is how Lang Leav's poems are all the definition of bite-sized. They're easy read.
-        If you can relate to the poems, you'll love this collection. If not, you will be probably find it too simplistic.
-        </p>
-
         <li><a href="https://www.google.com/books/edition/Ethics_and_Data_Science/UXHKDwAAQBAJ?hl=en&gbpv=1&dq=eTHICS+AND+DATA+SCIENCE&printsec=frontcover">Ethics and Data Science a Book by DJ Patil, Hilary Mason, and Mike Loukides.</a></li>
-        <p>The importance of this book or rather the topics it covers cannot be overstated. This book is a short read and is available for free. Dr. DJ Patil et. al. are inspirational figures
-        in the world of Data and Ethics. As I read this book, I came across useful casestudies related to tech. While in school, I too worked on healthcare mobile data application and even though
-        the application was designed to meet HIPPA complaince, I never full understood the extent of collecting data from the point of view of consent. I've mentioned the link for the case casestudies
-        published by Princeton University.</p>
-        <ul>
         <li><a href="https://aiethics.princeton.edu/case-studies/case-study-pdfs/">Case Studies by Princeton University.</a></li>
-        </ul>
-
         <li><a href="https://www.goodreads.com/book/show/22151696-lullabies">Lullabies by Lang Leav</li>
-        <li><a href="https://www.goodreads.com/book/show/22245334-the-utopia-of-rules">The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy by David Graeber - Currently reading 📖</li>
+        <li><a href="https://www.goodreads.com/book/show/22245334-the-utopia-of-rules">The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy by David Graeber.</li>
         </ol>
 `
       }
