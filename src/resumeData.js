@@ -76,7 +76,7 @@ export const resumeData  = {
     "header":{
       "title": "Neha's Blog",
       "description": "Written by <strong>Neha N.</strong> who lives and works in Hampton Roads.",
-      "avatar": "neha_n.jpg"
+      "avatar": "neha_newyork.jpg"
     },
     "articles":[
       {
