@@ -51,7 +51,7 @@ export const resumeData  = {
       {
         "title" : "short",
         "class": "show",
-        "content": "Hi there! My name is Neha and I work for 👩‍💻 <a href='https://www.mapcommunications.com/'>MAP Communications, Inc</a>. I studied Computer Science at the Old Dominion University. Recently I've been working with building interactive dashboards using JavaScript, REST API call based Power BI Dashboards, Logi Analytics, SAP Crystal Reports."
+        "content": "Hi there! I'm a Data and Business Analyst at 👩‍💻 <a href='https://www.mapcommunications.com/'>MAP Communications, Inc</a>. I studied Computer Science at the Old Dominion University. Recently I've been working with building interactive dashboards using PowerBI, Logi Analytics, and SAP Crystal Reports."
       }
       //,
       // {
