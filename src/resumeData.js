@@ -2,7 +2,7 @@ export const resumeData  = {
   "home": {
     "header": {
       "name":"Neha She/Her.",
-      "job": "MAP Communications, Inc.",
+      "job": "Old Dominion University",
       "image": "neha_newyork.jpg"
     },
     "social": [
@@ -51,7 +51,8 @@ export const resumeData  = {
       {
         "title" : "short",
         "class": "show",
-        "content": "Hi there! I'm a Data and Business Analyst at 👩‍💻 <a href='https://www.mapcommunications.com/'>MAP Communications, Inc</a>. I studied Computer Science at the Old Dominion University. I'm a data enthusiast at heart and love building dashboards using PowerBI, Logi Analytics, and SAP Crystal Reports."
+        "content": "Hi there! I'm a Data Analyst at 👩‍💻 <a href='https://www.odu.edu/acadaffairs/directory'>Old Dominion University with the Department of Academic Affairs </a>. Prior to joining ODU, I worked as a Data Analyst at MAP Communications, Inc where I worked with PowerBI, Logi Analytics, and SAP Crystal Reports.
+         "
       }
       //,
       // {
