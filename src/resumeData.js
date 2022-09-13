@@ -51,8 +51,7 @@ export const resumeData  = {
       {
         "title" : "short",
         "class": "show",
-        "content": "Hi there! I'm a Data Analyst at 👩‍💻 <a href='https://www.odu.edu/acadaffairs/directory'>Old Dominion University with the Department of Academic Affairs </a>. Prior to joining ODU, I worked as a Data Analyst at MAP Communications, Inc where I worked with PowerBI, Logi Analytics, and SAP Crystal Reports.
-         "
+        "content": "Hi there! I'm a Data Analyst at 👩‍💻 <a href='https://www.odu.edu/acadaffairs/directory'>Old Dominion University with the Department of Academic Affairs </a>. Prior to joining ODU, I worked as a Data Analyst at MAP Communications, Inc where I worked with PowerBI, Logi Analytics, and SAP Crystal Reports."
       }
       //,
       // {
