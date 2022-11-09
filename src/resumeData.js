@@ -135,7 +135,7 @@ export const resumeData  = {
     ],
     "copyright":{
       "year": "2022",
-      "copyLink": "<a href='https://www.nehaniphadkar.in'>Neha N</a>"
+      "copyLink": "<a href='https://www.odu.edu/directory/neha-niphadkar'>Neha N</a>"
     }
   }
 };
