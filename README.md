@@ -2,7 +2,7 @@
 
 # Hello, World 😀
 
-I'm a Data Analyst at [Old Dominion University](https://www.odu.edu/directory/people/n/nniph001) working for the Department of Academic Affairs in Norfolk, Virginia. I stumble into coding ever so often. I studied Computer Science at [Tidewater Community College](https://www.tcc.edu) and [Old Dominion University](https://www.odu.edu/compsci).
+I'm a Data Analytics Manager at [Old Dominion University](https://www.odu.edu/directory/people/n/nniph001) working for Digital Transformation and Technology in Norfolk, Virginia. I stumble into coding ever so often. I studied Computer Science at [Tidewater Community College](https://www.tcc.edu) and [Old Dominion University](https://www.odu.edu/compsci).
 
 I love traveling, reading, taking photos, and musicals (Bollywood Buff). I'm learning how to play a guitar 🎸 and a keyboard 🎹 . My resume is available if you want to be all formal and the usual stuff ⬇
 
