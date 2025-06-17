@@ -6,4 +6,4 @@ I studied Computer Science at Tidewater Community College and Old Dominion Unive
 
 And if you're here for the fun stuff... meet Leo — my 10-pound sidekick and lovable chaos agent who keeps me on my toes. 🐾
 
-Also, I'd like you to meet Leo, little 10 pound monster who keeps me on my toes <img src="./leo.jpg" width="700" height="850">
+Also, I'd like you to meet Leo, my little 10 pound monster who keeps me on my toes <img src="./leo.jpg" width="700" height="850">
