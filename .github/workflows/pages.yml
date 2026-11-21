@@ -1,0 +1,43 @@
+name: GitHub Pages
+
+on:
+  pull_request:
+  push:
+    branches: [master, main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci --legacy-peer-deps
+      - run: npm run build
+        env:
+          # react-scripts 3 uses Webpack 4, which needs this with OpenSSL 3.
+          NODE_OPTIONS: --openssl-legacy-provider
+      - name: Add fallback for direct visits to React Router URLs
+        run: cp build/index.html build/404.html
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: build
+
+  deploy:
+    if: github.event_name != 'pull_request' && github.event.repository.name == format('{0}.github.io', github.repository_owner) && github.ref_name == github.event.repository.default_branch
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    concurrency:
+      group: github-pages
+    environment:
+      name: github-pages
+    steps:
+      - uses: actions/deploy-pages@v4
